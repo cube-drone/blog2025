@@ -3,7 +3,7 @@ title = 'wine touring'
 date = 2025-03-21T09:00:00-07:00
 draft = false
 categories = ["canada", "food"]
-tags = []
+tags = ["wine", "vacation"]
 +++
 
 okay but actually what the hell am I, a person who doesn't like going outside, supposed to do in Canada on vacation
