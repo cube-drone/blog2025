@@ -1,14 +1,25 @@
 
-/**
+/*
 Okay Tailwind I can put my own quotes in for blockquotes
 please stop adding your own.
-**/
+*/
 .prose :where(blockquote p:first-of-type):not(:where([class~="not-prose"], [class~="not-prose"] *))::before {
   content: none !important;
 }
 .prose :where(blockquote p:last-of-type):not(:where([class~="not-prose"], [class~="not-prose"] *))::after {
   content: none !important;
 }
+
+/*
+It adds its own backticks around code blocks? Gross. Don't do that either.
+*/
+.prose :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *))::before {
+    content: none !important;
+}
+.prose :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *))::after {
+    content: none !important;
+}
+
 
 /*
 Default style pads the list elements too much
