@@ -37,6 +37,10 @@ enableRobotsTXT = true
     name = 'Books'
     pageRef = '/books'
     weight = 40
+  [[menus.main]]
+    name = 'Videos'
+    pageRef = '/videos'
+    weight = 50
 
 [markup]
   [markup.highlight]

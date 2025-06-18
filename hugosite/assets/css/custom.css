@@ -9,3 +9,11 @@ please stop adding your own.
 .prose :where(blockquote p:last-of-type):not(:where([class~="not-prose"], [class~="not-prose"] *))::after {
   content: none !important;
 }
+
+/*
+Default style pads the list elements too much
+*/
+.prose :where(li):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}

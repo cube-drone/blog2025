@@ -1,0 +1,56 @@
+{{ define "main" }}
+  <article class="main">
+    {{- with .Title }}
+      <header>
+        <h1 class="!mb-1">{{ . }}</h1>
+      </header>
+    {{ end -}}
+    {{- with .Content }}
+      {{ . }}
+    {{ end -}}
+  </article>
+
+  {{- if default true site.Params.home.showRecentPosts }}
+    {{- $posts := where site.RegularPages "Section" "posts" -}}
+    {{- with $posts.Limit (int (default 3 site.Params.home.recentPostsLimit)) }}
+      <section>
+        <h2>==> last 3 blogsposts</h2>
+
+        {{ partial "posts/list.html" . }}
+      </section>
+    {{ end -}}
+  {{ end -}}
+
+  {{- if default true site.Params.home.showRecentNotes }}
+    {{- $notes := where site.RegularPages "Section" "notes" -}}
+    {{- with $notes.Limit (int (default 5 site.Params.home.recentNotesLimit)) }}
+      <section>
+        <h2>==> last 5 toots</h2>
+
+        {{ partial "notes/list.html" . }}
+      </section>
+    {{ end -}}
+  {{ end -}}
+
+  {{- if default true site.Params.home.showRecentPosts }}
+    {{- $posts := where site.RegularPages "Section" "videos" -}}
+    {{- with $posts.Limit (int (default 1 site.Params.home.recentPostsLimit)) }}
+      <section>
+        <h2>==> last video</h2>
+
+        {{ partial "videos/list.html" . }}
+      </section>
+    {{ end -}}
+  {{ end -}}
+
+  {{- if default true site.Params.home.showRecentPosts }}
+    {{- $posts := where site.RegularPages "Section" "books" -}}
+    {{- with $posts.Limit (int (default 3 site.Params.home.recentPostsLimit)) }}
+      <section>
+        <h2>==> last book</h2>
+
+        {{ partial "books/list.html" . }}
+      </section>
+    {{ end -}}
+  {{ end -}}
+{{ end }}
