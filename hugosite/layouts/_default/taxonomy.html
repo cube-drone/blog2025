@@ -8,14 +8,6 @@
         {{ partial "posts/list.html" . }}
       </section>
     {{ end }}
-    {{- $notes := where .RegularPages "Section" "notes" -}}
-    {{ with $notes }}
-      <section>
-        <h2>notes ==> {{ $.Title }}</h2>
-
-        {{ partial "notes/list.html" . }}
-      </section>
-    {{ end }}
     {{- $videos := where .RegularPages "Section" "videos" -}}
     {{ with $videos }}
       <section>
@@ -30,6 +22,14 @@
         <h2>books ==> {{ $.Title }}</h2>
 
         {{ partial "books/list.html" . }}
+      </section>
+    {{ end }}
+    {{- $notes := where .RegularPages "Section" "notes" -}}
+    {{ with $notes }}
+      <section>
+        <h2>notes ==> {{ $.Title }}</h2>
+
+        {{ partial "notes/list.html" . }}
       </section>
     {{ end }}
 

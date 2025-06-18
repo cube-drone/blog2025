@@ -9,5 +9,5 @@ tags = ["job job"]
 
 ".... uh, work study"
 
-{{< imgavif src="left.png" alt="pie chart" >}}
-{{< imgavif src="right.png" alt="pie chart" >}}
+![](./left.png)
+![](./right.png)
