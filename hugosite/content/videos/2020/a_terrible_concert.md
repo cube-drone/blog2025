@@ -32,4 +32,6 @@ Here's another, later concert from a slightly later build:
 bwxoEuT1zRA
  >}}
 
+There's a little special song at 13:50 that is _one of the worst things the engine has ever composed_.
+
 Whenever I played this for anybody who was at all interested in music they were actively mad at me for _doing this to music_.

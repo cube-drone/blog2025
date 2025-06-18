@@ -1,5 +1,5 @@
 +++
-title = 'Zooted'
+title = 'Zooted Pope'
 date = 2025-05-09T09:00:00-07:00
 draft = false
 categories = ["humor", "comics"]
