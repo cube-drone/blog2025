@@ -1,0 +1,14 @@
+{{- $main := resources.Get "css/index.css" }}
+{{- $override := resources.Get "css/custom.css" }}
+
+{{- if eq hugo.Environment "development" }}
+  <link rel="stylesheet" href="{{ $main.RelPermalink }}">
+  <link rel="stylesheet" href="{{ $override.RelPermalink }}">
+{{- else }}
+  {{- with $main | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+  {{- end }}
+  {{- with $override | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+  {{- end }}
+{{- end }}
