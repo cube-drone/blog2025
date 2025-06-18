@@ -6,11 +6,11 @@ categories = ["humor"]
 tags = ["bdg"]
 +++
 
-## The Best Episode of Unraveled, As Determined By Science
-
-![](./unraveled-1.png)
+{{< imgavif src="unraveled-1.png" alt="BDG" >}}
 
 _I watched all 29 episodes of Unraveled so that I can tell you, scientifically, which episode of Unraveled is the best episode of Unraveled._
+
+<!--more-->
 
 Now, the ideal way to deliver this content would be while wearing a fashionable suit, in front of a large pinboard of some kind, but this won't work for me. Unfortunately, both my body and camera equipment are terrible, and I do not own a fashionable suit.
 
