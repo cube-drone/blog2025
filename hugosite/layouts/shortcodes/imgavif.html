@@ -2,7 +2,7 @@
 {{ $img := .Page.Resources.GetMatch (.Get "src") }}
 {{ with $img }}
   {{ $webp := .Resize (print "800x webp q100") }}
-  <img src="{{ $webp.RelPermalink }}" alt="{{ $ctx.Get "alt" | default "" }}" loading="lazy">
+  <img src="{{ $webp.RelPermalink }}" alt="{{ $ctx.Get "alt" | default "" }}" title="{{ $ctx.Get "title" | default "" }}" loading="lazy">
 {{ else }}
   <strong>⚠️ Image not found: {{ .Get "src" }} </strong>
   <p> You might want: </p>

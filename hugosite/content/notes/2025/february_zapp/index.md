@@ -7,3 +7,11 @@ tags = []
 +++
 
 {{< imgwebp src="zapp.png" >}}
+
+{{< imgwebp src="zapp-2.png" >}}
+
+for the last few days Zapp has been sitting on my lap for hours each night, which is good for the soul but bad for the productivity
+
+and also the circulation in my legs
+
+{{< imgwebp src="zapp-3.png" >}}
