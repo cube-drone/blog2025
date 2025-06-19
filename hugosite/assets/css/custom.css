@@ -28,3 +28,13 @@ Default style pads the list elements too much
     margin-top: 0 !important;
     margin-bottom: 0 !important;
 }
+
+.prose :where(li):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+ol li p, ul li p{
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
+}
