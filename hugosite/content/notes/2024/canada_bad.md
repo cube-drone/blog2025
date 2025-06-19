@@ -3,7 +3,7 @@ title = 'Canada bad'
 date = 2024-11-23T12:00:00-07:00
 draft = false
 categories = ["canada"]
-tags = ["cbc"]
+tags = ["cbc", "acab"]
 +++
 
 https://www.cbc.ca/news/canada/north/nunavik-dog-slaughter-apology-1.7391834

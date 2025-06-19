@@ -3,7 +3,7 @@ title = 'AI D&D Character Sketches'
 date = 2025-03-30T11:00:00-07:00
 draft = false
 categories = ["rpg", "technology"]
-tags = ["ai"]
+tags = ["ai", "D&D"]
 +++
 
 So, I asked ChatGPT to take my character designs for my D&D players out of my cartoony style and re-render them in a more painterly fantasy style, and honestly it's... pretty good.

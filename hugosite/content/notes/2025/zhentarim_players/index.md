@@ -3,7 +3,7 @@ title = 'my players have aligned with the local mafia'
 date = 2025-03-13T12:00:00-07:00
 draft = false
 categories = ["rpg"]
-tags = ["zhentarim", "acab"]
+tags = ["zhentarim", "acab", "D&D"]
 +++
 
 So, I made a dungeons and dragons mistake.
