@@ -1,5 +1,5 @@
 +++
-title = 'Neverender'
+title = 'Neverender is a Homage to Dirty Pair'
 date = 2025-06-15T12:00:00-07:00
 categories = ["music", "art", "media"]
 tags = ["anime"]
@@ -8,6 +8,8 @@ tags = ["anime"]
 So, this released a few years back:
 
 {{<youtube E7FU_mqhFGk>}}
+
+<!--more-->
 
 Beautiful, stunning animation, great sound, inspired by 80s anime.
 
