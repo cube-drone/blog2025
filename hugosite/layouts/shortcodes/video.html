@@ -1,0 +1,8 @@
+{{- $src := .Get "src" -}}
+{{- $poster := .Get "poster" -}}
+{{- $alt := .Get "alt" | default "Video content" -}}
+
+<video controls preload="metadata" {{ with $poster }}poster="{{ . }}"{{ end }}>
+  <source src="{{ $src }}" type="video/mp4">
+  {{ $alt }}
+</video>

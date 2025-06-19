@@ -1,4 +1,4 @@
-baseURL = 'https://cube-drone.com'
+baseURL = 'https://blog.cube-drone.com'
 languageCode = 'en-us'
 title = "Cube Drone Blog"
 copyright = 'Cube Drone' # Used in the footer copyright mention.
@@ -51,3 +51,6 @@ enableRobotsTXT = true
     [markup.goldmark.parser]
       [markup.goldmark.parser.attribute]
         block = true
+    # allow unsafe HTML (I trust ME, I'm me!)
+    [markup.goldmark.renderer]
+      unsafe = true
