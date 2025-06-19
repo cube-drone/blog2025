@@ -2,8 +2,12 @@
 title = 'Groovelet: Portable Mythology'
 date = 2025-06-15T22:06:56-07:00
 categories = ["writing", "rpg"]
-tags = ["integration tests", "testing"]
+tags = []
 +++
+
+{{<imgwebp src="fullcycle.png">}}
+
+<!--more-->
 
 > Let's imagine you need to crack together a world, or a story, or a video game.
 >
@@ -28,6 +32,5 @@ with another Groovelet on the opposite side of the wheel.
 > Think of this like someone rammed the Greek Gods, the Tarot, TVTropes, and the Dan Harmon Story
 Cycle all together into one short, easy-to-read document.
 >
-> ![](./fullcycle.png)
 
 [Read The Full Book Here](https://groovelet.com/gpm-book/)
