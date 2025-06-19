@@ -2,7 +2,7 @@
 title = 'threats'
 date = 2025-05-13T11:00:00-07:00
 categories = ["humor", "software"]
-tags = ["security", "stolen tweets"]
+tags = ["security", "stolen tweets", "you fucked up a perfectly good"]
 +++
 
 {{< imgavif src="threats.png" alt="you fucked up a perfectly good monkey is what you did" >}}

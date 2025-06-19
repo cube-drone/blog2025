@@ -1,7 +1,7 @@
 +++
 title = 'The CBC Would Like to Remind You'
 date = 2025-06-15T22:08:28-07:00
-categories = ["humor", "canada"]
+categories = ["humor", "canada", "real news"]
 tags = ["poopin", "misfortune"]
 +++
 
