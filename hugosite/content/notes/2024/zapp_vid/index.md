@@ -15,3 +15,9 @@ I’ve set up a new cat zone right next to my work computer with the softest bla
 just pictures of this cat living his best life make me happy to look at
 
 ![](./chill.png)
+
+-----
+
+Tiff is out of town for a few days, which is emotionally devastating for our cat:
+
+{{<video src="wheel.mp4">}}
