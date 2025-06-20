@@ -6,6 +6,10 @@ categories = ["food"]
 tags = ["iced tea"]
 +++
 
+_I'm a capable bartender, but almost all of that knowledge has instead found its way into my true vice: a potent homemade iced tea lemonade that I can drink gallons of._
+
+<!--more-->
+
 I know I've talked about iced tea before, because I _care a lot about iced tea_, I firmly believe that a lemonade iced tea
 (an "Arnold Palmer", technically, because sometimes if you ask for an "Iced Tea" you just get cold tea, which is fine but
 it is not what I am talking about) is the greatest beverage that exists.
