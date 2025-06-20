@@ -1,6 +1,6 @@
 +++
 title = "how I read"
-date = 2024-03-09T11:00:00-07:00
+date = 2024-04-09T11:00:00-07:00
 draft = false
 categories = ["media"]
 tags = ["homestuck"]

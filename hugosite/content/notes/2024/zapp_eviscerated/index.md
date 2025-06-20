@@ -1,6 +1,6 @@
 +++
 title = "sick day"
-date = 2024-03-18T12:00:00-07:00
+date = 2024-04-18T12:00:00-07:00
 draft = false
 categories = ["zapp", "cat", "writing"]
 tags = ["steven universe"]

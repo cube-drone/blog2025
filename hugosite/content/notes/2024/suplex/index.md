@@ -1,6 +1,6 @@
 +++
 title = "a love letter to the suplex"
-date = 2024-03-06T11:00:00-07:00
+date = 2024-04-06T11:00:00-07:00
 draft = false
 categories = ["humor"]
 tags = []

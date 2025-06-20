@@ -1,6 +1,6 @@
 +++
 title = "Emulation Isn't Piracy"
-date = 2024-03-05T12:00:00-07:00
+date = 2024-04-05T12:00:00-07:00
 draft = false
 categories = ["technology", "video games"]
 tags = ["emulation"]

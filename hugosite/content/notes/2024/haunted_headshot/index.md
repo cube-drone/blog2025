@@ -1,6 +1,6 @@
 +++
 title = "boom, headshot"
-date = 2024-03-07T12:00:00-07:00
+date = 2024-04-07T12:00:00-07:00
 draft = false
 categories = ["humor"]
 tags = []
