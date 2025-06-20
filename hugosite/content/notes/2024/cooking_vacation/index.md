@@ -3,7 +3,7 @@ title = "Cooking Vacation"
 date = 2024-12-10T12:00:00-07:00
 draft = false
 categories = ["humor", "software", "work work"]
-tags = []
+tags = ["focus"]
 +++
 
 there needs to be an alternative to vacation called "quiet i'm cooking" where you take an at work vacation from meetings and other human interactions and actually get some shit done
