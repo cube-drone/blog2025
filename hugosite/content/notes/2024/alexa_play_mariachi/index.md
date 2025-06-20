@@ -52,3 +52,11 @@ I also won't wire things directly into the house, on the assumption that smart t
 I've thought of cheap tablet or raspberry pi shit, but ugh
 
 If someone out there knows of a plug-in-to-the-wall smart button platform out there, lmk
+
+------
+
+Getting Google Home to play a custom icecast stream is impossible.
+
+Getting Alexa to play a custom icecast stream took me 3 hours of debugging against a pretty gnarly Amazon interface, a lambda deployment, and TuneIn intervening to play mariachi music A NUMBER OF TIMES.
+
+... I'm pretty sure Alexa is better but my eyes hurt

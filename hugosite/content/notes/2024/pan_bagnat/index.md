@@ -2,7 +2,7 @@
 title = "Pan Bagnat"
 date = 2024-06-14T12:00:00-07:00
 draft = false
-categories = ["food"]
+categories = ["food", "wife"]
 tags = []
 +++
 

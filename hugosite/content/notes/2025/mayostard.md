@@ -2,7 +2,7 @@
 title = 'Mayostard'
 date = 2025-03-11T12:00:00-07:00
 draft = false
-categories = ["humor", "link"]
+categories = ["humor", "link", "wife"]
 tags = ["mayonnaise", "mustard"]
 +++
 

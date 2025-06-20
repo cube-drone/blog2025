@@ -2,7 +2,7 @@
 title = "Swarm, by E. James Hongle"
 date = 2024-11-04T12:00:00-07:00
 draft = false
-categories = ["art", "humor", "science fiction"]
+categories = ["art", "humor", "science fiction", "wife"]
 tags = []
 +++
 
