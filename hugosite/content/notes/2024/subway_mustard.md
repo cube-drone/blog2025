@@ -3,7 +3,7 @@ title = 'subway mustard'
 date = 2024-05-21T11:00:00-07:00
 draft = false
 categories = ["food", "conspiracy"]
-tags = []
+tags = ["subway"]
 +++
 
 Did you know that (at least where I live, in Canada) Subway briefly stopped carrying MUSTARD?
