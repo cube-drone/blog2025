@@ -2,7 +2,7 @@
 title = "Bengals"
 date = 2024-01-22T09:00:00-07:00
 draft = false
-categories = ["zapp", "cat"]
+categories = ["zapp", "cat", "vrchat"]
 tags = []
 +++
 
@@ -34,3 +34,31 @@ places where cat should be:
 ![](./2.png)
 ![](./3.png)
 ![](./4.png)
+
+
+------
+
+I always wonder how pets conceptualize human abilities, like, these soft magic giants can make it warm and bright... but they can't do it out THERE?
+
+do it out THERE I want to PEE and it's COLD
+
+
+-------
+
+I don't think that Zapp is necessarily the direct inspiration for VRChat's VRCat, but he joined our family in September of 2020 just while we were all crunching on VRChat+, I posted a LOT of adorable pictures to the work Slack, and VRChat+ shipped that Christmas, it's definitely _possible_ that I helped to establish the idea of "cat" firmly in the team's head.
+
+![](./vrcat1.png)
+![](./vrcat2.png)
+
+-------
+
+An instance of the much-vaunted tail-wrap caught in the wild:
+
+![](./tailwrap.png)
+
+-------
+
+Look at this mug
+
+![](./mug1.png)
+![](./mug2.png)

@@ -15,3 +15,10 @@ so I'm officially past the point where I'm closer to the end of Unix time than I
 we're only 14 years away from the end of time as we know it
 
 by then, it probably won't matter, but I still plan to hold a real party for the end of time
+
+
+------
+
+basically any computers and any software - post 2005 - are going to be immune to the 2038 problem
+
+which means that most governments and banks are completely screwed

@@ -2,7 +2,7 @@
 title = "iron chef"
 date = 2024-01-13T11:00:00-07:00
 draft = false
-categories = ["food", "media", "recommendations"]
+categories = ["food", "media", "recommendations", "humor"]
 tags = []
 +++
 

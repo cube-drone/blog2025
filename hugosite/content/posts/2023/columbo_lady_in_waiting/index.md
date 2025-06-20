@@ -2,7 +2,7 @@
 title = "Columbo's Lady In Waiting"
 date = 2023-06-10T12:00:00-07:00
 draft = false
-categories = ["media"]
+categories = ["media", "humor"]
 tags = ["columbo"]
 +++
 
