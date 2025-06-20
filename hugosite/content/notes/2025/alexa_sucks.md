@@ -3,7 +3,7 @@ title = 'Alexa'
 date = 2025-06-03T10:00:00-07:00
 draft = false
 categories = ["technology"]
-tags = ["ai", "home automation"]
+tags = ["ai", "home automation", "alexa"]
 +++
 
 I've set up some Alexa devices in my home and while I'm mostly pessimistic about AI,

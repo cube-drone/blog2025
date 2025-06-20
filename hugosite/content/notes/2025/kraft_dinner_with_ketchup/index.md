@@ -3,7 +3,7 @@ title = "pasta alla zozzona"
 date = 2025-01-16T12:00:00-07:00
 draft = false
 categories = ["humor", "food", "canada"]
-tags = ["pasta"]
+tags = ["pasta", "kraft dinner"]
 +++
 
 So there's this italian dish, pasta alla zozzona, which is where you take sausage and guanciale, fry 'em up, and serve them with a mix of grated cheese, egg, and tomato paste (using a cacio e pepe or carbonara like technique to get things nice and smooth)
