@@ -10,7 +10,7 @@ tags = ["rt0", "tarot"]
 >
 > I’ve also heard that about a lot of other things - coding, art, you do in fact get a lot better by simply doing it over and over and over and over again.
 >
-> Anyways, that’s the reasoning behind the Short Fiction topic, where I draw a random tarot card and use it to compose a little bit of flash fiction in the rt0 universe.
+> Anyways, that’s the reasoning behind the Pocket Fiction topic, where I draw a random tarot card and use it to compose a little bit of flash fiction in the rt0 universe.
 
 <!--more-->
 
