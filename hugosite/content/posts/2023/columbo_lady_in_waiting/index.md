@@ -3,7 +3,7 @@ title = "Columbo's Lady In Waiting"
 date = 2023-06-10T12:00:00-07:00
 draft = false
 categories = ["media", "humor"]
-tags = ["columbo"]
+tags = ["columbo", "mustard"]
 +++
 
 let's watch [another episode of Columbo](/posts/2023/columbo)
@@ -12,15 +12,21 @@ let's watch [another episode of Columbo](/posts/2023/columbo)
 
 <!--more-->
 
+-------
+
 Beth, I know you're dating an attorney from the family practice - we both know that you're fabulously wealthy and a real Horseface McGoo - the only reason anybody would ever be attracted to you is to get a crack at that sweet family money pinata. So I've sent him a letter telling him that if he doesn't break up with you, I'm going to fire him.
 
 I'm certain this will work because this is the year 1972 and "wrongful termination lawsuits", "newspapers" and "twitter" all do not exist yet.
 
 ![](./sucks.png)
 
+-------
+
 You know what, Beth? This one's on the house, he sucks. Murder away.
 
 ![](./sucks-2.png)
+
+-------
 
 "Surely he's going to follow through with his threats, darling!"
 
@@ -28,10 +34,14 @@ You know what, Beth? This one's on the house, he sucks. Murder away.
 
 ![](./leslie.png)
 
+-------
+
 murder plot step 1: fill an important lightbulb with mustard
 
 ![](./mustard-1.png)
 ![](./mustard-2.png)
+
+-------
 
 "Ed, what should we call our security patrol system?"
 
@@ -41,17 +51,25 @@ murder plot step 1: fill an important lightbulb with mustard
 
 ![](./security.png)
 
+-------
+
 just getting ready for bed with my night pills and night gun and big glass of water
 
 ![](./nightgun.png)
+
+-------
 
 Tame by today's standards, but in 1972 showing a woman this nude on television could get your show taken off the air. Such was the cultural clout of Columbo that they could get away with it
 
 ![](./nudity.png)
 
+-------
+
 You know what? I'm going to say it. This woman is the laziest damn murderer I've ever seen.
 
 ![](./lazy.png)
+
+-------
 
 I guess this is extremely accurate to how I would expect a child brought up very rich would plan a murder: just get some chocolate and a gun, hop into bed, and see where the evening takes you. If nobody is murdered by the morning? Take a break for a while, you've earned it.
 
@@ -61,29 +79,40 @@ However, they'd have no reason to show this as a dream sequence if it HAPPENED: 
 
 ![](./dream.png)
 
+-------
+
 "Would you believe it? The front door lightbulb was all mustarded up and I lost my key. So I had to use my spare key, which I obviously have access to because I'm not a complete idiot."
+
+![](./jerk.png)
 
 I'm not going to lie, this has been one of the more ill-conceived murder plots on this show so far.
 
 Columbo writers: not a tonne of respect for women.
 
-![](./jerk.png)
+
+-------
 
 What do you do when your carefully planned alibi doesn't work out?
 
+![](./backup.png)
+
 Obviously you just YOLO-murder the guy anyways: why waste a perfectly good murder plot just because it was terrible?
 
-![](./backup.png)
+-------
 
 Yeah, buddy, someone mustarded up this light bulb, but good - real spicy English mustard, too, expensive stuff.
 
 ![](./lightbulb.png)
 
+-------
+
 I don't know why this was so funny, but it absolutely was.
+
+
+![](./special1.png)
 
 "Now my son is dead. He was my special little guy."
 
-![](./special1.png)
 ![](./special2.png)
 
 That is just such a _stern_ picture for a man to have in his own foyer.
@@ -92,15 +121,22 @@ That's like the kind of picture Tom Haverford would have of himself.
 
 ![](./tomh.png)
 
+-------
+
 "Ma'am, your son - he never married, did he?"
+
+![](./male.png)
 
 "No, he was too busy with work to think of such things. He did have a curious number of male business roommates, though. And that... burly fellow he spent all of those years with, his... roommate. Yes."
 
-![](./male.png)
+
+-------
 
 even for an episode of Columbo, I have never seen Lt. Columbo have such an easy time with a case
 
 ![](./easy.png)
+
+-------
 
 Her boyfriend's mad.
 
@@ -108,11 +144,15 @@ Her boyfriend's mad.
 
 ![](./leslie2.png)
 
+-------
+
 MY BROTHER IS DEAD
 
 I'M IN CONTROL OF THIS COMPANY NOW
 
 BEHOLD MY MOST SERIOUS BUSINESS LOOK
+
+![](./business.png)
 
 I AM THE CONDUCTOR OF THE SERIOUS BUSINESS TRAIN
 
@@ -120,7 +160,8 @@ ALL ABOARD
 
 TOOT TOOT
 
-![](./business.png)
+
+-------
 
 "Mustard, you say?"
 
@@ -133,6 +174,8 @@ TOOT TOOT
 "The thing is, ma'am, I never said that the bulb was filled with hot English mustard - I just said mustard. Now there's a lot of mustards out there - ballpark, honey, stone-ground - "
 
 ![](./mustard2.png)
+
+-------
 
 "Man, this has been the dumbest case. We all knew she shot him and had a motive to shoot him from the get-go, and nothing about her story made any logical sense. Plus all of that stuff about the mustard. I sure hope my next one's less ridiculous."
 

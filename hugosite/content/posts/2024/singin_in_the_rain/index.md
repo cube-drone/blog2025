@@ -43,12 +43,15 @@ ridiculous, and worse still: Ditzy Broad's got a real mousy New York accent and 
 
 It's a very simple plot, giving the musical a lot of space just to do big, impressive musical numbers.
 
-> they made lavalier mics so much bigger in the 20s
->
-> but that didn't stop Kids These Days from trying to hold them _like this_ and talk directly into them
->
-> ![](./lav.png)
+------
 
+they made lavalier mics so much bigger in the 20s
+
+but that didn't stop Kids These Days from trying to hold them _like this_ and talk directly into them
+
+![](./lav.png)
+
+------
 
 there's a scene where they relentlessly bully a speech therapist for no clear reason
 
@@ -56,9 +59,13 @@ there's a scene where they relentlessly bully a speech therapist for no clear re
 
 ![](./a.png)
 
-> every man who pitches an open relationship is imagining it will go like this, but actually it only happens 7% of the time
->
-> ![](./big_finish.png)
+------
+
+every man who pitches an open relationship is imagining it will go like this, but actually it only happens 7% of the time
+
+![](./big_finish.png)
+
+------
 
 I actually wasn't paying close attention to how we ended up in "entirely unrelated fashion show" but I'm here for it.
 
@@ -68,18 +75,25 @@ I actually wasn't paying close attention to how we ended up in "entirely unrelat
 
 ![](./doubles.png)
 
+------
 
 also this is in the movie, I bet you think that my watching the movie would make me _more prepared to explain it_, but no
 
 ![](./wut.png)
 
+------
+
 "What this studio needs is a little electronic creature you wear like a pocketwatch, and when you press a little button on there, it feeds the little guy, and sometimes, he poops - and if you don't feed it? Boom. Dead."
 
 ![](./gotchi.png)
 
+------
+
 even for the casual racism of the 50's this is a lot, Singin' in the Rain, come on
 
 ![](./racism.png)
+
+------
 
 can't be _this_ smug without a good dodge reflex
 
@@ -94,13 +108,19 @@ great moments in cinematic history
 
 {{< youtube 8g7KurXVutQ >}}
 
+------
+
 this Gomez-and-Morticia-lookin' couple just exists in the background of Singin' in the Rain and now I want a separate cut of the movie that's just about these two and whatever their deal is
 
 ![](./gomez.png)
 
+------
+
 I forgot that this movie really, really pads the ol' runtime
 
 ![](./dreams.png)
+
+------
 
 pictured: vancouver on any day between september and may
 
