@@ -1,5 +1,5 @@
 +++
-title = "your project manager trying to organize a big spreadsheet"
+title = "trying to organize a big spreadsheet"
 date = 2025-01-06T11:00:00-07:00
 draft = false
 categories = ["humor", "work work"]

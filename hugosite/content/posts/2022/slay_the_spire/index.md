@@ -2,7 +2,7 @@
 title = "Slay the Spire's Opening Monsters Won't Deal 10 Damage"
 date = 2022-06-15T12:00:00-07:00
 draft = false
-categories = ["video games", "board games"]
+categories = ["video games"]
 tags = ["cards", "slay the spire", "civilization"]
 +++
 

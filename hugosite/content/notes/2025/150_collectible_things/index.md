@@ -1,5 +1,5 @@
 +++
-title = "is 150 the perfect number of collectible things?"
+title = "is 150 the perfect number of collectibles?"
 date = 2025-04-27T13:00:00-07:00
 draft = false
 categories = ["gamedev", "video games"]

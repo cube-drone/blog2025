@@ -1,11 +1,12 @@
 +++
-title = 'I Just Printed The Entire NISEI System Gateway At Home; Learn From My Mistakes'
+title = 'I Just Printed The Entire NISEI System Gateway At Home'
 date = 2022-06-15T12:00:00-07:00
 draft = false
 categories = ["board games"]
 tags = ["cards", "netrunner", "android: netrunner"]
 +++
 
+_Learn From My Mistakes_
 {{<imgwebp src="stacks.png">}}
 
 <!--more-->
