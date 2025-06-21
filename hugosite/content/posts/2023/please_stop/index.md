@@ -10,6 +10,8 @@ tags = ["overengineering", "enterprise hello world"]
 
 So, sometimes, in `FooApplication`, we need to extract some Nurble Data from the HTTP request, which is included as a base-64-encoded JSON blob in a cookie from the Nurble provider.
 
+<!--more-->
+
 ```
 /* extract nurbleData from the HTTP request */
 function getNurbleData(request){
