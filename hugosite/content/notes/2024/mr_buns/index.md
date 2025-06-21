@@ -2,7 +2,7 @@
 title = "Mr. Buns"
 date = 2024-06-13T12:00:00-07:00
 draft = false
-categories = ["rpg", "art"]
+categories = ["rpg", "art", "wife"]
 tags = ["D&D"]
 +++
 
