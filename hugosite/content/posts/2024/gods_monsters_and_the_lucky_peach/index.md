@@ -10,6 +10,8 @@ tags = ["solarpunk", "terraform", "orson scott card", "time travel", "hugo", "fa
 
 This one was a Hugo nominee five years ago or so, and a real physical copy has been sitting on my bookshelf forever.
 
+<!--more-->
+
 It's a sci-fi book I've opened a few times, and I believe I've started it twice, and both times, lost interest before the book got hopping.
 
 This time, I've loaded it on my e-reader. That's right, that actually _dramatically improves_ the likelihood that I'll read a book, because it has backlighting and I usually have it with me.

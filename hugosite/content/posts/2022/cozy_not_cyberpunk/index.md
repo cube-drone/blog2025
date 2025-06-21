@@ -6,6 +6,8 @@ categories = ["video games", "vrchat"]
 tags = ["cyberpunk", "hygge", "cabinpunk", "chill"]
 +++
 
+{{<imgwebp src="greatpug.png">}}
+
 If you were to ask most people what they think the visual design of social VR looks like, I think they would say "Cyberpunk".
 
 The Oasis, the Metaverse, virtual reality as a crowded, public, bazaar.

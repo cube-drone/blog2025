@@ -6,7 +6,11 @@ categories = ["technology"]
 tags = ["ereader"]
 +++
 
+{{<imgwebp src="guide.png">}}
+
 For years, _years_, I've loved e-readers.
+
+<!--more-->
 
 I mean, I carted one of these early Sony-models to Peru with me, rather than a whole mess of books:
 ![](./peru.png)
