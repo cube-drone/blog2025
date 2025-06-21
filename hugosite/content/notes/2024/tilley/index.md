@@ -3,7 +3,7 @@ title = "tilley"
 date = 2024-11-18T12:00:00-07:00
 draft = false
 categories = ["canada"]
-tags = ["nazis"]
+tags = ["spotting white supremacy in the wild"]
 +++
 
 

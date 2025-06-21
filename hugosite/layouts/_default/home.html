@@ -35,6 +35,26 @@
 {{- $top := first 15 $sorted }}
 {{- $rest := after 15 $sorted }}
 
+{{- $oneOffs := slice }}
+
+{{/* Collect exactly-once categories */}}
+{{- range $name, $taxonomy := site.Taxonomies.categories }}
+  {{- $pages := where $taxonomy.Pages "Section" "in" (slice "notes" "posts" "books" "videos") }}
+  {{- if and (eq (len $pages) 1) (not (in $excluded $name)) }}
+    {{- $oneOffs = $oneOffs | append (dict "name" $name "permalink" $taxonomy.Page.RelPermalink "count" 1) }}
+  {{- end }}
+{{- end }}
+
+{{/* Collect exactly-once tags */}}
+{{- range $name, $taxonomy := site.Taxonomies.tags }}
+  {{- $pages := where $taxonomy.Pages "Section" "in" (slice "notes" "posts" "books" "videos") }}
+  {{- if and (eq (len $pages) 1) (not (in $excluded $name)) }}
+    {{- $oneOffs = $oneOffs | append (dict "name" $name "permalink" $taxonomy.Page.RelPermalink "count" 1) }}
+  {{- end }}
+{{- end }}
+
+{{- $sortedOneOffs := sort $oneOffs "name" }}
+
 <ul class="flex flex-row flex-wrap space-x-2 pl-2 mb-2">
   {{- range $top }}
     <li class="first:ml-2">
@@ -55,6 +75,21 @@
           <a href="{{ .permalink }}" class="taxonomy">
             <span>{{ .name }}</span>
             <span class="count">{{ .count }}</span>
+          </a>
+        </li>
+      {{- end }}
+    </ul>
+  </details>
+{{- end }}
+
+{{- if gt (len $sortedOneOffs) 0 }}
+  <details class="not-prose mt-2">
+    <summary class="cursor-pointer">even more interests (really stupid ones)</summary>
+    <ul class="flex flex-row flex-wrap space-x-2 pl-2 mt-2 text-sm opacity-70 italic">
+      {{- range $sortedOneOffs }}
+        <li class="first:ml-2">
+          <a href="{{ .permalink }}" class="taxonomy">
+            <span>{{ .name }}</span>
           </a>
         </li>
       {{- end }}

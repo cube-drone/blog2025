@@ -3,7 +3,7 @@ title = "plenty of people"
 date = 2024-09-14T12:00:00-07:00
 draft = false
 categories = ["politics"]
-tags = ["nazi", "mastodon", "population", "kids"]
+tags = ["spotting white supremacy in the wild", "mastodon", "population", "kids"]
 +++
 
 Lately it seems there's a tonne of anti-anti-natalist discourse in the conservative sphere, like "how dare women decide not to have children, where will new children even come from, what's wrong with people that they don't want big families anymore" but i'm not sure what huge baby shortage they are talking about, it seems like there are plenty of fuckin' people, which makes me think that this has always just been a racist dogwhistle because the babies being born are the _wrong ones_ I guess?
