@@ -1,24 +1,18 @@
 <div class="not-prose">
   <ol>
-    {{- range . }}
-      <li class="mb-6 pt-6">
-        <article class="flex flex-col space-y-1">
-          <header>
-            <h3 class="text-lg font-semibold leading-none">
+    {{ range . }}
+      <li>
+        <article class="flex flex-row items-center">
+          <header class="grow">
+            <h3>
               <a
                 href="{{ .RelPermalink }}"
-                class="underline decoration-slate-300 decoration-2 underline-offset-4 hover:decoration-inherit"
+                class="truncate text-sm underline decoration-slate-300 decoration-2 underline-offset-4 hover:decoration-inherit"
+                title="{{ .Title }}"
                 >{{ .Title }}</a
               >
             </h3>
-            {{- $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" -}}
-            {{- $dateHuman := .Date | time.Format (default ":date_long" .Site.Params.dateFormat) -}}
-            <time class="text-sm italic leading-5 opacity-80" datetime="{{ $dateMachine }}"
-              >{{ $dateHuman }}</time
-            >
           </header>
-
-          <div class="text-sm">{{ .Summary }}</div>
           {{ with .Page.GetTerms "categories" }}
             <ul class="flex flex-row items-center justify-end space-x-2">
               {{ range . }}
@@ -35,7 +29,6 @@
           {{ end }}
         </article>
       </li>
-      <hr/>
-    {{- end }}
+    {{ end -}}
   </ol>
 </div>

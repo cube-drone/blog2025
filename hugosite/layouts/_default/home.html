@@ -10,22 +10,50 @@
     {{ end -}}
   </article>
 
-  {{- if default true site.Params.home.showRecentPosts }}
-    {{- $posts := where site.RegularPages "Section" "posts" -}}
-    {{- with $posts.Limit (int (default 3 site.Params.home.recentPostsLimit)) }}
-      <section>
-        <h2>==> last 3 blogsposts</h2>
+  <details class="not-prose">
+  <summary class="cursor-pointer">See all categories</summary>
+  <ul class="flex flex-row flex-wrap space-x-2 pl-2">
+    {{- $all := slice }}
 
-        {{ partial "posts/list.html" . }}
-      </section>
-    {{ end -}}
-  {{ end -}}
+    {{/* Process categories */}}
+    {{- range $name, $taxonomy := site.Taxonomies.categories }}
+      {{- $count := 0 }}
+      {{- range $page := $taxonomy.Pages }}
+        {{- $count = add $count 1 }}
+      {{- end }}
+      {{- if gt $count 1 }}
+        {{- $all = $all | append (dict "name" $name "permalink" $taxonomy.Page.RelPermalink "count" $count) }}
+      {{- end }}
+    {{- end }}
+
+    {{/* Process tags */}}
+    {{- range $name, $taxonomy := site.Taxonomies.tags }}
+      {{- $count := 0 }}
+      {{- range $page := $taxonomy.Pages }}
+        {{- $count = add $count 1 }}
+      {{- end }}
+      {{- if gt $count 1 }}
+        {{- $all = $all | append (dict "name" $name "permalink" $taxonomy.Page.RelPermalink "count" $count) }}
+      {{- end }}
+    {{- end }}
+
+    {{/* Sort and render */}}
+    {{- range sort $all "count" "desc" }}
+      <li class="first:ml-2">
+        <a href="{{ .permalink }}" class="taxonomy">
+          <span>{{ .name }}</span>
+          <span class="count">{{ .count }}</span>
+        </a>
+      </li>
+    {{- end }}
+  </ul>
+  </details>
 
   {{- if default true site.Params.home.showRecentNotes }}
     {{- $notes := where site.RegularPages "Section" "notes" -}}
     {{- with $notes.Limit (int (default 5 site.Params.home.recentNotesLimit)) }}
       <section>
-        <h2>==> last 5 toots</h2>
+        <h2>==> last 5 notes &nbsp;<small><a href="/notes">(all notes)</a></small></h2>
 
         {{ partial "notes/list.html" . }}
       </section>
@@ -33,10 +61,22 @@
   {{ end -}}
 
   {{- if default true site.Params.home.showRecentPosts }}
-    {{- $posts := where site.RegularPages "Section" "videos" -}}
-    {{- with $posts.Limit (int (default 1 site.Params.home.recentPostsLimit)) }}
+    {{- $posts := where site.RegularPages "Section" "posts" -}}
+    {{- with $posts.Limit (int 1) }}
       <section>
-        <h2>==> last video</h2>
+        <h2>==> last blogpost &nbsp;<small><a href="/posts">(all blogposts)</a></small></h2>
+
+        {{ partial "posts/list.html" . }}
+      </section>
+    {{ end -}}
+  {{ end -}}
+
+
+  {{- if default true site.Params.home.showRecentPosts }}
+    {{- $posts := where site.RegularPages "Section" "videos" -}}
+    {{- with $posts.Limit (int 1) }}
+      <section>
+        <h2>==> last video &nbsp;<small><a href="/videos">(all videos)</a></small></h2>
 
         {{ partial "videos/list.html" . }}
       </section>
@@ -45,9 +85,9 @@
 
   {{- if default true site.Params.home.showRecentPosts }}
     {{- $posts := where site.RegularPages "Section" "books" -}}
-    {{- with $posts.Limit (int (default 3 site.Params.home.recentPostsLimit)) }}
+    {{- with $posts.Limit (int 1) }}
       <section>
-        <h2>==> last book</h2>
+        <h2>==> last book &nbsp;<small><a href="/books">(all books)</a></small></h2>
 
         {{ partial "books/list.html" . }}
       </section>
