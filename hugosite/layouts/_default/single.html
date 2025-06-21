@@ -1,0 +1,47 @@
+{{ define "main" }}
+  {{- $imgResources := .Resources.ByType "image" -}}
+  <article class="main">
+    <header>
+      {{- if or .Prev .Next }}
+      <section class="flex justify-between text-sm text-gray-600 border-b pb-4 mb-4 pb-1">
+          {{ with .Prev }}
+          <a href="{{ .RelPermalink }}" class="hover:underline">&larr; prev</a>
+          {{ end }}
+          {{ with .Next }}
+          <a href="{{ .RelPermalink }}" class="hover:underline ml-auto">next &rarr;</a>
+          {{ end }}
+      </section>
+      {{- end }}
+
+      <h1 class="!mb-1 pt-6">{{ .Title | title }}</h1>
+
+      {{- with .Date }}
+        {{- $dateMachine := . | time.Format "2006-01-02T15:04:05-07:00" -}}
+        {{- $dateHuman := . | time.Format (default ":date_long" site.Params.dateFormat) -}}
+        <div class="flex flex-row items-center space-x-4">
+          <time class="text-sm italic opacity-80" datetime="{{ $dateMachine }}"
+            >{{ $dateHuman }}</time
+          >
+        </div>
+      {{- end }}
+
+      {{- with $imgResources.GetMatch "{*feature*,*cover*}" }}
+        <figure class="feature-image !mb-20 block text-center">
+          <img
+            src="{{ .RelPermalink }}"
+            width="{{ .Width }}"
+            height="{{ .Height }}"
+            alt="{{ $.Params.FeatureCaption }}"
+          />
+          {{- with $.Params.FeatureCaption }}
+            <figcaption class="text-xs italic">{{ . |  markdownify }}</figcaption>
+          {{- end }}
+        </figure>
+      {{- end }}
+    </header>
+
+    {{ .Content }}
+  </article>
+
+  {{ partial "page/meta" . }}
+{{ end }}
