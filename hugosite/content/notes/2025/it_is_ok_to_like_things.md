@@ -2,8 +2,8 @@
 title = 'it is ok to like things'
 date = 2025-05-14T11:00:00-07:00
 draft = false
-categories = ["thoughts"]
-tags = ["90s"]
+categories = []
+tags = ["90s", "cowboy bebop", "final fantasy 6"]
 +++
 
 I worry that I date myself terribly by still loving a bunch of the stuff I loved as a kid and young adult - Final Fantasy 6, Cowboy Bebop, IRC, Our Lady Peace, The Simpsons, Command & Conquer, WinAmp.... all wild retro shit by today's standards.

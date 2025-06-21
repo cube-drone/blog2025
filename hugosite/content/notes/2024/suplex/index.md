@@ -3,7 +3,7 @@ title = "a love letter to the suplex"
 date = 2024-04-06T11:00:00-07:00
 draft = false
 categories = ["humor"]
-tags = []
+tags = ["final fantasy 6"]
 +++
 
 every time I see two people hugging in a picture my mind immediately moves to the next frame where one of them is delivering a devastating suplex
