@@ -3,7 +3,7 @@ title = "Expensive Shit You Might Need"
 date = 2024-11-15T12:00:00-07:00
 draft = false
 categories = ["recommendations"]
-tags = []
+tags = ["zojirushi", "herman miller", "chairs", "keyboard", "kinesis advantage", "pillow", "steam deck", "crokinole"]
 +++
 
 {{<imgwebp src="spensive.png">}}

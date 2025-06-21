@@ -2,8 +2,8 @@
 title = "psycholonials"
 date = 2024-08-15T12:00:00-07:00
 draft = false
-categories = []
-tags = ["homestuck"]
+categories = ["visual novel"]
+tags = ["homestuck", "enlightened centrism", "centrism", "hussnasty", "clowns"]
 +++
 
 So, I've made no small matter (outside of my blog) out of my growing _Homestuck fandom_. (And also: my complete and utter lack of interest in participating in Homestuck fandom.)

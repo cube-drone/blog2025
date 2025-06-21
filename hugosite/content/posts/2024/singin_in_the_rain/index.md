@@ -3,7 +3,7 @@ title = "Singin' In the Rain"
 date = 2024-01-01T08:00:00-07:00
 draft = false
 categories = ["media", "humor"]
-tags = []
+tags = ["pie in the face"]
 +++
 
 {{<imgwebp src="23.png">}}

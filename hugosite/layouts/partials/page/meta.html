@@ -53,6 +53,26 @@
     </section>
   {{- end }}
 
+  {{- $categories := .GetTerms "categories" -}}
+  {{- $soloCategories := slice -}}
+  {{- range $categories }}
+  {{- $otherPages := where .Pages "Permalink" "ne" $.Permalink -}}
+  {{- if eq (len $otherPages) 0 }}
+    {{- $soloCategories = $soloCategories | append . -}}
+  {{- end }}
+  {{- end }}
+
+  {{- with $soloCategories }}
+  <section class="text-sm text-gray-500 italic">
+    <h2 class="text-base font-semibold">categories that only appear on this page, and thus do not link anywhere yet: </h2>
+    <ul class="ml-6 list-disc">
+      {{- range . }}
+        <li>~ {{ .Name }}</li>
+      {{- end }}
+    </ul>
+  </section>
+  {{- end }}
+
   {{- $terms := .GetTerms "tags" -}}
     {{- $filtered := slice -}}
     {{- range $terms }}
@@ -78,6 +98,26 @@
         </ul>
     </section>
   {{- end }}
+
+{{- $tags := .GetTerms "tags" -}}
+{{- $soloTags := slice -}}
+{{- range $tags }}
+  {{- $otherPages := where .Pages "Permalink" "ne" $.Permalink -}}
+  {{- if eq (len $otherPages) 0 }}
+    {{- $soloTags = $soloTags | append . -}}
+  {{- end }}
+{{- end }}
+
+{{- with $soloTags }}
+  <section class="text-sm text-gray-500 italic">
+    <h2 class="text-base font-semibold">tags that only appear on this page, and thus do not link anywhere yet:</h2>
+    <ul class="ml-6 list-disc">
+      {{- range . }}
+        <li>~ {{ .Name }}</li>
+      {{- end }}
+    </ul>
+  </section>
+{{- end }}
 
   {{- if default true site.Params.showGraph }}
     <section class="flex flex-col space-y-4" aria-hidden="true">

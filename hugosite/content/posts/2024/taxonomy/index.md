@@ -3,7 +3,7 @@ title = "a taxonomy ruined my ability to think like an adult"
 date = 2024-11-15T12:00:00-07:00
 draft = false
 categories = []
-tags = []
+tags = ["taxonomy", "and jeff"]
 +++
 
 I mention this now because I saw it come up on the internet a _second time_ and it frustrates me that this thing exists:

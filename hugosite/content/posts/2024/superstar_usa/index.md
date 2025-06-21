@@ -3,7 +3,7 @@ title = "the 20 year anniversary of WB's Superstar USA"
 date = 2024-10-15T12:00:00-07:00
 draft = false
 categories = ["media"]
-tags = []
+tags = ["cruel pranks"]
 +++
 
 So, every now and then I rewatch Jenny Nicholson talking about [the worst reality TV show of all time](https://www.youtube.com/watch?v=JKFgn6tNU6w), because it's funny, and because I have a cold.

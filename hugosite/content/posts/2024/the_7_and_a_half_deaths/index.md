@@ -2,8 +2,8 @@
 title = "The 7½ Deaths of Evelyn Hardcastle"
 date = 2024-08-15T12:00:00-07:00
 draft = false
-categories = ["books", "science fiction"]
-tags = []
+categories = ["books", "science fiction", "mystery"]
+tags = ["super-hitler from the future", "seven and a half of a thing specifically", "stuart turton"]
 +++
 
 {{<imgwebp src="deaths.png">}}

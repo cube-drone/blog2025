@@ -3,7 +3,7 @@ title = 'blue zones'
 date = 2025-03-01T12:00:00-07:00
 draft = false
 categories = ["food"]
-tags = ["nutrition"]
+tags = ["nutrition", "weekend at bernies"]
 +++
 
 a lot of the science of nutrition seems to be backed by shrugging and emulating the eating habits of people in "blue zones" but as far as I can tell the actual way to live an "extremely long life" is to live in a country with generous retirement checks and nobody who bothers to check if the people who collect them are still alive
