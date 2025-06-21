@@ -1,6 +1,6 @@
 baseURL = 'https://b.cube-drone.com'
 languageCode = 'en-us'
-title = "Cube Drone Blog"
+title = "Blog Drone"
 copyright = 'Cube Drone' # Used in the footer copyright mention.
 enableRobotsTXT = true
 # IMPORTANT: set to true if you want to use the theme's genAI/LLM web crawler blocking feature.
