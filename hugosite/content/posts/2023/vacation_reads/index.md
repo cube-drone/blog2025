@@ -146,7 +146,7 @@ But yeah, it's is a short read, and it does feel like a kind of intimate, secret
 -  flipping through the Seraphinianus
 ![](./seraph.png)
 - the sensation I had playing Journey
-![](./seraph.png)
+![](./journey.png)
 
 
 like....  this is weird and beautiful and feels like it has Meaning, while also lacking a larger context. But that's ok, because every detail of context isn't the focus nor necessary to enjoy the broader intended experience.
