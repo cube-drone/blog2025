@@ -6,7 +6,7 @@ categories = ["books", "science fiction"]
 tags = []
 +++
 
-![](./deaths.png)
+{{<imgwebp src="deaths.png">}}
 
 <!--more-->
 
