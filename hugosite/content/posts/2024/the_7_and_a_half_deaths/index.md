@@ -1,6 +1,6 @@
 +++
 title = "The 7½ Deaths of Evelyn Hardcastle"
-date = 2023-08-15T12:00:00-07:00
+date = 2024-08-15T12:00:00-07:00
 draft = false
 categories = ["books", "science fiction"]
 tags = []
