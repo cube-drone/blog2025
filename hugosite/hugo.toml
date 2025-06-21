@@ -34,12 +34,12 @@ enableRobotsTXT = true
     pageRef = '/posts'
     weight = 30
   [[menus.main]]
-    name = 'Books'
-    pageRef = '/books'
-    weight = 40
-  [[menus.main]]
     name = 'Videos'
     pageRef = '/videos'
+    weight = 40
+  [[menus.main]]
+    name = 'Books'
+    pageRef = '/books'
     weight = 50
 
 [markup]

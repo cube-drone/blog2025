@@ -64,7 +64,7 @@
     {{- $posts := where site.RegularPages "Section" "posts" -}}
     {{- with $posts.Limit (int 1) }}
       <section>
-        <h2>==> last blogpost &nbsp;<small><a href="/posts">(all blogposts)</a></small></h2>
+        <h2>==> last article &nbsp;<small><a href="/posts">(all articles)</a></small></h2>
 
         {{ partial "posts/list.html" . }}
       </section>
