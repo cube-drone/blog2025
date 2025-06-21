@@ -27,37 +27,55 @@
   </section>
   {{- end }}
 
-  {{- with .GetTerms "categories" }}
+  {{- $categories := .GetTerms "categories" -}}
+    {{- $filteredCategories := slice -}}
+    {{- range $categories }}
+    {{- $otherPages := where .Pages "Permalink" "ne" $.Permalink -}}
+    {{- if gt (len $otherPages) 0 }}
+        {{- $filteredCategories = $filteredCategories | append . -}}
+    {{- end -}}
+    {{- end -}}
+
+    {{- with $filteredCategories }}
     <section class="flex flex-col space-y-4">
-      <h2 class="flex flex-row items-center space-x-2 text-lg font-semibold">
+        <h2 class="flex flex-row items-center space-x-2 text-lg font-semibold">
         {{ partial "svg/shapes" }}
         <span>Categories</span>
-      </h2>
+        </h2>
 
-      <ul class="ml-6 flex flex-row flex-wrap items-center space-x-2">
+        <ul class="ml-6 flex flex-row flex-wrap items-center space-x-2">
         {{- range . }}
-          <li>
+            <li>
             <a href="{{ .RelPermalink }}" class="taxonomy category">{{ .Name }}</a>
-          </li>
+            </li>
         {{- end }}
-      </ul>
+        </ul>
     </section>
   {{- end }}
 
-  {{- with .GetTerms "tags" }}
+  {{- $terms := .GetTerms "tags" -}}
+    {{- $filtered := slice -}}
+    {{- range $terms }}
+    {{- $otherPages := where .Pages "Permalink" "ne" $.Permalink -}}
+    {{- if gt (len $otherPages) 0 }}
+        {{- $filtered = $filtered | append . -}}
+    {{- end -}}
+    {{- end -}}
+
+    {{- with $filtered }}
     <section class="flex flex-col space-y-4">
-      <h2 class="flex flex-row items-center space-x-2 text-lg font-semibold">
+        <h2 class="flex flex-row items-center space-x-2 text-lg font-semibold">
         {{ partial "svg/tags" }}
         <span>Tags</span>
-      </h2>
+        </h2>
 
-      <ul class="not-prose ml-6 flex flex-row flex-wrap items-center space-x-2">
+        <ul class="not-prose ml-6 flex flex-row flex-wrap items-center space-x-2">
         {{- range . }}
-          <li>
+            <li>
             <a href="{{ .RelPermalink }}" class="taxonomy tag">{{ .Name }}</a>
-          </li>
+            </li>
         {{- end }}
-      </ul>
+        </ul>
     </section>
   {{- end }}
 

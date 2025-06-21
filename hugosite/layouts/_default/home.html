@@ -10,44 +10,57 @@
     {{ end -}}
   </article>
 
+  <!-- CATEGORY MATHEMATICS-->
+{{- $all := slice }}
+
+{{/* Collect categories */}}
+<!-- Exclude some categories from the list here -->
+{{- $excluded := slice "zapp" "misc" }}
+{{- range $name, $taxonomy := site.Taxonomies.categories }}
+  {{- $count := len (where $taxonomy.Pages "Section" "in" (slice "notes" "posts" "books" "videos")) }}
+  {{- if and (gt $count 1) (not (in $excluded $name)) }}
+    {{- $all = $all | append (dict "name" $name "permalink" $taxonomy.Page.RelPermalink "count" $count) }}
+  {{- end }}
+{{- end }}
+
+{{/* Collect tags */}}
+{{- range $name, $taxonomy := site.Taxonomies.tags }}
+  {{- $count := len (where $taxonomy.Pages "Section" "in" (slice "notes" "posts" "books" "videos")) }}
+  {{- if and (gt $count 1) (not (in $excluded $name)) }}
+    {{- $all = $all | append (dict "name" $name "permalink" $taxonomy.Page.RelPermalink "count" $count) }}
+  {{- end }}
+{{- end }}
+
+{{- $sorted := sort $all "count" "desc" }}
+{{- $top := first 15 $sorted }}
+{{- $rest := after 15 $sorted }}
+
+<ul class="flex flex-row flex-wrap space-x-2 pl-2 mb-2">
+  {{- range $top }}
+    <li class="first:ml-2">
+      <a href="{{ .permalink }}" class="taxonomy">
+        <span>{{ .name }}</span>
+        <span class="count">{{ .count }}</span>
+      </a>
+    </li>
+  {{- end }}
+</ul>
+
+{{- if gt (len $rest) 0 }}
   <details class="not-prose">
-  <summary class="cursor-pointer">See all categories</summary>
-  <ul class="flex flex-row flex-wrap space-x-2 pl-2">
-    {{- $all := slice }}
-
-    {{/* Process categories */}}
-    {{- range $name, $taxonomy := site.Taxonomies.categories }}
-      {{- $count := 0 }}
-      {{- range $page := $taxonomy.Pages }}
-        {{- $count = add $count 1 }}
+    <summary class="cursor-pointer">more categories</summary>
+    <ul class="flex flex-row flex-wrap space-x-2 pl-2">
+      {{- range $rest }}
+        <li class="first:ml-2">
+          <a href="{{ .permalink }}" class="taxonomy">
+            <span>{{ .name }}</span>
+            <span class="count">{{ .count }}</span>
+          </a>
+        </li>
       {{- end }}
-      {{- if gt $count 1 }}
-        {{- $all = $all | append (dict "name" $name "permalink" $taxonomy.Page.RelPermalink "count" $count) }}
-      {{- end }}
-    {{- end }}
-
-    {{/* Process tags */}}
-    {{- range $name, $taxonomy := site.Taxonomies.tags }}
-      {{- $count := 0 }}
-      {{- range $page := $taxonomy.Pages }}
-        {{- $count = add $count 1 }}
-      {{- end }}
-      {{- if gt $count 1 }}
-        {{- $all = $all | append (dict "name" $name "permalink" $taxonomy.Page.RelPermalink "count" $count) }}
-      {{- end }}
-    {{- end }}
-
-    {{/* Sort and render */}}
-    {{- range sort $all "count" "desc" }}
-      <li class="first:ml-2">
-        <a href="{{ .permalink }}" class="taxonomy">
-          <span>{{ .name }}</span>
-          <span class="count">{{ .count }}</span>
-        </a>
-      </li>
-    {{- end }}
-  </ul>
+    </ul>
   </details>
+{{- end }}
 
   {{- if default true site.Params.home.showRecentNotes }}
     {{- $notes := where site.RegularPages "Section" "notes" -}}

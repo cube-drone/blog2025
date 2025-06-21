@@ -1,11 +1,11 @@
 {{ define "main" }}
   <div class="flex flex-col space-y-6">
-    {{- $posts := where .RegularPages "Section" "posts" -}}
-    {{ with $posts }}
+    {{- $books := where .RegularPages "Section" "books" -}}
+    {{ with $books }}
       <section>
-        <h2>posts ==> {{ $.Title }}</h2>
+        <h2>books ==> {{ $.Title }}</h2>
 
-        {{ partial "posts/list.html" . }}
+        {{ partial "books/list.html" . }}
       </section>
     {{ end }}
     {{- $videos := where .RegularPages "Section" "videos" -}}
@@ -16,12 +16,12 @@
         {{ partial "videos/list.html" . }}
       </section>
     {{ end }}
-    {{- $books := where .RegularPages "Section" "books" -}}
-    {{ with $books }}
+    {{- $posts := where .RegularPages "Section" "posts" -}}
+    {{ with $posts }}
       <section>
-        <h2>books ==> {{ $.Title }}</h2>
+        <h2>articles ==> {{ $.Title }}</h2>
 
-        {{ partial "books/list.html" . }}
+        {{ partial "posts/list.html" . }}
       </section>
     {{ end }}
     {{- $notes := where .RegularPages "Section" "notes" -}}
