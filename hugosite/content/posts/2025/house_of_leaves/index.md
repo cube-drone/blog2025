@@ -3,7 +3,7 @@ title = "House of Leaves"
 date = 2025-01-27T11:00:00-07:00
 draft = false
 categories = ["books"]
-tags = ["the king in yellow", "house of leaves", "homestuck"]
+tags = ["the king in yellow", "house of leaves", "homestuck", "meaningfully colored text"]
 +++
 
 {{<imgwebp src="hol.png">}}

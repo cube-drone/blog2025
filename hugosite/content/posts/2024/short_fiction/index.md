@@ -3,7 +3,7 @@ title = "pocket fiction"
 date = 2024-11-10T12:00:00-07:00
 draft = false
 categories = ["writing"]
-tags = ["rt0", "tarot"]
+tags = ["rt0", "tarot", "three of swords", "ace of cups", "knight of wands", "seven of wands", "ten of cups", "page of swords", "eight of wands", "two of cups", "i am bad at naming things"]
 +++
 
 > I’m told by numerous sources that one of the keys to writing well is simply to write badly until you have exhausted your ready supply of dogshit words.
