@@ -3,7 +3,7 @@ title = 'unix time'
 date = 2024-05-27T12:00:00-07:00
 draft = false
 categories = ["technology", "software"]
-tags = []
+tags = ["unix time"]
 +++
 
 I learned about how unix time works in early University, 'round 2007, which would be 17 years ago

@@ -3,7 +3,7 @@ title = "stackoverflow harvest"
 date = 2024-04-19T10:00:00-07:00
 draft = false
 categories = ["software", "humor"]
-tags = []
+tags = ["imaginary internet points"]
 +++
 
 I answered one question on Stack Overflow, one time, a decade ago

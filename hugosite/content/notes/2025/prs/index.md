@@ -3,7 +3,7 @@ title = 'When code reviews LGTM'
 date = 2025-05-12T09:00:00-07:00
 draft = false
 categories = ["humor", "software"]
-tags = ["pull request"]
+tags = ["pull request", "github"]
 +++
 
 {{< imgavif src="rubber.png" alt="lgtm" >}}

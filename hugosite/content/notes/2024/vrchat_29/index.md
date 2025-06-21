@@ -2,8 +2,8 @@
 title = "VRChat #29"
 date = 2024-04-05T12:00:00-07:00
 draft = false
-categories = ["vrchat"]
-tags = []
+categories = ["vrchat", "video games"]
+tags = ["steam"]
 +++
 
 to be honest "we're #29" doesn't have that much of a ring to it but it ain't nothin'

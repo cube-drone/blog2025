@@ -2,8 +2,8 @@
 title = 'nacho'
 date = 2024-01-01T12:00:00-07:00
 draft = false
-categories = ["food"]
-tags = []
+categories = ["food", "history"]
+tags = ["nacho"]
 +++
 
 I think it's great that in 1940, a maitre'd, Ignacio Anaya, at a club near Fort Duncan in Mexico panicked when a bunch of army wives showed up - he couldn't find a chef and he had nothing to feed them - so he threw a bunch of corn tortillas in the deep fryer and threw some shit on there.

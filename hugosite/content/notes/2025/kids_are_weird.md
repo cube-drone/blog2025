@@ -3,7 +3,7 @@ title = 'kids are weird'
 date = 2025-01-06T10:00:00-07:00
 draft = false
 categories = []
-tags = []
+tags = ["kids", "genetics"]
 +++
 
 a few of my friends' kids are old enough that they're starting to look like a weird mishmash of their parents and - like - I understand that that's how genetics work

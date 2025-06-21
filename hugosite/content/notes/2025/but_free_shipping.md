@@ -3,7 +3,7 @@ title = 'the bay'
 date = 2025-03-14T12:00:00-07:00
 draft = false
 categories = ["canada"]
-tags = []
+tags = ["the hbc", "amazon"]
 +++
 
 so the Hudson's Bay Company is in serious trouble

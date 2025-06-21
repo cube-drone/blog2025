@@ -3,7 +3,7 @@ title = "what beats rock?"
 date = 2024-07-15T10:00:00-07:00
 draft = false
 categories = ["technology", "humor", "video games"]
-tags = ["ai"]
+tags = ["ai", "field of dreams"]
 +++
 
 [whatbeatsrock.com](https://www.whatbeatsrock.com/)

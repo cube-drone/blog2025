@@ -2,8 +2,8 @@
 title = 'flat earth'
 date = 2024-06-01T12:00:00-07:00
 draft = false
-categories = ["conspiracy"]
-tags = []
+categories = ["science", "conspiracy"]
+tags = ["flat earth"]
 +++
 
 watching flat-earth debunking content (it's fun, even if I think they're unnecessarily smug about it, as if they're actually going to succeed at changing unchangeable minds) has actually forced me to develop a mental model for both seasons and tides which I didn't really have before

@@ -3,7 +3,7 @@ title = 'quiet is nice'
 date = 2024-05-02T10:00:00-07:00
 draft = false
 categories = ["software"]
-tags = ["focus"]
+tags = ["focus", "introvert", "quiet"]
 +++
 
 When I was in my 20s I'd see an article about how a programmer's focus and flow is a PRECIOUS AND UNIQUE GEM THAT MUST BE PROTECTED AT ALL COSTS and think "yes, it is, I agree"

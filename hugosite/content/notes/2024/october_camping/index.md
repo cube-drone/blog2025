@@ -2,8 +2,8 @@
 title = "October Car Camping"
 date = 2024-10-09T12:00:00-07:00
 draft = false
-categories = ["camping"]
-tags = []
+categories = ["camping", "zapp", "cat"]
+tags = ["bacon"]
 +++
 
 I went October camping (widely considered to be a bad idea this deep into the fall) and I was counting on climate change to make it practical - which it did.

@@ -3,7 +3,7 @@ title = "pasta alla surprise"
 date = 2025-01-20T12:00:00-07:00
 draft = false
 categories = ["humor", "real news", "canada"]
-tags = []
+tags = ["cbc"]
 +++
 
 ![she was searching online for a recipe. she found a video of herself engaged in a sexual act](./cbc.png)

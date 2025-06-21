@@ -3,7 +3,7 @@ title = "wish for more wishes"
 date = 2025-02-11T12:00:00-07:00
 draft = false
 categories = ["humor"]
-tags = ["wishes"]
+tags = ["wishes", "genie"]
 +++
 
 

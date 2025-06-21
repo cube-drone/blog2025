@@ -3,7 +3,7 @@ title = 'whiskey sour'
 date = 2024-07-11T11:00:00-07:00
 draft = false
 categories = ["food"]
-tags = ["alcohol"]
+tags = ["alcohol", "whiskey sour", "whiskey", "gin", "gin & tonic"]
 +++
 
 When I'm at home, the cocktail of choice is a Gin & Tonic with waaaay too much lime because they're easy and dumb and refreshing.

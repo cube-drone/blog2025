@@ -3,7 +3,7 @@ title = "iced tea, man"
 date = 2024-05-10T11:00:00-07:00
 draft = false
 categories = ["food"]
-tags = ["iced tea"]
+tags = ["iced tea", "lemons", "punch", "guy fieri", "spit take"]
 +++
 
 _I'm a capable bartender, but almost all of that knowledge has instead found its way into my true vice: a potent homemade iced tea lemonade that I can drink gallons of._

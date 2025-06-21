@@ -2,7 +2,7 @@
 title = 'averages'
 date = 2024-12-26T12:00:00-07:00
 draft = false
-categories = []
+categories = ["science"]
 tags = ["math"]
 +++
 

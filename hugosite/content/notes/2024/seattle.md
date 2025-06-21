@@ -3,7 +3,7 @@ title = 'seattle'
 date = 2024-11-04T12:00:00-07:00
 draft = false
 categories = ["technology"]
-tags = ["ai", "infrastructure"]
+tags = ["ai", "infrastructure", "seattle", "trains"]
 +++
 
 if they had poured all of the money that they burned on AI on high-speed rail

@@ -3,7 +3,7 @@ title = "Network"
 date = 2024-06-08T12:00:00-07:00
 draft = false
 categories = ["media"]
-tags = []
+tags = ["network"]
 +++
 
 I watched the movie Network (1976) a while back, which is a near-future dystopian film about _what happens when we let journalism get taken over by entertainment and ratings-chasing_.

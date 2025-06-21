@@ -3,7 +3,7 @@ title = "santa is real"
 date = 2024-12-25T08:00:00-07:00
 draft = false
 categories = ["christmas"]
-tags = []
+tags = ["santa", "poetry"]
 +++
 
 of course Santa is real, he's created anew every year by hundreds of older family members trying to make the world seem a little more special and magical

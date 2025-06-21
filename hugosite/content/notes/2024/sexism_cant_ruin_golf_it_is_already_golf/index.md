@@ -3,7 +3,7 @@ title = "sexism can't ruin golf, it's already golf"
 date = 2024-05-13T12:00:00-07:00
 draft = false
 categories = ["humor"]
-tags = []
+tags = ["golf"]
 +++
 
 ![](./golf.png)

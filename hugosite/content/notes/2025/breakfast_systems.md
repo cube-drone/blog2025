@@ -3,7 +3,7 @@ title = "breakfast systems"
 date = 2025-02-26T12:00:00-07:00
 draft = false
 categories = ["food"]
-tags = ["breakfast"]
+tags = ["breakfast", "food operating system"]
 +++
 
 I love breakfasts. One of the things I could not get enough of in Montreal was that they had a breakfast restaurant on seemingly every corner and they all executed at a level utterly unheard of in BC. Hell, even a Smittys does a better breakfast than you're likely to find in the lower mainland.

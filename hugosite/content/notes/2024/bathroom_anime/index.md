@@ -3,7 +3,7 @@ title = "thermae romae, househusband"
 date = 2024-01-23T12:00:00-07:00
 draft = false
 categories = ["media", "recommendation"]
-tags = ["anime"]
+tags = ["anime", "poopin", "thermae romae", "way of the househusband"]
 +++
 
 I almost bailed on Thermae Romae after one episode because it was just this irritating bog-standard Shonen plot where a plucky young boy wants to be the BEST BATHHOUSE DESIGNER IN THE WORLD

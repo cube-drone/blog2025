@@ -3,7 +3,7 @@ title = "H O T T O G O"
 date = 2024-12-10T12:00:00-07:00
 draft = false
 categories = ["wife"]
-tags = []
+tags = ["hot dog"]
 +++
 
 The music video: H O T T O G O

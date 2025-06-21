@@ -3,7 +3,7 @@ title = 'brooklyn nine nine'
 date = 2024-10-30T12:00:00-07:00
 draft = false
 categories = []
-tags = ["acab"]
+tags = ["acab", "lupin", "zenigata"]
 +++
 
 I really like Brooklyn Nine-Nine because it's a fun show with a charming ensemble cast, but they're not very believable as cops on account of their being effective at solving a lot of crimes

@@ -3,7 +3,7 @@ title = "the CBC, everybody"
 date = 2024-02-05T12:00:00-07:00
 draft = false
 categories = ["software", "technology", "canada"]
-tags = []
+tags = ["cbc", "mastodon", "taxes"]
 +++
 
 recently I saw someone circulating a petition requesting that the Canadian government use public funds to provide a mastodon server for all Canadians

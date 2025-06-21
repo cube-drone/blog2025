@@ -3,7 +3,7 @@ title = 'Setup, Payoff'
 date = 2024-12-14T11:00:00-07:00
 draft = false
 categories = ["humor"]
-tags = []
+tags = ["i'm a little horse"]
 +++
 
 so a miniature pony goes into a bar and asks for a lozenge

@@ -3,7 +3,7 @@ title = "Nostalgia for an Ugly Era in Games"
 date = 2024-03-26T11:00:00-07:00
 draft = false
 categories = ["video games"]
-tags = []
+tags = ["playstation", "nostalgia"]
 +++
 
 I've been watching someone talk about Kings Field for hours on YouTube because they love Dark Souls so much that they're willing to deeply engage with these shitty, unplayable games.

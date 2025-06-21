@@ -3,7 +3,7 @@ title = 'wormhole'
 date = 2024-12-26T12:00:00-07:00
 draft = false
 categories = ["technology", "software", "recommendations"]
-tags = []
+tags = ["python", "files"]
 +++
 
 I needed to send a big file to another technically competent adult

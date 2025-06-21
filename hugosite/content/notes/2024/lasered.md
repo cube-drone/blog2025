@@ -3,7 +3,7 @@ title = 'lasered'
 date = 2024-04-03T10:00:00-07:00
 draft = false
 categories = []
-tags = ["laser-eye"]
+tags = ["laser-eye", "awkward social interactions", "introvert"]
 +++
 
 Getting laser eye surgery was 100% worth it and I’m frustrated I didn’t do it earlier, but one of the benefits I imagined, “being able to see haircuts, the inside of my shower while I’m showering, and the bottom of the pool” turned out to be pretty underwhelming.

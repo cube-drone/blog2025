@@ -2,8 +2,8 @@
 title = 'atoms isnt real'
 date = 2024-06-10T10:00:00-07:00
 draft = false
-categories = ["humor"]
-tags = []
+categories = ["humor", "conspiracy"]
+tags = ["atoms", "checkmate atom believers", "fahrenheit", "earth wind and fire"]
 +++
 
 there's no such thing as atoms

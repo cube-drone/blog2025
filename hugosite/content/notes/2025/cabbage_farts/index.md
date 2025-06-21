@@ -3,7 +3,7 @@ title = 'cabbage'
 date = 2025-03-01T11:00:00-07:00
 draft = false
 categories = ["humor", "food"]
-tags = ["farts ahoy"]
+tags = ["farts ahoy", "cabbage"]
 +++
 
 I eat a lot of cabbage. One five dollar head of cabbage has been vegetables with dinner all week, it's cheap, nutritious, and I have a handful of good cabbage recipes.

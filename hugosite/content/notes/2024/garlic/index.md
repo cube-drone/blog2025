@@ -3,7 +3,7 @@ title = "3 whole bulbs of garlic"
 date = 2024-05-30T12:00:00-07:00
 draft = false
 categories = ["food"]
-tags = ["garlic"]
+tags = ["garlic", "confit", "toum"]
 +++
 
 this person rightfully gets absolutely pilloried in the comments for failing to understand what constitutes a lot of garlic

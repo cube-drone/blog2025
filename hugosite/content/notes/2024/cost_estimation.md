@@ -3,7 +3,7 @@ title = 'Cost Estimation'
 date = 2024-10-10T11:00:00-07:00
 draft = false
 categories = ["software"]
-tags = []
+tags = ["estimation"]
 +++
 
 one of the big things you're going to have to get good at on the journey up the software development ladder is answering the questions of "how much will it cost" and "how long will it take" and honestly I see a lot of junior developers fall into the trap that accurately answering these questions is literally impossible

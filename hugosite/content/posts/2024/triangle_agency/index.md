@@ -3,7 +3,7 @@ title = "Triangle Agency"
 date = 2024-12-15T12:00:00-07:00
 draft = false
 categories = ["rpg"]
-tags = []
+tags = ["triangle agency", "quinns"]
 +++
 
 {{<imgwebp src="triangle.png">}}

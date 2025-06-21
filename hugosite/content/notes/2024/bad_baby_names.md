@@ -3,7 +3,7 @@ title = 'bad baby names'
 date = 2024-10-21T12:00:00-07:00
 draft = false
 categories = []
-tags = ["community"]
+tags = ["community", "bad baby names", "dave", "tragedeigh", "janarthanon", "crabitha", "hyort", "surfbort", "bort", "tressica", "beff", "jeffica"]
 +++
 
 > ## AITA for naming my baby something "unconventional"?

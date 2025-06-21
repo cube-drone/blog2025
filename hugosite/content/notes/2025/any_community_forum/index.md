@@ -3,7 +3,7 @@ title = "what was that noise?"
 date = 2025-01-03T10:00:00-07:00
 draft = false
 categories = ["humor", "technology"]
-tags = ["community"]
+tags = ["community", "nextdoor"]
 +++
 
 {{< imgwebp src="what_was_that.png">}}

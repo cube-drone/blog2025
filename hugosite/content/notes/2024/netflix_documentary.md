@@ -3,7 +3,7 @@ title = 'hired gun'
 date = 2024-10-30T12:00:00-07:00
 draft = false
 categories = ["music"]
-tags = []
+tags = ["billy joel", "alice cooper"]
 +++
 
 i wanted a Netflix documentary about "hired gun" studio musicians who were talented working professionals who you've probably heard on loads of pop songs but who are mostly unknown

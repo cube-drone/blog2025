@@ -3,7 +3,7 @@ title = 'Hawkins Cheezies'
 date = 2025-03-25T12:00:00-07:00
 draft = false
 categories = ["canada"]
-tags = []
+tags = ["hawkins", "cheezies", "cheetos"]
 +++
 
 {{< imgavif src="hawkins.png" alt="cheezies" >}}

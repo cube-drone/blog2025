@@ -3,7 +3,7 @@ title = 'Cultist Simulator'
 date = 2021-06-15T12:00:00-07:00
 draft = false
 categories = ["video games"]
-tags = ["cards", "games where the wiki is more fun than the game itself"]
+tags = ["cards", "games where the wiki is more fun than the game itself", "cultist simulator"]
 +++
 
 {{<imgwebp src="bafta.png">}}

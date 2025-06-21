@@ -3,7 +3,7 @@ title = "justifications for rust"
 date = 2025-01-03T09:00:00-07:00
 draft = false
 categories = ["software", "rust"]
-tags = ["trans"]
+tags = ["trans", "crab"]
 +++
 
 ![](./why_rust.png)

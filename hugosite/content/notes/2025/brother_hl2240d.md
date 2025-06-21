@@ -3,7 +3,7 @@ title = "Brother HL-2240D"
 date = 2025-02-15T11:00:00-07:00
 draft = false
 categories = ["technology"]
-tags = ["printer"]
+tags = ["printer", "oh brother where art thou"]
 +++
 
 happy 13th birthday to my Brother HL-2240D laser printer, may you print forevermore

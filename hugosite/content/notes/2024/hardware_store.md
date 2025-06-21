@@ -3,7 +3,7 @@ title = 'hardware store'
 date = 2024-04-03T11:00:00-07:00
 draft = false
 categories = ["music"]
-tags = []
+tags = ["weird al", "harmony"]
 +++
 
 in interview, Weird Al has mentioned that Albequerque is one of his most requested songs, presumably because it's length makes it seem like it would be difficult to perform live: but actually it's quite easy.

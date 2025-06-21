@@ -3,7 +3,7 @@ title = "Emulation Isn't Piracy"
 date = 2024-04-05T12:00:00-07:00
 draft = false
 categories = ["technology", "video games"]
-tags = ["emulation"]
+tags = ["emulation", "piracy", "technically"]
 +++
 
 "emulation isn't piracy" is, IMO, a "guns don't kill people" argument: while it's technically true, it's also _not helpful_?

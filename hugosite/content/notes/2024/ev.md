@@ -3,7 +3,7 @@ title = 'ev prices'
 date = 2024-02-25T10:00:00-07:00
 draft = false
 categories = ["car"]
-tags = []
+tags = ["cheap"]
 +++
 
 “I’m gonna buy an EV!”

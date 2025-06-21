@@ -2,8 +2,8 @@
 title = 'cyberpunk'
 date = 2024-01-21T10:00:00-07:00
 draft = false
-categories = ["media"]
-tags = ["cyberpunk"]
+categories = ["media", "science fiction"]
+tags = ["cyberpunk", "creds"]
 +++
 
 I'm not sure what there's left for cyberpunk fiction to offer, there's already five corporations that own everything, powered skateboards, portable hacking devices, and a ubiquitous net, that's just "fiction" now.

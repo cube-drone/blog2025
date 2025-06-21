@@ -3,7 +3,7 @@ title = 'terraform aint easy'
 date = 2024-02-13T10:00:00-07:00
 draft = false
 categories = ["software"]
-tags = ["devops"]
+tags = ["devops", "terraform", "clickops", "iac"]
 +++
 
 There was a recent Reddit post where a DevOps employee lost their shit because their co-workers weren't getting on board immediately with their Terraform repo, and

@@ -3,7 +3,7 @@ title = "Agedashi"
 date = 2024-01-29T12:00:00-07:00
 draft = false
 categories = ["food"]
-tags = []
+tags = ["tofu"]
 +++
 
 ![](./tofu.png)

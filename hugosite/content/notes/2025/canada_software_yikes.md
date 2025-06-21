@@ -3,7 +3,7 @@ title = "canada's yikes software ecosystem"
 date = 2025-03-03T12:00:00-07:00
 draft = false
 categories = ["software", "canada"]
-tags = []
+tags = ["enterprise java"]
 +++
 
 woof, someone tried to compile a list of Canadian digital services and in the "replacements for cloud services like AWS" column they have, like, eight versions of "guy running a software consultancy out of his boat" and a bunch of companies that can not meaningfully compete with Hetzner

@@ -3,7 +3,7 @@ title = 'solar rug'
 date = 2024-02-15T10:00:00-07:00
 draft = false
 categories = ["science", "humor"]
-tags = []
+tags = ["mustard"]
 +++
 
 When I was a kid we had a to-scale rug of the solar system

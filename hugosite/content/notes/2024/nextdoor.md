@@ -3,7 +3,7 @@ title = 'nextdoor'
 date = 2024-08-09T10:00:00-07:00
 draft = false
 categories = ["technology"]
-tags = ["community", "ai"]
+tags = ["community", "ai", "nextdoor"]
 +++
 
 local communities on any platform like reddit are nothing more than a constant drumbeat of "what was that siren?" and "someone's dog pooped" and "i think I saw a criminal??" in small cities

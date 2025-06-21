@@ -3,7 +3,7 @@ title = "caked up foxes"
 date = 2024-07-30T11:00:00-07:00
 draft = false
 categories = ["technology", "vrchat"]
-tags = ["mastodon"]
+tags = ["mastodon", "caked-up foxes"]
 +++
 
 ![](./mastodon.png)

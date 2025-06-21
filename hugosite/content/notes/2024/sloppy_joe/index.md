@@ -3,7 +3,7 @@ title = "The Sloppy Swindle"
 date = 2024-07-09T11:00:00-07:00
 draft = false
 categories = ["food", "humor"]
-tags = []
+tags = ["sloppy joe", "french toast", "food disasters"]
 +++
 
 the game is to post five star reviews of recipes where it becomes increasingly clear that you just made a sloppy joe rather than their recipe

@@ -2,7 +2,7 @@
 title = 'my hobby'
 date = 2024-06-23T11:00:00-07:00
 draft = false
-categories = ["humour"]
+categories = ["humor", "wife"]
 tags = ["farts ahoy"]
 +++
 

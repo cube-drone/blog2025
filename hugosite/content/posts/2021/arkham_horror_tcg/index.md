@@ -3,7 +3,7 @@ title = 'Arkham Horror (TCG)'
 date = 2021-11-15T12:00:00-07:00
 draft = false
 categories = ["board games"]
-tags = ["cards"]
+tags = ["cards", "arkham horror", "cultist simulator"]
 +++
 
 So, uh, perhaps you are familiar with Arkham Horror? Maybe a decade ago I brought you to my home to attempt to play it as a group?

@@ -3,7 +3,7 @@ title = 'Your own Personal Cookbook'
 date = 2024-10-07T12:00:00-07:00
 draft = false
 categories = ["food"]
-tags = []
+tags = ["cookbook", "brine", "ponzu", "lemon curd", "waffle", "bread", "ice cream", "dutch baby", "cookie", "batter"]
 +++
 
 One of the problems with maintaining your own personal cookbook is that you just memorize how to cook most things, so mostly your recipe book just needs to be a handful of ratios, instructions for more complex and easy-to-forget recipes, and just a list of the things you know how to cook to remind you of all of them when you're looking for inspiration.

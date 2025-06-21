@@ -3,7 +3,7 @@ title = 'FOSS is not a business model'
 date = 2024-05-16T11:00:00-07:00
 draft = false
 categories = ["technology", "software"]
-tags = []
+tags = ["foss", "saas"]
 +++
 
 I saw someone on Mastodon pillorying someone's little personal code project for not being FOSS

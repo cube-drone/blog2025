@@ -3,7 +3,7 @@ title = 'software conferences'
 date = 2024-02-05T10:00:00-07:00
 draft = false
 categories = ["software", "technology", "humor", "rust"]
-tags = ["javascript", "php", "go", "c", "aws", "rabbitMQ", "mastodon", "lisp", "emulation", "roguelike", "C#", "scrum"]
+tags = ["javascript", "php", "go", "c", "aws", "rabbitMQ", "mastodon", "lisp", "emulation", "roguelike", "C#", "scrum", "retro emulation", "functional programming"]
 +++
 
 the thing I like about javascript conferences is that they only have one room for talks but they just get whoever's on the mic at any given time to hand it over when they need time to set something up, so you can quickly catch loads of talks so long as you don't mind that they're in kind of a jumbled order

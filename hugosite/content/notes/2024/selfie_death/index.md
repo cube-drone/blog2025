@@ -3,7 +3,7 @@ title = "selfie"
 date = 2024-08-07T11:00:00-07:00
 draft = false
 categories = ["technology"]
-tags = []
+tags = ["nft"]
 +++
 
 it's going to be an uphill battle getting me to take "selfie deaths" seriously

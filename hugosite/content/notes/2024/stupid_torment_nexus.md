@@ -3,7 +3,7 @@ title = 'stupid torment nexus'
 date = 2024-05-13T11:00:00-07:00
 draft = false
 categories = ["technology", "comedy"]
-tags = []
+tags = ["torment nexus"]
 +++
 
 Comedy Author: In my sitcom I invented the Stupid Torment Nexus as a joke, to make fun of the dumb things that people build.

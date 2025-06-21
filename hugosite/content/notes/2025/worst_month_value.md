@@ -3,7 +3,7 @@ title = 'worst month value'
 date = 2025-02-14T09:00:00-07:00
 draft = false
 categories = ["software"]
-tags = []
+tags = ["february"]
 +++
 
 had a weird ticket at work whose resolution was simply explaining that February has, in fact, 28 days[^1], meaning

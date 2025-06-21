@@ -3,7 +3,7 @@ title = 'Double Jeopardy'
 date = 2024-11-12T11:00:00-07:00
 draft = false
 categories = ["software"]
-tags = ["rambling stories that don't go anywhere"]
+tags = ["rambling stories that don't go anywhere", "double jeopardy", "academic dishonesty"]
 +++
 
 In one year of university, I had a compilers course and a sound course and I had to do a project in both, so for both classes I handed in a sound compiler that converted a musical language into audio.

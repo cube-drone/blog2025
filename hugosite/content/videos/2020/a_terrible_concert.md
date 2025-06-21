@@ -1,7 +1,7 @@
 +++
 title = 'A Terrible Concert from a Confused, Glitchy AI'
 date = 2020-10-20T12:00:00-07:00
-categories = ["video", "software", "gamedev"]
+categories = ["video", "software", "gamedev", "music"]
 tags = ["ai"]
 +++
 

@@ -2,7 +2,7 @@
 title = 'Vibe Coding'
 date = 2025-05-22T12:00:00-07:00
 categories = ["humor", "software"]
-tags = ["ai"]
+tags = ["ai", "buttplug.io"]
 +++
 
 {{< imgavif src="vibe.png" alt="vibe coding" >}}

@@ -3,7 +3,7 @@ title = 'dying tech'
 date = 2024-03-31T10:00:00-07:00
 draft = false
 categories = ["technology"]
-tags = []
+tags = ["newspaper"]
 +++
 
 cineplex charged me three extra dollars for buying tickets online because they despise their customers, technology, and joy

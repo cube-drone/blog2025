@@ -3,7 +3,7 @@ title = "Security Fail"
 date = 2024-07-09T12:00:00-07:00
 draft = false
 categories = ["software"]
-tags = ["security"]
+tags = ["security", "password manager", "password123"]
 +++
 
 ![](./sec.png)

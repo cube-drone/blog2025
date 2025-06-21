@@ -3,7 +3,7 @@ title = 'piano man'
 date = 2024-01-26T10:00:00-07:00
 draft = false
 categories = ["humor", "music"]
-tags = []
+tags = ["billy joel", "modified lyrics"]
 +++
 
 There's an old man sitting next to me, making love to his tonic and gin. (gross)

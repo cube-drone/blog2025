@@ -3,7 +3,7 @@ title = 'black pepper'
 date = 2024-10-20T12:00:00-07:00
 draft = false
 categories = ["food"]
-tags = ["spices", "kraft dinner"]
+tags = ["spices", "kraft dinner", "black pepper", "cheese"]
 +++
 
 some of the simplest and most satisfying dishes I know are ones where salt and pepper do almost all of the heavy lifting

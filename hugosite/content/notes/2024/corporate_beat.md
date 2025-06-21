@@ -3,7 +3,7 @@ title = 'corporate beat poetry'
 date = 2024-05-14T11:00:00-07:00
 draft = false
 categories = ["software", "work work"]
-tags = ["corporate"]
+tags = ["corporate", "poetry"]
 +++
 
 Following up

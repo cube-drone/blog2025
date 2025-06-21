@@ -3,7 +3,7 @@ title = 'coffee shops'
 date = 2024-12-21T12:00:00-07:00
 draft = false
 categories = ["software", "humor"]
-tags = ["aws", "redis", "cloudflare", "datadog", "solarwinds"]
+tags = ["aws", "redis", "cloudflare", "datadog", "solarwinds", "coffee"]
 +++
 
 **AWS** has launched a coffee shop

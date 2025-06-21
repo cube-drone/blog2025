@@ -3,7 +3,7 @@ title = 'wacky 90s fads'
 date = 2025-02-24T12:00:00-07:00
 draft = false
 categories = ["humor", "software"]
-tags = []
+tags = ["smbc"]
 +++
 
 ![](./smbc.webp)

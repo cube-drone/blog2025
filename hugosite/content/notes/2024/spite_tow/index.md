@@ -3,7 +3,7 @@ title = "spite tow"
 date = 2024-02-22T12:00:00-07:00
 draft = false
 categories = ["car", "software", "rust"]
-tags = ["javascript"]
+tags = ["javascript", "miata"]
 +++
 
 **the tow capacity of a Miata is a sternly worded note in the manual saying "no"**

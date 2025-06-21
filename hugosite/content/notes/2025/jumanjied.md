@@ -3,7 +3,7 @@ title = 'jumanjied'
 date = 2025-01-08T12:00:00-07:00
 draft = false
 categories = ["humor", "link", "board games"]
-tags = []
+tags = ["snl", "jumanji"]
 +++
 
 this is one of my favourite recent SNL sketches

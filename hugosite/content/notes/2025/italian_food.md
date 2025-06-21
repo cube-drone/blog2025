@@ -3,7 +3,7 @@ title = 'mamma mia'
 date = 2025-03-12T12:00:00-07:00
 draft = false
 categories = ["humor", "food"]
-tags = ["basta"]
+tags = ["basta", "ayyyyyyyy", "mamma mia"]
 +++
 
 the secret to good Italian food is to loudly announce "MAMMA MIA" every time you add garlic to a pan. if you don’t do this, the garlic will sense your fear and burn immediately. this is science.

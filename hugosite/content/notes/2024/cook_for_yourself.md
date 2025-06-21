@@ -3,7 +3,7 @@ title = 'cook for yourself'
 date = 2024-08-24T11:00:00-07:00
 draft = false
 categories = ["food"]
-tags = []
+tags = ["motivation", "puff pastry"]
 +++
 
 there's a thought that starts to come to mind when  you've been cooking for a long time, which is "i could make that, cheaper, at home" , which is a rewarding thread to pull on, it turns out

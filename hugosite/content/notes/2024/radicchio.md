@@ -3,7 +3,7 @@ title = 'radicchio recipe'
 date = 2024-10-19T12:00:00-07:00
 draft = false
 categories = ["food"]
-tags = ["the worst food"]
+tags = ["the worst food", "radicchio"]
 +++
 
 This Radicchio recipe will knock your socks off!

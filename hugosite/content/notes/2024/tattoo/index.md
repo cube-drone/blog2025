@@ -3,7 +3,7 @@ title = "curtis gets a nice new tattoo"
 date = 2024-05-20T12:00:00-07:00
 draft = false
 categories = ["art"]
-tags = ["tattoo"]
+tags = ["tattoo", "balatro"]
 +++
 
 {{<imgwebp src="tattoo1.png">}}

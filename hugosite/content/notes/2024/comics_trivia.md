@@ -3,7 +3,7 @@ title = 'unhelpful comics trivia'
 date = 2024-01-26T10:00:00-07:00
 draft = false
 categories = ["humor", "comics"]
-tags = []
+tags = ["watchmen", "dr. manhattan", "the boys", "rorschach"]
 +++
 
 **Trivia**: in the 1985/1986 comic series "The Watchmen", a primary character, Dr. Manhattan, apprenticed under his father as a watchmaker, making him literally a watch man

@@ -3,7 +3,7 @@ title = 'javascript and mongo: good actually'
 date = 2024-12-13T12:00:00-07:00
 draft = false
 categories = ["software"]
-tags = ["javascript", "mongodb"]
+tags = ["javascript", "mongodb", "mongo", "shard", "postgres", "cassandra", "scylla", "dynamo"]
 +++
 
 part of my job remains explaining to people that MongoDB and JavaScript are good, actually

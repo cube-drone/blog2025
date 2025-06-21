@@ -3,7 +3,7 @@ title = 'too many threads'
 date = 2024-10-24T12:00:00-07:00
 draft = false
 categories = []
-tags = ["community"]
+tags = ["community", "slack", "discord"]
 +++
 
 I don't like it when I crack into a discord community with like 100 people in it and they have 40 different threads

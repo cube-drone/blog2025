@@ -3,7 +3,7 @@ title = "Crock"
 date = 2024-04-30T11:00:00-07:00
 draft = false
 categories = ["food", "humor"]
-tags = []
+tags = ["whisk"]
 +++
 
 to make a point in a slack channel, I looked up "utensil crock" on google image search

@@ -3,7 +3,7 @@ title = 'voting'
 date = 2024-10-09T12:00:00-07:00
 draft = false
 categories = ["politics"]
-tags = []
+tags = ["voting"]
 +++
 
 i wish BC had ranked voting, so that I could vote for NDP _and_ Green, _and_ the ridiculous joke candidate who's name is "Jimmy Boxcars" and who promises to establish a BC colony on the moon, and literally everybody _but_ this conservative goon who's promising to bring law enforcement into hospitals or whatever

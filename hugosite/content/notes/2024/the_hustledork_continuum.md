@@ -3,7 +3,7 @@ title = 'the hustledork continuum'
 date = 2024-10-11T12:00:00-07:00
 draft = false
 categories = ["technology"]
-tags = ["community"]
+tags = ["community", "linkedin", "hustledork"]
 +++
 
 the bottom of the Youtube Shorts barrel is this dollar-store motivational content with 0 likes, 0 views and no subscribers where some chump is like "ONLY YOU CAN CHASE YOUR DREAMS, NOBODY ELSE CAN CHASE YOUR DREAMS FOR YOU"

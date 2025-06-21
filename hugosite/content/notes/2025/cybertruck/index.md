@@ -3,7 +3,7 @@ title = 'Cybertruck Too Big, Impractical'
 date = 2025-03-18T10:00:00-07:00
 draft = false
 categories = ["car"]
-tags = []
+tags = ["cybertruck", "prius"]
 +++
 
 _(quietly)_

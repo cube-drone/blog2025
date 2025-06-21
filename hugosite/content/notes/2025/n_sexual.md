@@ -3,7 +3,7 @@ title = 'N-Sexual'
 date = 2025-05-07T12:00:00-07:00
 draft = false
 categories = ["humor"]
-tags = ["bisexual", "binary"]
+tags = ["bisexual", "binary", "asexual", "unary"]
 +++
 
 bisexuality - two sexualities

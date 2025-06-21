@@ -3,7 +3,7 @@ title = 'lamy'
 date = 2024-11-19T12:00:00-07:00
 draft = false
 categories = []
-tags = ["stationery"]
+tags = ["stationery", "pen", "pencil"]
 +++
 
 I have a friend who's way into pens and she convinced me to buy a Nice Fountain Pen and I hated it.

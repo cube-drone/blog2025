@@ -3,7 +3,7 @@ title = "if you can't measure it"
 date = 2024-08-07T11:00:00-07:00
 draft = false
 categories = ["software"]
-tags = []
+tags = ["measurement", "management"]
 +++
 
 I often see the quote "if you can't measure it, you can't manage it", which is catchy enough to have a lively life of its own

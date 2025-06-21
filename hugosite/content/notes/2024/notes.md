@@ -3,7 +3,7 @@ title = 'notes'
 date = 2024-01-25T10:00:00-07:00
 draft = false
 categories = ["technology"]
-tags = []
+tags = ["notes"]
 +++
 
 Right now, if you compile notes in a tree-style "knowledge base" format, [Obsidian](https://obsidian.md/) is the best tool - this is best for dungeon mastering and documents.

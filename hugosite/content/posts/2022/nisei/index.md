@@ -3,7 +3,7 @@ title = 'I Just Printed The Entire NISEI System Gateway At Home; Learn From My M
 date = 2022-06-15T12:00:00-07:00
 draft = false
 categories = ["board games"]
-tags = ["cards", "netrunner"]
+tags = ["cards", "netrunner", "android: netrunner"]
 +++
 
 {{<imgwebp src="stacks.png">}}

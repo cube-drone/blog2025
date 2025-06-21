@@ -3,7 +3,7 @@ title = "corned beefin it"
 date = 2024-09-02T12:00:00-07:00
 draft = false
 categories = ["food"]
-tags = []
+tags = ["corned beef"]
 +++
 
 Option A: buy a deli slicer for hundreds of dollars

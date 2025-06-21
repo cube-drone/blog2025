@@ -3,7 +3,7 @@ title = "Best Miyazaki Films"
 date = 2024-07-06T12:00:00-07:00
 draft = false
 categories = ["media"]
-tags = ["anime"]
+tags = ["anime", "kiki's delivery service", "porco rosso"]
 +++
 
 

@@ -3,7 +3,7 @@ title = 'kohlrabi'
 date = 2024-07-29T11:00:00-07:00
 draft = false
 categories = ["humor", "food"]
-tags = []
+tags = ["cabbage", "softball", "unusual vegetables"]
 +++
 
 > “I shall call it the cabbage softball”

@@ -3,7 +3,7 @@ title = "Gaming Tables"
 date = 2024-12-08T12:00:00-07:00
 draft = false
 categories = ["board games"]
-tags = []
+tags = ["tables"]
 +++
 
 new gaming tables run multiple thousands of dollars and tend towards a design with hang-on-cupholders where a large rectangular board is really deeply recessed, which is really only practical or necessary if you have games that you intend to run for multiple sessions and also have super-long monkey arms

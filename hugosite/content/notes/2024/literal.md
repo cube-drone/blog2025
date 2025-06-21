@@ -2,7 +2,7 @@
 title = 'literal minded'
 date = 2024-01-28T10:00:00-07:00
 draft = false
-categories = ["real news"]
+categories = ["real news", "humor"]
 tags = []
 +++
 

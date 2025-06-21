@@ -3,7 +3,7 @@ title = 'The hardest working font in Manhattan'
 date = 2025-02-14T12:00:00-07:00
 draft = false
 categories = ["design", "link"]
-tags = []
+tags = ["gorton", "font"]
 +++
 
 > [The hardest working font in Manhattan ](https://aresluna.org/the-hardest-working-font-in-manhattan/)

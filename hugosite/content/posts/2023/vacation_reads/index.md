@@ -3,7 +3,7 @@ title = "Vacation Reads"
 date = 2023-05-15T12:00:00-07:00
 draft = false
 categories = ["books", "science fiction", "conspiracy"]
-tags = []
+tags = ["scp", "there is no antimemetics division", "piranesi"]
 +++
 
 Through no fault of my own, I've accidentally stumbled into a themed reading list. It wasn't on purpose, but definitely my last three books have explored themes of _memory_, _belief_, and _hazardous information_.

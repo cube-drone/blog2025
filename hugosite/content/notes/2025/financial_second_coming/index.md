@@ -3,7 +3,7 @@ title = 'Financial Second Coming'
 date = 2025-03-25T10:00:00-07:00
 draft = false
 categories = ["humor", "conspiracy"]
-tags = ["religion"]
+tags = ["religion", "gme", "gamestop"]
 +++
 
 {{< imgavif src="zeepzorp.png" alt="parks and rec" >}}

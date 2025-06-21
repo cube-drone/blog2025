@@ -3,7 +3,7 @@ title = "SaaS Rep"
 date = 2024-12-09T12:00:00-07:00
 draft = false
 categories = ["software"]
-tags = []
+tags = ["saas"]
 +++
 
 hey, I'm your new account rep at SaaS company

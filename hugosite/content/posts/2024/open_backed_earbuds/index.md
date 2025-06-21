@@ -3,7 +3,7 @@ title = "open-backed... earbuds?"
 date = 2024-09-11T13:00:00-07:00
 draft = false
 categories = ["technology", "recommendations"]
-tags = []
+tags = ["headphones"]
 +++
 
 Okay, so, we're now firmly in the era of "phones don't have 3.5mm headphone jacks". I don't like it but I've come to terms with it somewhat.

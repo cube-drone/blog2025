@@ -2,7 +2,7 @@
 title = 'Roasted Garlic Miso Ramen'
 date = 2025-04-10T04:00:00-07:00
 categories = ["food"]
-tags = []
+tags = ["garlic", "miso", "ramen"]
 +++
 
 {{< imgavif src="ramen.png" alt="Roasted Garlic Miso Ramen" >}}

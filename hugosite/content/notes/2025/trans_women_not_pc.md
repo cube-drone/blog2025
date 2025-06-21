@@ -3,7 +3,7 @@ title = 'A Moment of Transcendence'
 date = 2025-06-14T20:58:27-07:00
 draft = false
 categories = ["humor"]
-tags = ["trans"]
+tags = ["trans", "linux"]
 +++
 
 some cranky {{< sidenote old >}}

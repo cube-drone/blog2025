@@ -3,7 +3,7 @@ title = "alexa, play mariachi radio"
 date = 2024-07-27T12:00:00-07:00
 draft = false
 categories = ["technology"]
-tags = ["home automation", "alexa"]
+tags = ["home automation", "alexa", "mariachi", "radio"]
 +++
 
 For some absolutely asinine reason I have smart lights in my house.

@@ -3,7 +3,7 @@ title = "fascinated by conspiracies"
 date = 2025-01-12T12:00:00-07:00
 draft = false
 categories = ["conspiracy"]
-tags = []
+tags = ["time cube", "sovcit"]
 +++
 
 like most people, I'm kinda low-key fascinated with insane conspiracy theories and insidious cults, even if a lot of the time it turns out that the true believers are just afflicted with the potent combination of "terminally online" and "mentally ill"

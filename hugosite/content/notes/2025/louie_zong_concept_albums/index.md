@@ -3,7 +3,7 @@ title = "Great Little Louie Zong Concept Albums"
 date = 2025-04-26T12:00:00-07:00
 draft = false
 categories = ["music", "video games"]
-tags = ["corporate"]
+tags = ["corporate", "louie zong"]
 +++
 
 Need to do some BUSINESS! in the 1990s?

@@ -1,8 +1,8 @@
 +++
 title = 'I Built a Card Game Very Quickly with AI-Generated Art'
 date = 2022-04-03T12:00:00-07:00
-categories = ["video", "software", "gamedev"]
-tags = ["ai"]
+categories = ["video", "software", "gamedev", "art"]
+tags = ["ai", "cards"]
 +++
 
 {{< youtube

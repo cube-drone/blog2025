@@ -3,7 +3,7 @@ title = 'mastodon good'
 date = 2024-10-18T12:00:00-07:00
 draft = false
 categories = ["technology"]
-tags = ["community", "mastodon"]
+tags = ["community", "mastodon", "spam"]
 +++
 
 man, for a protocol that doesn't seem like it has much of a defense against random bullshit from third party outsiders, [Mastodon](https://joinmastodon.org)'s moderation (on my instance, at least) is pretty tight.

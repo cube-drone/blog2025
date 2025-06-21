@@ -3,7 +3,7 @@ title = 'unethical life pro tip'
 date = 2024-12-24T11:00:00-07:00
 draft = false
 categories = ["humor"]
-tags = []
+tags = ["escooter", "unethical life pro tips", "fire: in the tenement building"]
 +++
 
 the trouble with e-scooters, which are convenient and a lot of fun, is e-waste: how do you get rid of these large, dangerous batteries when the device hits its inevitable EOL?

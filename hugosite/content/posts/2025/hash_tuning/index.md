@@ -3,7 +3,7 @@ title = "Hash Tuning"
 date = 2025-03-11T11:00:00-07:00
 draft = false
 categories = ["software"]
-tags = ["testing"]
+tags = ["testing", "hash functions"]
 +++
 
 I build a new auth system about once a year.

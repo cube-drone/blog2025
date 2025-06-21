@@ -1,9 +1,9 @@
 +++
-title = "proton"
+title = "botnet"
 date = 2025-02-15T10:00:00-07:00
 draft = false
 categories = ["technology"]
-tags = ["mastodon", "community"]
+tags = ["mastodon", "community", "protonmail"]
 +++
 
 So, our company, as a matter of policy and practicality, doesn't allow users from email providers that can algorithmically spin up new e-mail addresses with no restrictions, because they have an enormously high tendency to be botnets.

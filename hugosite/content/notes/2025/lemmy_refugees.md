@@ -3,7 +3,7 @@ title = "lemmy refugees"
 date = 2025-02-18T12:00:00-07:00
 draft = false
 categories = ["technology"]
-tags = ["mastodon", "community"]
+tags = ["mastodon", "community", "lemmy"]
 +++
 
 

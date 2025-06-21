@@ -3,7 +3,7 @@ title = "Stacksquatch"
 date = 2024-09-01T11:00:00-07:00
 draft = false
 categories = ["video games", "vr"]
-tags = []
+tags = ["katamari damacy", "squatch"]
 +++
 
 A friend of mine has released this VR game where you... stack things.

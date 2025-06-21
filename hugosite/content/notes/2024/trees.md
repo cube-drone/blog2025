@@ -3,7 +3,7 @@ title = 'inventions'
 date = 2024-06-17T10:00:00-07:00
 draft = false
 categories = ["humor"]
-tags = ["infrastructure"]
+tags = ["infrastructure", "trees"]
 +++
 
 so, after learning about awnings and how they provide degrees of totally free cooling in the summer, but need to be rolled down in the winter when you _want_ that heat

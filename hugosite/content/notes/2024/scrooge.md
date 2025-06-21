@@ -3,7 +3,7 @@ title = 'Scroogy'
 date = 2024-12-16T12:00:00-07:00
 draft = false
 categories = ["christmas"]
-tags = []
+tags = ["scrooge", "phlegm", "humors"]
 +++
 
 What did Tiny Tim even have that Scrooge being less of an asshole could fix it? Not enough turkey-itus? Leech deficiency? Too much phlegm in the humors?

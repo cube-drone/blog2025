@@ -3,7 +3,7 @@ title = 'one more CMS'
 date = 2024-10-12T12:00:00-07:00
 draft = false
 categories = ["technology", "writing"]
-tags = []
+tags = ["cms", "systems"]
 +++
 
 surely when I finish this new CMS i will start to become a productive writer/artist
