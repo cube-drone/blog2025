@@ -22,3 +22,29 @@ pictured, Zapp when he sees another cat chilling harmlessly and enjoying themsel
 When his bloodlust vis-a-vis the concept of other cats subsides, he’s super sweet
 
 ![](./cute.png)
+
+-----
+
+"Why are all of your pictures of Zapp when he's sleepy and snuggly?"
+
+because when he’s feeling playful all of the pictures look like this:
+
+![](./energy-1.png)
+![](./energy-2.png)
+
+When I was a kid I had Australian shepherds and I love that bengals have that kind of energy and intelligence, but that also makes them challenging (but rewarding) pets.
+
+
+-----
+
+long
+
+![](./long.png)
+
+-----
+
+as a kid I always dreamed of graphs, and charts, and DOS, and more and better computer technology
+
+and now as an adult I'm just fascinated with cookies, and this adorable little kitty who wants to play with me and sit quietly and form a happy warm ball in my lap
+
+which feels a little backwards, but I'll accept it
