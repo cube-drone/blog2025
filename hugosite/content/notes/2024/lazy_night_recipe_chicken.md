@@ -3,7 +3,7 @@ title = 'lazy night recipe chicken'
 date = 2024-12-08T12:00:00-07:00
 draft = false
 categories = ["food"]
-tags = ["lazy", "chicken"]
+tags = ["lazy", "chicken", "bachelor's handbag"]
 +++
 
 the absolute king of lazy night recipes was something I attribute to my mom:

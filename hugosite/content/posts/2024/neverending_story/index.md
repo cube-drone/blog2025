@@ -122,10 +122,11 @@ In fact, that's just Act 1!
 the story inspired Homestuck in other ways than this, also
 {{< /sidenote >}}
 *  _whoops_.
-* An evil sorceress, Xayide, commander of hollow metallic armies,
-{{< sidenote armies.>}}
+* An evil sorceress
+{{< sidenote Xayide>}}
 herself created from a wish triggered by Bastian's selfish desire to stay
 {{< /sidenote >}}
+, commander of hollow metallic armies,
 starts supplicating herself to Bastian and advising Bastian to be _more selfish_ in a plot to separate him from Atreyu and make a claim for the crown.
 * Bastian gives Atreyu the boot and builds an army to try and take over Fantastica for himself.
 * Bastian is just about to overtake the Ivory Tower and become the new Childlike Emperor when Atreyu intervenes with an army of his own, and there's a bloody and violent fantasy war.
