@@ -6,6 +6,10 @@ categories = ["media", "humor", "food"]
 tags = []
 +++
 
+{{<imgwebp src="chopchop.png">}}
+<!--more-->
+
+
 How do you celebrate losing your sense of taste and
 {{<sidenote smell>}}
 temporarily, due to COVID
