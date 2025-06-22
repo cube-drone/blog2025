@@ -34,3 +34,10 @@ Ok, if you want to go outside so badly, let's give it a try!
 ok, fresh problem, now you want to be outside
 all of the time
 ![](./shouting.png)
+
+
+-------
+
+I am fortunate that Zapp is smart but not very heavy
+
+![](./smart.png)
