@@ -167,3 +167,32 @@ There is of course no #columbo posting without mentioning "I Hear The Blues A-Ki
 Joe Chouinard which is the Frasier x Columbo crossover comic the world has needed all these years
 
 https://www.tumblr.com/joechoui/724392286725832704/i-hear-the-blues-a-killin-or-frasier-meets
+
+
+-----
+
+One thing that shocks me is that these episodes - a lot of Columbo episodes - completely do away with any denouement.
+
+There's no "and I would have gotten away with it, too, if it weren't for you meddling kids",
+![](./kids.png)
+
+
+instead Columbo DROPS THE FUCKIN' HAMMER, you get the endorphins of the solve, roll credits.
+
+![](./hammer.png)
+
+That's actually, I think, one of the things that makes "Any Old Port in a Storm" one of the most beloved episodes of Columbo - it _has_ a denouement.
+
+Columbo and the murderer have good rapport, the murderer had a pretty sympathetic motive, and the solve happens 5 minutes before the end of the episode. Then, after the solve, there's a wind-down period where the murderer is just, like, "wow, you really fuckin got me, that was clever as hell" and they sit and have a drink and a chuckle together before the credits roll.
+
+![](./port-1.png)
+![](./port-2.png)
+
+-----
+
+wanna see Peter Falk convey investigation entirely through mime?
+
+![](./mime-1.png)
+![](./mime-2.png)
+![](./mime-3.png)
+![](./mime-4.png)
