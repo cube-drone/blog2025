@@ -16,3 +16,8 @@ tags = []
 attn: cat would like to outside:
 
 ![](./outside.png)
+
+-----
+computer
+
+![](./computer.png)
