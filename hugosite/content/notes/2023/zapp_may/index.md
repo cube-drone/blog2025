@@ -15,3 +15,9 @@ ha ha u fell for it
 
 ![](./help-3.png)
 ![](./help-4.png)
+
+----
+
+Packing? No, we’re just making loads of new cat beds.
+
+![](./bin.png)
