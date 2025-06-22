@@ -21,3 +21,16 @@ attn: cat would like to outside:
 computer
 
 ![](./computer.png)
+
+------
+
+Ok, if you want to go outside so badly, let's give it a try!
+
+![](./not-so-bad.png)
+![](./not-so-bad-2.png)
+
+...
+
+ok, fresh problem, now you want to be outside
+all of the time
+![](./shouting.png)
