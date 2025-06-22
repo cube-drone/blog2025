@@ -47,3 +47,5 @@ Now we just set our tavern maintenance cost to 6gp/day aaand:
 |61-80 |The business covers its own maintenance cost for the day, plus a profit of 2d6 x 10gp|
 |81-90 |The business covers its own maintenance cost for the day, plus a profit of 2d8 x 20gp|
 |91+ |The business covers its own maintenance cost for the day, plus a profit of 6d10 x 10gp |
+
+**Editor's Note**: years later and this tavern has been reliably churning out money for the players. It feels satisfying, I think I picked good numbers here, and I'm still not entirely certain if the tavern's high cost of opening has been _fully_ paid off (we had one very long night that took a few months to resolve), but it's _fine_.
