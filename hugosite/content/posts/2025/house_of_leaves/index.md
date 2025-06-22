@@ -8,7 +8,7 @@ tags = ["the king in yellow", "house of leaves", "homestuck", "meaningfully colo
 
 {{<imgwebp src="hol.png">}}
 
-So, 25 years after it launched, I finally read House of Leaves.
+So, 25 years after it launched, I finally read {{<blue>}}House{{</blue>}} of Leaves.
 
 <!--more-->
 
@@ -16,14 +16,14 @@ That time I read Homestuck 5 times over 5 consecutive {{< sidenote years >}}
 I feel like I should write a very long blog post about this sometime.
 {{< /sidenote >}}:
 
-> * it’s like if House of Leaves was awesome instead of horseshit
+> * it’s like if {{<blue>}}House{{</blue>}} of Leaves was awesome instead of horseshit
 > * <small>I’ve never actually read house of leaves it sounds like horseshit though</small>
 
 That time I read Neverending Story:
 
 > (side note: this is also why I’ve been holding off on [House of Leaves](https://en.wikipedia.org/wiki/House_of_Leaves), which is also in my reading queue now that I’ve got a color e-reader)
 
-So I've been _aware_ of House of Leaves for a long time, but I wasn't willing to fully tackle it until I had a _large format full-color e-reader_.
+So I've been _aware_ of {{<blue>}}House{{</blue>}} of Leaves for a long time, but I wasn't willing to fully tackle it until I had a _large format full-color e-reader_.
 
 Which, uh: I guess I've had one of those for a little over a year now.
 
@@ -42,9 +42,9 @@ with a bunch of images that I stole from the r/houseofleaves subreddit because t
 
 ## Reading Patterns
 
-The first 50 pages of House of Leaves took me weeks to read. I'd open it, power through some boring-ass text, fail to see what the deal was, and put it back down.
+The first 50 pages of {{<blue>}}House{{</blue>}} of Leaves took me weeks to read. I'd open it, power through some boring-ass text, fail to see what the deal was, and put it back down.
 
-The last 700 pages of House of Leaves took me 2 days to read. Once I got in to it, it became harder to put down.
+The last 700 pages of {{<blue>}}House{{</blue>}} of Leaves took me 2 days to read. Once I got in to it, it became harder to put down.
 
 {{<imgwebp src="beefus.png">}}
 
@@ -52,7 +52,7 @@ The last 700 pages of House of Leaves took me 2 days to read. Once I got in to i
 
 ## This Is Not For You
 
-The first line of the book. It's become something of a mantra for the community surrounding House of Leaves. It's a _warning_, intended to give this horror story some edge. Beware this tome!
+The first line of the book. It's become something of a mantra for the community surrounding {{<blue>}}House{{</blue>}} of Leaves. It's a _warning_, intended to give this horror story some edge. Beware this tome!
 
 I think this line puts in some work to shield the book from criticism, too: if you like the book: great! If you don't like the book? Well, it's not _for_ you.
 
@@ -60,17 +60,17 @@ I bet you'd live to criticize that, wouldn't you, you Critics! But you can't. It
 
 [![](./criticism.png)](https://www.penny-arcade.com/comic/2004/03/24/the-adventures-of-twisp-and-catsby)
 
-This is also, uh, maybe a good time to talk a little bit about how _divisive_ House of Leaves is.
+This is also, uh, maybe a good time to talk a little bit about how _divisive_ {{<blue>}}House{{</blue>}} of Leaves is.
 
 Loved by many, hated by many:
 
 [![](./wil.png)](./wil.png)
 
-I wanted to characterize the reviews of this book as bimodal, mostly 5 star reviews or 1 star reviews, "love it or hate it", but the data didn't bear out my hypothesis: mostly people like House of Leaves.
+I wanted to characterize the reviews of this book as bimodal, mostly 5 star reviews or 1 star reviews, "love it or hate it", but the data didn't bear out my hypothesis: mostly people like {{<blue>}}House{{</blue>}} of Leaves.
 
 ![](./prettygood.png)
 
-Detractors of the book claim that House of Leaves is complex for complexity's sake, self important, plodding, rambling, either they didn't finish it or they finished it and they regretted it.
+Detractors of the book claim that {{<blue>}}House{{</blue>}} of Leaves is complex for complexity's sake, self important, plodding, rambling, either they didn't finish it or they finished it and they regretted it.
 
 One histrionic one-star review claims that the books' popularity is actually a symptom of some greater disease in society, that art itself is collapsing around him:
 
@@ -135,21 +135,21 @@ This makes long-form horror incredibly difficult. Longer horror series tend towa
 
 So in order for longer-form horror to thrive, it has to be, well, incredibly oblique.
 
-And boy, does House of Leaves understand the assignment.
+And boy, does {{<blue>}}House{{</blue>}} of Leaves understand the assignment.
 
 ## Puzzle-Box Writing
 
-In fact, a lot of the time it does this _too well_: House of Leaves is one of a long series of prominent media properties that _raises a lot of questions_ and doesn't seem too concerned about _answering them, ever_.
+In fact, a lot of the time it does this _too well_: {{<blue>}}House{{</blue>}} of Leaves is one of a long series of prominent media properties that _raises a lot of questions_ and doesn't seem too concerned about _answering them, ever_.
 
-One of the most prominent questions raised by the book is that the word "house" is always written in blue, regardless of who's narrating at any given moment.
+One of the most prominent questions raised by the book is that the word "{{<blue>}}house{{</blue>}}" is always written in blue, regardless of who's narrating at any given moment.
 
 ![](./blue.webp)
 
-Why? Why is "house" always blue? It can't be a persistent tic of any of the books' individual narrators, because then it wouldn't be consistent throughout the whole book.
+Why? Why is "{{<blue>}}house{{</blue>}}" always blue? It can't be a persistent tic of any of the books' individual narrators, because then it wouldn't be consistent throughout the whole book.
 
 Of _course_ this is never explicitly explained.
 
-The real answer to the question of why the word "house" is always blue is, I think, ultimately, "because that's a compelling question to ask the reader". It is a question that makes you want to dig to find an answer.
+The real answer to the question of why the word "{{<blue>}}house{{</blue>}}" is always blue is, I think, ultimately, "because that's a compelling question to ask the reader". It is a question that makes you want to dig to find an answer.
 
 This was, uh, a major criticism of shows like Lost and the unsatisfying ending of X-Files (neither of which I've seen, BTW, I'm aware of these criticisms only through cultural osmosis):
 
@@ -161,7 +161,7 @@ This earned the derogatory term "puzzle-box screenwriting", and ... well, in a m
 
 {{<youtube LkoGBOs5ecM>}}
 
-I'll argue that House of
+I'll argue that {{<blue>}}House{{</blue>}} of
 {{< sidenote Leaves >}}
 and a different "puzzle box" obsession of mine, Homestuck. &mdash;
 
@@ -170,9 +170,9 @@ That's... well, rare, and nightmarishly difficult, although the method by which 
 {{< /sidenote >}}
 manages to stick these landings _better_ than Sherlock, or Lost - they're all properties who introduce a lot of _complexity for its own sake_ and _juicy questions that are hard to answer_, but Sherlock and Lost felt like betrayals when they didn't actually have any good answers in them.
 
-House of Leaves doesn't explain everything - and this powers a one-star sense of angry betrayal amongst some of its readers - but it makes its own refusal to explain itself _thematically important_.
+{{<blue>}}House{{</blue>}} of Leaves doesn't explain everything - and this powers a one-star sense of angry betrayal amongst some of its readers - but it makes its own refusal to explain itself _thematically important_.
 
-House of Leaves is a book full of juicy, unanswered questions, but it executes a clever dodge by making itself _about_ juicy, unanswerable questions.
+{{<blue>}}House{{</blue>}} of Leaves is a book full of juicy, unanswered questions, but it executes a clever dodge by making itself _about_ juicy, unanswerable questions.
 
 ## The Structure
 
@@ -184,30 +184,30 @@ Talking about the book is going to require that I give you a brief look at what 
 * The compilation of the book appeared to be something of an obsession for Zampanó.
 * For some reason (the question of "why does Johnny DO this?" is actually one that I think is actually thoroughly answered by the text) Johnny decides to make it his mission in life to clean this book up and get it into a state where it could theoretically be published.
 * This is that book: you're reading it now, so Johnny succeeded! But you're still getting the framing story of Johnny compiling the story through his constant elaborate footnotes that take over the story to tell you about what Johnny is up to.
-*  The actual book is an academic treatise that closely examines "The Navidson Record", a short documentary film (imagine "The Blair Witch Project") covering explorations of a _very clearly evil_ house.
-* _Even within the book_ The Navidson Record is dismissed by most of the academics discussing it as a hoax: but Zampanó clearly believes that this house is The Real Thing and makes a case that the events of The Navidson Record actually _happened_.
+*  The actual book is an academic treatise that closely examines "The Navidson Record", a short documentary film (imagine "The Blair Witch Project") covering explorations of a _very clearly evil_ {{<blue>}}house{{</blue>}}.
+* _Even within the book_ The Navidson Record is dismissed by most of the academics discussing it as a hoax: but Zampanó clearly believes that this {{<blue>}}house{{</blue>}} is The Real Thing and makes a case that the events of The Navidson Record actually _happened_.
 * But in a layered double-cross (that is explained in the first 20 pages by Johnny, so it's not a twist, even) it turns out that The Navidson Record and the academic discussion surrounding it are not real: most of its academic references are to books that never existed, the real people quoted in the book do not recognize the quotes they've given, and Johnny can find no evidence that the main characters of the book _exist at all_. The entire book is seemingly an invention of Zampanó. The Navidson Record is _not_ a hoax: it simply never existed in the first place.
 * Compiling the book is difficult for Johnny - in compiling the book, Johnny slowly loses his mind, getting more and more trapped in nightmares and paranoid delusions and withdrawing from society.
 * The book itself retells The Navidson Record in exhaustive detail
 {{< sidenote detail. >}}
-Most academic works don't, in fact, provide within themselves an exhaustive re-telling of the source material, but, of course, since the Navidson Record doesn't actually exist, we wouldn't be able to talk about it, really, if House of Leaves _didn't_ re-tell it.
+Most academic works don't, in fact, provide within themselves an exhaustive re-telling of the source material, but, of course, since the Navidson Record doesn't actually exist, we wouldn't be able to talk about it, really, if {{<blue>}}House{{</blue>}} of Leaves _didn't_ re-tell it.
 {{< /sidenote >}}
-* Within The Navidson Record, the photo-journalist, Will Navidson, moves into a house intending to have a _nice time_ with his family, only to discover increasing irregularities in the house's architecture.
-* Measurements indicate that the house is, uh, just a little bigger on the inside than the outside? That's weird. Will Navidson becomes obsessed (obsession is a major theme in this book) with resolving this mystery.
+* Within The Navidson Record, the photo-journalist, Will Navidson, moves into a {{<blue>}}house{{</blue>}} intending to have a _nice time_ with his family, only to discover increasing irregularities in the {{<blue>}}house{{</blue>}}'s architecture.
+* Measurements indicate that the {{<blue>}}house{{</blue>}} is, uh, just a little bigger on the inside than the outside? That's weird. Will Navidson becomes obsessed (obsession is a major theme in this book) with resolving this mystery.
 * A freshly discovered door appears in the home, leading to... a dark hallway. Down the dark hallway? Another dark hallway, an endless procession of lightless hallways and rooms, all of them empty, all of them painted a charcoal black, the rooms getting bigger and more abstract the deeper Will explores.
 * Behold: Impossible geometries!
 ![](./impossible.png)
 * Will's claustrophobic wife insists that Will not explore this all by himself, causing _marital strife_.
-* Will gets an Exploration Team interested in exploring the house, who bring ropes and lights and supplies.
+* Will gets an Exploration Team interested in exploring the {{<blue>}}house{{</blue>}}, who bring ropes and lights and supplies.
 * Whoops: the Exploration Team mostly just goes crazy and kills one another while they're in there.
-* Everyone attempts to escape the house, and on the way _out_ the house starts wildly shifting in size and scale, doin' a few more kills but leaving Will's family mostly unscathed. They escape.
+* Everyone attempts to escape the {{<blue>}}house{{</blue>}}, and on the way _out_ the {{<blue>}}house{{</blue>}} starts wildly shifting in size and scale, doin' a few more kills but leaving Will's family mostly unscathed. They escape.
 * Will's wife Karen takes the kids to New York while Will broods and obsesses over his footage.
 * Eventually Will goes back in.
-* Karen goes back to the house to find Will, but he isn't there.
+* Karen goes back to the {{<blue>}}house{{</blue>}} to find Will, but he isn't there.
 * Johnny has a full schizophrenic break from reality, losing months at a time, his footnotes starting to appear out of chronological order, or describe events that never happened.
 * After the book is released, Johnny appears to enjoy a moment of peace and relaxation.
 * Johnny tells a story about a boy who died shortly after birth, shepherded by his oddly mystical mother.
-* Karen braves the dark, despite the claustrophobia, to be with her husband. They escape once more, this time selling the damn house.
+* Karen braves the dark, despite the claustrophobia, to be with her husband. They escape once more, this time selling the damn {{<blue>}}house{{</blue>}}.
 * The book ends.
 * Some Zampanó appendices and footnotes.
 * _(most of the stuff past this point was added after the fact for the second edition of the book)_
@@ -218,12 +218,12 @@ and that's it, that's the book!
 
 ## The Book Itself Contorts
 
-The thing that a lot of people remember about House of Leaves is that, in the parts that take place within the deepest and darkest parts of the house, the book's text gets wonky, contorting and shifting to force the reader to ... adjust to its strangeness.
+The thing that a lot of people remember about {{<blue>}}House{{</blue>}} of Leaves is that, in the parts that take place within the deepest and darkest parts of the {{<blue>}}house{{</blue>}}, the book's text gets wonky, contorting and shifting to force the reader to ... adjust to its strangeness.
 
 {{<imgwebp src="contorts.png">}}
 ![](./contorts2.png)
 
-this structural difficulty is _mostly_ saved for the parts of the book exploring the darkest depths of the house.
+this structural difficulty is _mostly_ saved for the parts of the book exploring the darkest depths of the {{<blue>}}house{{</blue>}}.
 
 Another detail of the book is the near constant
 {{< sidenote footnotes >}}
@@ -266,13 +266,13 @@ You know, like when folks just read the Wikipedia article and _reference all of 
 This was the subject of YET ANOTHER hbomberguy video, I need to find a different _guy_ to reference, why is this one video essayist so frequently relevant in this particular discussion?
 {{< /sidenote >}},
 
-When people complain that House of Leaves is unbearably stuffy and pretentious but ultimately kind of hollow of meaning, it is generally Zampanó's writing that they are carping about.
+When people complain that {{<blue>}}House{{</blue>}} of Leaves is unbearably stuffy and pretentious but ultimately kind of hollow of meaning, it is generally Zampanó's writing that they are carping about.
 
-## The Impossible Question of Who Wrote "House of Leaves"
+## The Impossible Question of Who Wrote "{{<blue>}}House{{</blue>}} of Leaves"
 
 I think one of the core mysteries of the book, and the one it is least willing to give up, is _who wrote what_. Every source of information in this book comes from an [unreliable narrator](https://tvtropes.org/pmwiki/pmwiki.php/Main/UnreliableNarrator) who may or may not even exist. It's a 50 unreliable narrator pile-up!
 
-That's why the blue "house" remains such a compelling mystery: it is a persistent detail _regardless of who's narrating_, and since the book itself exists within the story it raises the question: did one person write the whole thing? And if so, who?
+That's why the blue "{{<blue>}}house{{</blue>}}" remains such a compelling mystery: it is a persistent detail _regardless of who's narrating_, and since the book itself exists within the story it raises the question: did one person write the whole thing? And if so, who?
 
 Johnny, of course, is both a consummate liar and serial storyteller who invents elaborate stories as a defense mechanism and is revealed to be _significantly_ more intelligent and well read than he lets on. One of Zampanó's bad habits is including long stretches of quotations in other languages, which Johnny has to struggle to translate &mdash; but events later in the book conspire to reveal that Johnny may, in fact, just know these languages, his struggles in translation may be fabricated. _The only lasting record of Zampanó's existence_ appears to be Johnny's memories of him, as most of the people who could corroborate his existence are... dead, and also hard to corroborate. Zampanó is an odd and fanciful name, and Zampanó himself is blind and yet seems to have an awful lot to say about the visual composition of Will Navidson's photojournalism.
 
@@ -287,25 +287,25 @@ Johnny could absolutely be a fiction created by Zampanó, an elderly blind man w
 
 Johnny's very last words in the book describe a scene where a newborn baby (very like Johnny) dies in hospital in the arms of a woman who is very like his mother, Pelafina. Did Johnny exist or was he just a projection of a sad storyteller?
 
-And, of course, Pelafina's footnotes also introduce this brilliant mad-woman who seems to constantly introduce themes and concepts that would later show up in House of Leaves. Are these concepts in House of Leaves because she was an enormous influence on Johnny, who subconsciously edited them into the text? Or because Johnny _fully wrote the text_? Or because Johnny died shortly after he was born, and Pelafina wrote the whole thing?
+And, of course, Pelafina's footnotes also introduce this brilliant mad-woman who seems to constantly introduce themes and concepts that would later show up in {{<blue>}}House{{</blue>}} of Leaves. Are these concepts in {{<blue>}}House{{</blue>}} of Leaves because she was an enormous influence on Johnny, who subconsciously edited them into the text? Or because Johnny _fully wrote the text_? Or because Johnny died shortly after he was born, and Pelafina wrote the whole thing?
 
-The question of _who invented what_, here, is both central to the mystery of House of Leaves and _utterly unanswerable_. Investigating it just leads one down rabbit hole after rabbit hole, as each path seems to draw you in while also defying any kind of explanatio...... oh damn.
+The question of _who invented what_, here, is both central to the mystery of {{<blue>}}House{{</blue>}} of Leaves and _utterly unanswerable_. Investigating it just leads one down rabbit hole after rabbit hole, as each path seems to draw you in while also defying any kind of explanatio...... oh damn.
 
 Oh, damn.
 
-## The Book Is The House, The House is the Book
+## The Book Is The {{<blue>}}House{{</blue>}}, The {{<blue>}}House{{</blue>}} is the Book
 
 I'm a sucker for meaningful framing devices.
 
 It shows up in a lot of fiction, I also loved The Grand Budapest Hotel, a wonderful movie where the framing is key to its telling, and Asterios Polyp, a graphic novel where the form and structure of the novel echoed its _themes and direction_.
 
-The book, House of Leaves, has a cover that's a little short. The cover of the book doesn't extend all of the way to the end of the pages. It's, uh, how do I say this, _bigger on the inside than the outside_.
+The book, {{<blue>}}House{{</blue>}} of Leaves, has a cover that's a little short. The cover of the book doesn't extend all of the way to the end of the pages. It's, uh, how do I say this, _bigger on the inside than the outside_.
 
-House of Leaves, the book, is full of these long, meaningless, irritating digressions that go nowhere, and _also_ takes the time to explains to you in an aside that solving a labyrinth can be performed exhaustively, but that this would take forever, and suck, which is why the only way to get through at any kind of a clip is to _pick a path_, not going too fast or too slow but deciding your own pace and committing to it before you realize that _whoops, you've become irrecoverably lost_.
+{{<blue>}}House{{</blue>}} of Leaves, the book, is full of these long, meaningless, irritating digressions that go nowhere, and _also_ takes the time to explains to you in an aside that solving a labyrinth can be performed exhaustively, but that this would take forever, and suck, which is why the only way to get through at any kind of a clip is to _pick a path_, not going too fast or too slow but deciding your own pace and committing to it before you realize that _whoops, you've become irrecoverably lost_.
 
-The way to read House of Leaves is to be a bit discerning about what you even _choose_ to read, made easier by some of Zampanó's longer interludes just being _him listing off various names of architects for 8 straight pages_.
+The way to read {{<blue>}}House{{</blue>}} of Leaves is to be a bit discerning about what you even _choose_ to read, made easier by some of Zampanó's longer interludes just being _him listing off various names of architects for 8 straight pages_.
 
-Which is to say: like a labyrinth, you can navigate House of Leaves by working through it exhaustively, which sucks, or by choosing threads and pulling on them at your own pace, which will get you lost.
+Which is to say: like a labyrinth, you can navigate {{<blue>}}House{{</blue>}} of Leaves by working through it exhaustively, which sucks, or by choosing threads and pulling on them at your own pace, which will get you lost.
 
 The book describes _a labyrinth_ that
 demands to be explained, yet contains no answers and engenders obsession and madness from people who _demand_ those answers.
@@ -329,7 +329,7 @@ Zampanó (the _least_ well defined character in this story) may or may not have 
 
 This book is nothing more than the ravings of an imaginary madman.
 
-## The Actual Answer To The Impossible Question of Who Wrote "House of Leaves"?
+## The Actual Answer To The Impossible Question of Who Wrote "{{<blue>}}House{{</blue>}} of Leaves"?
 
 Mark Danielewski, obviously. Someone had to point these mirrors at one another and then hand it to you like some kinda big fuckin' mystery.
 
@@ -367,28 +367,28 @@ Ultimately, at the center of all of this puzzle solving, it's just made-up nonse
 >
 > *However.*
 >
-> The words may not mean much in themselves, but their significance is so enormous that any attempt to construct an all-encompassing interpretive lens for *House of Leaves* must take them into account. That's because they reappear all over the book. Not just words, but whole phrases appear in Johnny's poems, elsewhere in Pelafina's letters, and *even in Zampanò's writing.* For the sake of brevity and sanity, I will leave it there, and you can do whatever you want with it.
+> The words may not mean much in themselves, but their significance is so enormous that any attempt to construct an all-encompassing interpretive lens for *{{<blue>}}House{{</blue>}} of Leaves* must take them into account. That's because they reappear all over the book. Not just words, but whole phrases appear in Johnny's poems, elsewhere in Pelafina's letters, and *even in Zampanò's writing.* For the sake of brevity and sanity, I will leave it there, and you can do whatever you want with it.
 
 And that is kind of key to the whole book. You can easily imagine Johnny, desperate for communication from his mother, trained to find hidden codes and ciphers in everything, already prone to [apophenia](https://en.wikipedia.org/wiki/Apophenia), poring over these words again and again and again, attempting to solve this unsolvable puzzle forever until it spirals out, destroying his life.
 
-This is the same self-destructive impulse that could cause Johnny to compile House of Leaves, why he would do it despite it driving him mad.
+This is the same self-destructive impulse that could cause Johnny to compile {{<blue>}}House{{</blue>}} of Leaves, why he would do it despite it driving him mad.
 
 This book is this page, too: a meaningless labyrinth, meant to be explored but not understood.
 Like the [Codex Seraphinianus](https://en.wikipedia.org/wiki/Codex_Seraphinianus) it's meant to _evoke_ internal consistency without needing to _contain_ it.
 
 ## That's Why It Works
 
-A lot of people don't like House of Leaves because Zampanó is unbearably pretentious and Johnny is unbearably lewd, this is a an entirely valid complaint and I think a good reason to have not enjoyed House of Leaves.
+A lot of people don't like {{<blue>}}House{{</blue>}} of Leaves because Zampanó is unbearably pretentious and Johnny is unbearably lewd, this is a an entirely valid complaint and I think a good reason to have not enjoyed {{<blue>}}House{{</blue>}} of Leaves.
 
-A lot of people like House of Leaves because it's a rich, layered, seemingly-solvable mystery and they can devote many hours to trying to unearth its rich trove of mysteries.
+A lot of people like {{<blue>}}House{{</blue>}} of Leaves because it's a rich, layered, seemingly-solvable mystery and they can devote many hours to trying to unearth its rich trove of mysteries.
 
 ![](./badtime.png)
 
-A lot of people don't like House of Leaves because it's fundamentally an unsolvable mystery where most of the threads lead _nowhere_.
+A lot of people don't like {{<blue>}}House{{</blue>}} of Leaves because it's fundamentally an unsolvable mystery where most of the threads lead _nowhere_.
 
-I think that House of Leaves works and is worthwhile because _it is thematically and structurally about unsolvable mysteries_. It's a rumination on the meaning and draw of unsolvable
+I think that {{<blue>}}House{{</blue>}} of Leaves works and is worthwhile because _it is thematically and structurally about unsolvable mysteries_. It's a rumination on the meaning and draw of unsolvable
 {{< sidenote mysteries. >}}
-Like, for example, the unsolvable mystery of death, which had just, at time of writing, claimed Mark's father, causing Mark himself to experience a bit of an unhealthy fixation with an unknowable concept. Grief, too, is a major theme of House of Leaves. The house is death. The house is grief.
+Like, for example, the unsolvable mystery of death, which had just, at time of writing, claimed Mark's father, causing Mark himself to experience a bit of an unhealthy fixation with an unknowable concept. Grief, too, is a major theme of {{<blue>}}House{{</blue>}} of Leaves. The house is death. The house is grief.
 {{< /sidenote >}}
 
 The book is the house, the house is the book, and both the book and the house are impossible, unresolvable labyrinths concocted by grieving conmen with unhealthy fixations.
