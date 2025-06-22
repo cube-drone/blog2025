@@ -1,5 +1,5 @@
 +++
-title = "hup"
+title = "vince guaraldi trio"
 date = 2023-12-10T12:00:00-07:00
 draft = false
 categories = ["music", "christmas"]
