@@ -52,6 +52,8 @@ Now, finally, instead of endlessly building tools, it’s my responsibility to s
 
 And… grind I did!
 
+![](./churning.png)
+
 I learned the basics of RenPy and sat down to pump out a script. I based it very, very heavily off of “**Death Lends a Hand**”, a fan-favorite episode.
 
 I also, almost immediately, wandered way, way off-script. Certain elements bear a passing similarity to Death Lends a Hand, but the final script ended up almost impossibly weirder.
