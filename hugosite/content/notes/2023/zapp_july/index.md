@@ -9,3 +9,10 @@ tags = []
 ![](./z1.png)
 ![](./z2.png)
 ![](./z3.png)
+
+
+-----
+
+attn: cat would like to outside:
+
+![](./outside.png)
