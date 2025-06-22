@@ -8,6 +8,10 @@ tags = ["go"]
 
 one of the significant barriers I have to learning Go is just how mad it makes me
 
+> I love all languages equally.
+>
+> ![](./go.png)
+
 mutable slices? string length determined by raw byte count of the UTF-8? pointers to mutable data as arguments?
 
 > i'm sorry, are you from the past?

@@ -16,3 +16,22 @@ one of the greatest things about cats is that they're, like, some of the most te
 he's the hero this bathroom deserves
 
 ![](./hero.png)
+
+
+-----
+
+oh hai what's up
+
+![](./hai.png)
+
+
+-----
+
+(cronch)
+
+![](./cronch.png)
+![](./cronch-2.png)
+
+-----
+
+![](./chin.png)

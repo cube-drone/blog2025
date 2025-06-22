@@ -62,6 +62,8 @@ I also, almost immediately, wandered way, way off-script. Certain elements bear 
 
 The final product also ended up… long. Quite long. Reading the entire script, end-to-end, took about 45 minutes, which would make my script about as long as an episode of Columbo. Just writing things took about two weeks. I thought I’d be done the whole project in two weeks, but no, that was just words. (Keep in mind, I have a day job that I’m quite good at, I get about 2 hours a day of Personal Project Time, so, maybe 28 hours total for the full script.)
 
+![](./smunders.png)
+
 After the script it came time for sound. Most of the SFX design just came from the eternally useful freesound.org , but I was struggling to find a collection of truly usable free, soundtrack-appropriate, royalty free music - until I bumped into the collection at incompetech.com, which was absolutely sufficient to the project I was trying to build. Not perfect - I would LOVE to be able to compose my own music, but it’s not a skill I have in the tank, and I’m not going to commission a musician with real money when the stakes are a free RenPy game, that’s a bad life decision.
 
 Sound went relatively quickly.
@@ -75,6 +77,8 @@ Scene backdrops were prepared in chalk outline on a black background: this scrat
 Even with the obvious simplicity of the art style, I cooked up about 30 of these, maybe 3 an hour, for 10 hours, which (remembering I have about 2 hours a day to work on this) ate another whole week.
 
 And that brings us to the final phase, character art.
+
+![](./character.png)
 
 I had been looking forward to this for weeks. And… after finishing my first few shots, it turned into as much of a slog as the rest of the project. I didn’t want to do the “baby’s first VN” move of just having a handful of cards per character - I wanted to do some acting, especially with our main character, Detective Capilano.
 
@@ -91,6 +95,8 @@ Most of the other characters have 8-12 poses, and I also included images for all
 Again, even at the prodigious and lazy pace that I generate art, that’s a lot of raw ART asset, and it took me about 3 weeks to power through that big pile of art assets.
 
 And then… I was done!
+
+{{<video src="seamus.mp4">}}
 
 I mean, sure, there’s probably an aggressive polish pass I can do on this game, but it’s a visual novel I slapped together in a hurry: it’s not going to magically turn into a viable product with a huge userbase. You couldn’t pay most people to interact with a visual novel. _I’m pretty happy with it, where it is._
 
