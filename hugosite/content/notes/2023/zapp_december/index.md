@@ -6,6 +6,10 @@ categories = ["cat", "zapp"]
 tags = ["bully"]
 +++
 
+![](./christmas.png)
+
+-----
+
 So, imagine Back to the Future, but Biff Tannen has to watch Marty from inside his house the entire time, and he spends the entire movie in there yelling "I'm gonna bully you so hard if I ever get out of here" and making threatening gestures out the window, and sometimes he gets so angry that Marty is outside _not getting bullied_ that he pees against a wall
 
 _anyways that's what it's like owning a bengal cat_
