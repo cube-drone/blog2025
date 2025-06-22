@@ -2,7 +2,7 @@
 title = 'Groovelet: Portable Mythology'
 date = 2025-06-15T22:06:56-07:00
 categories = ["writing", "rpg"]
-tags = ["taxonomy"]
+tags = ["taxonomy", "archetypes", "wheel"]
 +++
 
 {{<imgwebp src="fullcycle.png">}}

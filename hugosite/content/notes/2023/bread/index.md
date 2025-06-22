@@ -42,3 +42,11 @@ Dough - (Double Recipe for 2 Loaves):
 9. 45 minutes into the previous step, start preheating the oven at 375 F
 
 10. bake: 40 minutes
+
+-----
+
+"let bread rise in a warm place"
+
+ok
+
+![](./warm.png)
