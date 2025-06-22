@@ -3,7 +3,7 @@ title = "hup"
 date = 2023-12-11T12:00:00-07:00
 draft = false
 categories = ["board games", "humor"]
-tags = []
+tags = ["race to el dorado"]
 +++
 
 In "Race to El Dorado" the powerful Scientist card allows you to make your deck (of explorers) more efficient by removing (less powerful ones) them from your deck, so when we played we'd describe all of the fanciful ways that the Scientist would accidentally or intentionally kill his fellow adventurers.
