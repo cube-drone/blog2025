@@ -12,7 +12,7 @@ tags = ["hello dolly", "wall-e"]
 
 Okay, so, I know Hello Dolly from two places:
 
-1. For its reputation as a film that nearly bankrupted Fox and heralded the end of the big roadshow musical as a profitable endeavor.
+1. For its reputation as a film that nearly bankrupted Fox and heralded the end of the [big roadshow musical](https://bayflicks.net/2020/11/30/big-roadshows-of-the-50s-and-60s-mostly-the-60s/) as a profitable endeavor.
 
 and
 
