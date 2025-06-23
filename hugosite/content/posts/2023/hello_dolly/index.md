@@ -35,6 +35,7 @@ The first musical number, **Call on Dolly/Just Leave Everything to Me**, is good
 {{<imgwebp src="dolly-2.png">}}
 
 > if you want a law abolished, jury swayed or toenails polished, just leave everything to me
+>
 > if you want your liver tested, glasses made, _cash invested_, just leave everything to me
 
 Okay! Interesting dynamic character with a lot of possibility! I'm excited! Maybe this will be good!
