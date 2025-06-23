@@ -2,7 +2,7 @@
 title = 'I Can Even Sing the Pancake Wall Song'
 date = 2025-06-17T20:58:27-07:00
 draft = false
-categories = ["humor", "game dev"]
+categories = ["humor", "gamedev"]
 tags = ["pancake wall", "fans"]
 +++
 
