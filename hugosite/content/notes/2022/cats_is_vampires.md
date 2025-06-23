@@ -3,7 +3,7 @@ title = 'cats is vampires'
 date = 2022-12-19T12:00:00-07:00
 draft = false
 categories = ["cat", "humor"]
-tags = []
+tags = ["vampires", "dracula", "castlevania"]
 +++
 
 * keep themselves immaculately coiffed
