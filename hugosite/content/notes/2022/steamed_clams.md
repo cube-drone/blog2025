@@ -3,7 +3,7 @@ title = 'steamed clams'
 date = 2022-11-24T12:00:00-07:00
 draft = false
 categories = ["food", "humor"]
-tags = ["i thought you said steamed clams", "patented skinner burgers"]
+tags = ["steamed hams", "i thought you said steamed clams", "patented skinner burgers"]
 +++
 
 One time I invited my friends over for steamed clams, a meal that I actually prepared for them.
