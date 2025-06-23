@@ -1,6 +1,6 @@
 +++
 title = "economy"
-date = 2023-03-30T12:00:00-07:00
+date = 2023-03-20T12:00:00-07:00
 draft = false
 categories = ["gamedev", "vrchat"]
 tags = ["community"]
