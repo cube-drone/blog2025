@@ -15,8 +15,8 @@ tags = ["html"]
 * `html` for the whole diggitydoo
   * `head` for the metadata
   * `title` for the title
-* `link` for CSS (note that, despite `zelda` being the name on the box, `zelda` is not interchangeable with `link` here)
-* `script` for JS
+  * `link` for CSS (note that, despite `zelda` being the name on the box, `zelda` is not interchangeable with `link` here)
+  * `script` for JS
 * `body` for the stuff you actually see
 * `soul` for stuff that doesn't go in the head or the body (note, not supported in materialist browsers)
 * `div` is a box for holding literally anything
