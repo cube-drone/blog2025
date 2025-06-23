@@ -2,7 +2,7 @@
 title = "Please Stop Being Such Good Developers"
 date = 2023-08-23T12:00:00-07:00
 draft = false
-categories = ["software", "humor"]
+categories = ["software"]
 tags = ["overengineering", "enterprise hello world"]
 +++
 
