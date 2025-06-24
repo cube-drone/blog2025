@@ -18,7 +18,7 @@ _I've devised a way to play Delta Green with one Tarot deck per agent._
 
 Quinns just covered it in a mammoth review:
 
-{{<youtube yZHzfoHg>}}
+{{<youtube mx_yZHzfoHg>}}
 
 But, in short, it's a spy thriller where you fight _lovecraftian horrors_.
 
