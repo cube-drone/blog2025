@@ -4,6 +4,7 @@ date = 2024-05-10T11:00:00-07:00
 draft = false
 categories = ["food"]
 tags = ["iced tea", "lemons", "punch", "guy fieri", "spit take"]
+description = "I just have a lot of opinions about exactly how to make perfect iced tea and I want to share them with you."
 +++
 
 _I'm a capable bartender, but almost all of that knowledge has instead found its way into my true vice: a potent homemade iced tea lemonade that I can drink gallons of._

@@ -4,6 +4,7 @@ date = 2023-08-23T12:00:00-07:00
 draft = false
 categories = ["software"]
 tags = ["overengineering", "enterprise hello world"]
+description = "You are all massively overcomplicating what could be such a simple and pleasant thing."
 +++
 
 {{<imgwebp src="ai_art.png">}}

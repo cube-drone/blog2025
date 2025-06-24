@@ -5,6 +5,7 @@ draft = false
 categories = ["media", "visual novel"]
 tags = ["homestuck", "enlightened centrism", "centrism", "hussnasty", "clowns"]
 image = "./clowns.png"
+description = "andrew hussie hates his nasty clown followers and so should you"
 +++
 
 So, I've made no small matter (outside of my blog) out of my growing _Homestuck fandom_. (And also: my complete and utter lack of interest in participating in Homestuck fandom.)

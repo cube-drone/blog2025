@@ -3,7 +3,9 @@ title = "Hello Dolly"
 date = 2023-12-30T12:00:00-07:00
 draft = false
 categories = ["media", "humor"]
-tags = ["hello dolly", "wall-e"]
+tags = ["hello dolly", "wall-e", "musical"]
+image = "./dolly.png"
+description = "Let's take a look at this famous flop of a musical, together."
 +++
 
 {{<imgwebp src="dolly.png">}}

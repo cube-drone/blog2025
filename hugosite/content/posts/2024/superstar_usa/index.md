@@ -4,6 +4,8 @@ date = 2024-10-15T12:00:00-07:00
 draft = false
 categories = ["media"]
 tags = ["cruel pranks", "cringe", "contrapoints"]
+image = "./yikes.png"
+description = "the actual worst reality TV show of all time"
 +++
 
 So, every now and then I rewatch Jenny Nicholson talking about [the worst reality TV show of all time](https://www.youtube.com/watch?v=JKFgn6tNU6w), because it's funny, and because I have a cold.

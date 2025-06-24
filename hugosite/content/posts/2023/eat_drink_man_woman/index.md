@@ -4,6 +4,8 @@ date = 2023-12-28T12:00:00-07:00
 draft = false
 categories = ["media", "humor", "food"]
 tags = []
+image = "./chopchop.png"
+description = "this Chinese cinema masterpiece makes me happy with its lush depictions of cooked foods"
 +++
 
 {{<imgwebp src="chopchop.png">}}

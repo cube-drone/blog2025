@@ -4,6 +4,8 @@ date = 2023-06-10T12:00:00-07:00
 draft = false
 categories = ["media", "humor"]
 tags = ["columbo", "mustard"]
+image = "./sucks.png"
+description = "watch an episode of columbo with me"
 +++
 
 let's watch [another episode of Columbo](/posts/2023/columbo)

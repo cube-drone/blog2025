@@ -4,6 +4,8 @@ date = 2024-01-17T12:00:00-07:00
 draft = false
 categories = ["humor"]
 tags = ["bdg"]
+image = "./unraveled-1.png"
+description = "i attempt to take the Unraveled format and apply it to Unraveled itself, and, in doing so, become unhinged."
 +++
 
 {{< imgavif src="unraveled-1.png" alt="BDG" >}}

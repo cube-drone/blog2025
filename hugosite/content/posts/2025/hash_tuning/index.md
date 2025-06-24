@@ -4,6 +4,7 @@ date = 2025-03-11T11:00:00-07:00
 draft = false
 categories = ["software"]
 tags = ["testing", "hash functions"]
+description = "Expensive hash functions are good for security but bad for your automated test framework."
 +++
 
 I build a new auth system about once a year.

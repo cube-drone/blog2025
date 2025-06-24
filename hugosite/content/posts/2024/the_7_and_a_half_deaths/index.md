@@ -4,6 +4,8 @@ date = 2024-08-15T12:00:00-07:00
 draft = false
 categories = ["books", "science fiction", "mystery"]
 tags = ["super-hitler from the future", "seven and a half of a thing specifically", "stuart turton"]
+image = "./deaths.png"
+description = "the amount of hardcastle deaths in this book is variable but between 7 and 7.5 depending on the cover"
 +++
 
 {{<imgwebp src="deaths.png">}}

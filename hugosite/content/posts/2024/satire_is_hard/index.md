@@ -4,6 +4,8 @@ date = 2024-05-15T12:00:00-07:00
 draft = false
 categories = ["media"]
 tags = ["satire", "showgirls", "starship troopers", "robocop", "fight club", "pathologic", "lisa: the painful", "spec ops: the line", "the last of us: part 2", "ludonarrative dissonance"]
+description = "Has Showgirls actually become kind of good? The answer is no."
+image = "./lurid.png"
 +++
 
 So, both Tiff and I had seen some growing groundswell behind the old, famously terrible movie "Showgirls".

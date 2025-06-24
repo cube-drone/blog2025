@@ -4,6 +4,8 @@ date = 2023-06-08T12:00:00-07:00
 draft = false
 categories = ["media", "humor"]
 tags = ["columbo", "chess", "buttplug.io", "crime gloves"]
+image = "./chess.png"
+description = "watch an episode of columbo with me"
 +++
 
 let's watch an episode of Columbo

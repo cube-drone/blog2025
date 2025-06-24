@@ -4,6 +4,7 @@ date = 2024-05-08T11:00:00-07:00
 draft = false
 categories = ["rpg", "lore"]
 tags = ["D&D", "goblins", "gnomes", "creepy age dynamics"]
+description = "My headcanon about how goblins and gnomes work is consistent, if weird."
 +++
 
 My personal D&D goblin lore is that most of their whole deal can be explained by the fact that they have a LOT of children, mature at about twice the rate as humans, and have about half the lifespan (if they live that long, which is rare), so they're essentially **to humans** what humans are **to elves**.

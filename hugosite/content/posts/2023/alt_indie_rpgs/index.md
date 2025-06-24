@@ -4,6 +4,8 @@ date = 2023-04-15T12:00:00-07:00
 draft = false
 categories = ["rpg"]
 tags = ["D&D", "Blades in the Dark"]
+image = "./cone.png"
+description = "some of my problems with D&D, some alternatives"
 +++
 
 {{<imgwebp src="wow.png">}}

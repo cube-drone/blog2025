@@ -4,6 +4,8 @@ date = 2023-10-15T11:00:00-07:00
 draft = false
 categories = ["technology"]
 tags = ["ereader"]
+image = "./guide.png"
+description = "i've always wanted one and it's finally arrived"
 +++
 
 {{<imgwebp src="guide.png">}}

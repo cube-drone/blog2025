@@ -4,14 +4,19 @@ date = 2023-09-15T12:00:00-07:00
 draft = false
 categories = ["rpg"]
 tags = ["D&D", "FATE", "13th Age", "Blades in the Dark", "Pathfinder"]
+image = "./modern_nerds.png"
+description = "talking about some of the many options in the TTRPG space, with a bit of historical background"
 +++
 
 ## Prussia Enters The Chat
 
+
 In the early 1800's, Prussian nerds got involved in _das taktische kriegsspiel_.
 
-> ![](./nerd.png)
+> {{<imgwebp src="nerd.png">}}
 > pictured: [Prussian nerd](https://en.wikipedia.org/wiki/Georg_von_Reisswitz).
+
+<!--more-->
 
  Cartography and probability theory were _really hot right now_ and so some high-level officers got way, way in to complicated miniatures games.
 

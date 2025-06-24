@@ -4,6 +4,8 @@ date = 2025-03-01T11:00:00-07:00
 draft = false
 categories = ["humor"]
 tags = ["the king in yellow", "blazer cannon", "floral-print couch", "penticton", "interior design"]
+image = "./realtor.png"
+description = "this man wears yellow pants to sell a house"
 +++
 
 {{<imgwebp src="realtor.png">}}

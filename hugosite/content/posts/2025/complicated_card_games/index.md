@@ -4,6 +4,7 @@ date = 2025-03-05T09:00:00-07:00
 draft = false
 categories = ["board games"]
 tags = ["cards", "balatro", "slay the spire", "magic: the gathering", "arkham horror", "netrunner", "earthborne rangers", "final fantasy 6"]
+description = "I talk for a long time about various card games I like. It turns out it is most of them."
 +++
 
 Magic: the Gathering really captured my heart from a young age. There's something really compelling about _building a deck_ and doing _fights_ with it.

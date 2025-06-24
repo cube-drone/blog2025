@@ -4,6 +4,8 @@ date = 2024-11-15T12:00:00-07:00
 draft = false
 categories = []
 tags = ["taxonomy", "and jeff"]
+image = "./scott.png"
+description = "i get unreasonably mad about a stupid blog post I read one time"
 +++
 
 I mention this now because I saw it come up on the internet a _second time_ and it frustrates me that this thing exists:

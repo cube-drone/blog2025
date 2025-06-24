@@ -4,6 +4,7 @@ date = 2024-09-15T13:00:00-07:00
 draft = false
 categories = ["camping"]
 tags = []
+description = "learning to camp is in my future (or it was when I wrote this article, now it is in my past)"
 +++
 
 Just after my trip to New York City I thought to myself about a vacation that would be the _complete opposite of a trip to New York City_.

@@ -4,6 +4,7 @@ date = 2025-06-06T11:00:00-07:00
 draft = false
 categories = ["video games"]
 tags = ["cards", "balatro"]
+description = "i just blither about balatro for a while, you can probably skip this one"
 +++
 
 {{< admonition type="warning" >}}

@@ -3,6 +3,8 @@ title = 'Neverender is a Homage to Dirty Pair'
 date = 2025-06-15T12:00:00-07:00
 categories = ["music", "art", "media"]
 tags = ["anime", "justice"]
+image = "./dp1.png"
+description = "This stunning music video has startling parallels with an anime opening from the 80's."
 +++
 
 So, this released a few years back:
@@ -13,11 +15,11 @@ So, this released a few years back:
 
 Beautiful, stunning animation, great sound, inspired by 80s anime.
 
-Today I discovered:
+Today I discovered (posted at random on the `/r/cassettefuturism` subreddit):
 
 {{<youtube XQqqb1jkwlA>}}
 
-Ah, the Justice video was a _direct homage_.
+Ah, the Justice video was a _homage_.
 
 There are lots of shots that are, like, direct analogues:
 

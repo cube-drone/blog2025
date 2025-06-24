@@ -4,6 +4,7 @@ date = 2022-11-21T12:00:00-07:00
 draft = false
 categories = ["software"]
 tags = ["documentation", "wiki"]
+description = "the reason that nothing is documented at your company isn't because there's no company wiki"
 +++
 
 {{<imgwebp src="no-wiki.png">}}
