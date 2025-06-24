@@ -241,16 +241,22 @@ With every SAN loss, though, the chance increases!
 
 Ugh, this unfortunately introduces a nasty complication in our design.
 
-We don't want a player's deck to become immune to SAN damage, or immune to crits.
+We don't want a player's deck to become _immune to SAN damage_ (no swords), or immune to crits (no crit cards).
 
 So here's the ruling: when a player loses SAN, they hand their deck to the GM, to remove cards behind a screen.
 
-The GM then carefully _only removes Pentacles, Cups, or Wands_ until only Swords and Major Arcana remain.
+The GM doesn't say _which_ cards they remove. **Players Can Be Discouraged From Closely Examining Their Decks**.
+
+It's up to the GM what to remove here, although I recommend something like the following order:
+
+The GM starts by _only removing Pentacles, Cups, or Wands_ until only Swords and Major Arcana remain.
+
+They can pull a few unimportant Major Arcana if the player is becoming _too unstoppable_ at skill checks.
 
 That will carry them through the first 42 points of SAN damage.
 
 Then, we remove _either Major Arcana_ or _Swords_, trying to keep a sort of 50-50 balance between the two,
-but carefully leaving The Fool and The Moon as the second-to-last and final removal of the deck. Once the Moon is
+but carefully leaving The Fool and The Moon as the second-to-last and final card removals of the deck. Once the Moon is
 removed, the character is - well, a {{<sidenote lunatic>}} it's a moon joke {{</sidenote>}}.
 
 ### Again, Doesn't That Make Their Skill Checks Way Too Strong?
@@ -550,6 +556,11 @@ With EXAMINE tokens, the player can:
 
 These tokens refresh at the rate of 1/night of sleep.
 
+### Unnatural
+
+Since you gain Unnatural a few points at the time, those points don't coalesce into a whole _card_
+in Unnatural until you have at least 20 points in Unnatural.
+
 
 ### Character Creation:
 
@@ -564,9 +575,13 @@ Each point buys either:
 * 1 card in a Stat
 * 4 cards to distribute throughout the Skills
 
-
 ### Let's See a Filled Out Character Sheet
 
 [![](./sample-character-16-point-buy.png)](./sample-character-16-point-buy.png)
 
 See, that's not so insane! It makes perfect sense! No I will not lower my voice, I'm allowed to be in this Wendy's!
+
+### Some More Helpful Sheets:
+
+[![](./character-sheet-4.png)](./character-sheet-4.png)
+[![](./character-sheet-5.png)](./character-sheet-5.png)
