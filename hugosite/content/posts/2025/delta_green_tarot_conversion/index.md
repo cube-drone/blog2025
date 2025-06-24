@@ -363,6 +363,8 @@ But it is the whole rules for skill checks baked into _one tidy sheet_, at least
 
 ## Stats & Skills
 
+You know what? There _are_ some things about Delta Green I kind of want to address when I'm working on stats & skills.
+
 ## Craft (Macrame) Unlikely To Be Useful
 
 This game offers a stunning array of abilities, from Archaeology to Artillery, as well as _separate_ "Medicine" and "Surgery" checks because, you know, pharmacology is not the same thing as removing a spleen.
@@ -388,7 +390,7 @@ I get that they are _flavor_, but, like, there's not much in the way of differen
 * Forensics
 * maybe a weapon skill, like firearms, or unarmed weapon
 
-# Utterly Ridiculous Skills
+### Utterly Ridiculous Skills
 * Ride
 * Language (French)
 * Craft (Macrame)
@@ -455,6 +457,13 @@ idk, sounds like you're trying to paper over some mechanical issues there, the r
 
 ## Let's Look at A Horrifying Character Sheet:
 
+Let me preface this with:
+
+I think that Blades in the Dark really revolutionized TTRPG design by putting _a lot more of the game_ right on the character sheet.
+
+This means that their character sheets are _dense_, but _very useful_ during gameplay. I'm hoping to have achieved something
+similar here, although the end result is something that I'd loosely describe as "it looks like a crazy person made it".
+
 [![](./character-sheet-1.png)](./character-sheet-1.png)
 [![](./character-sheet-2.png)](./character-sheet-2.png)
 
@@ -496,7 +505,7 @@ Sure, you can train your ability to shoot better, but what you're doing is _trai
 
 Then there's "I know how a gun works, I can turn off the safety on a gun, I can load a gun, I can fix a broken gun". That's **Craft(Firearms)** and it's INT-bound.
 
-### The Flexible Craft(X) Rule
+### The Arts & Crafts Rule
 
 The skills ART, CRAFT, LANGUAGE, HISTORY, OPERATE, SCIENCE, and WEAPON all allow the agent to choose a specific _thing_ that they've
 trained in.
@@ -508,7 +517,7 @@ If you have ART(Piano), and an ART(Violin) check comes up - well, that's a -1 ca
 building a lot of broad familiarity with the language of music_, so picking up a new instrument is _much easier_.
 
 On the other hand, an ART(Piano) might get -2 or even -3 cards on an ART(Oil Painting) check - maybe they have some innate creativity
-to draw on, here, but it's possibly a bit of a bridge too far.
+to draw on, here, but it's possibly a bit of a bridge too far. But they still get to _make the check_.
 
 That goes for any of these: somebody well trained in SCIENCE(Chemistry) is going to have a much better chance to take on a
 SCIENCE(Physics) task than someone with _no formal chemistry training_ at all. Somebody who's learned LANGUAGE(French) is going to
@@ -528,7 +537,7 @@ No, that is just "MILITARY".
 
 SURVIVAL and NAVIGATION have been combined into SURVIVAL/NAVIGATION.
 
-There are still separate FIRST AID and MEDECINE checks, but SURGERY is out.
+There are still separate FIRST AID and MEDICINE checks, but SURGERY is out.
 
 Just a few tidy-ups like this. There are still _fully 22 skills_, that is _plenty_.
 
@@ -593,6 +602,8 @@ Each point buys either:
 * 4 cards to distribute throughout the Skills
 
 ### Let's See a Filled Out Character Sheet
+
+Ed, here, was made with 16 points.
 
 [![](./sample-character-16-point-buy.png)](./sample-character-16-point-buy.png)
 
