@@ -5,15 +5,18 @@ draft = false
 categories = ["rpg"]
 tags = ["delta green", "tarot", "quinns"]
 description = "It's a modification to Delta Green where every agent gets their own Tarot deck."
+image = "./sample-character-16-point-buy.png"
 +++
 
 [![](./sample-character-16-point-buy.png)](./sample-character-16-point-buy.png)
 
 _There are some things I don’t like about this system, and I aim to fix them._
 
+<!--more-->
+
 ## What is Delta Green?
 
-Quinns just covered it in another mammoth review:
+Quinns just covered it in a mammoth review:
 
 {{<youtube yZHzfoHg>}}
 
@@ -22,8 +25,6 @@ But, in short, it's a spy thriller where you fight _lovecraftian horrors_.
 Call of Cthulhu, but set in the modern day.
 
 And I want to tinker with it.
-
-## Okay, what don't I like about the Delta Green system?
 
 ## The d100 is Fine, Actually
 
@@ -56,6 +57,8 @@ _I would like to use Tarot decks for Delta Green, and a d100 is not a deck of Ta
 So the problem I'm trying to solve here is not mechanical, but simply one of _preference_.
 
 ## Skill Checks
+
+How do we replicate the d100 skill system with a Tarot deck?
 
 ### Single Card Draw Doesn't Work So Well:
 
@@ -142,6 +145,8 @@ Yes - I, uh... I'm not going to lie, my DMing style is a little bit biased towar
 
 The story is more interesting when the players succeed _more_ and fail _less_ so giving the players a small mathematical advantage
 near the low-ends of the skill scale is not a bad thing, IMO.
+
+Your mileage may vary.
 
 ## Drawing When You've Got 0 Cards Left in a Skill
 
@@ -585,3 +590,12 @@ See, that's not so insane! It makes perfect sense! No I will not lower my voice,
 
 [![](./character-sheet-4.png)](./character-sheet-4.png)
 [![](./character-sheet-5.png)](./character-sheet-5.png)
+
+
+## Conclusion
+
+And there we go!
+
+That's a rough conversion for Delta Green into "a thing you can run with Tarot cards".
+
+It doesn't accomodate for _all_ of the rules: you'll need to make a lot of judgement calls at _time of_, but I think it might be serviceable.
