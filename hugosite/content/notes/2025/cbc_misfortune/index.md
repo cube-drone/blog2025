@@ -7,4 +7,4 @@ tags = ["poopin", "misfortune", "cbc"]
 
 once again, the CBC would like to remind you not to laugh at the misfortune of others
 
-{{< imgavif src="cbc.png" alt="CBC Misfortune" >}}
+![](./cbc.png)

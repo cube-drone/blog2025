@@ -5,7 +5,7 @@ categories = ["humor"]
 tags = ["math"]
 +++
 
-{{< imgavif src="mean.png" alt="Rolling Mean" >}}
+![](./mean.png)
 
 "Rolling Mean" is a great name for a nerdy motorcycle gang
 

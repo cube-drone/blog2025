@@ -9,4 +9,4 @@ tags = ["security", "stolen tweets", "you fucked up a perfectly good", "anxiety"
 
 I don't have to imagine, I've even tried taken medication for that exact same problem before, what I don't understand is why you'd WANT that
 
-{{< imgavif src="monkey.png" alt="you fucked up a perfectly good monkey is what you did" >}}
+![](./monkey.png)

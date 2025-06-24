@@ -5,4 +5,4 @@ categories = ["humor", "news edits"]
 tags = ["poopin"]
 +++
 
-{{< imgavif src="guardian_poopin.png" alt="Giant woman poops The Guardian" >}}
+![](./guardian_poopin.png)
