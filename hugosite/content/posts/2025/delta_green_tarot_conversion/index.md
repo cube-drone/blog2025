@@ -10,7 +10,7 @@ image = "./sample-character-16-point-buy.png"
 
 [![](./sample-character-16-point-buy.png)](./sample-character-16-point-buy.png)
 
-_There are some things I don’t like about this system, and I aim to fix them._
+_I've devised a way to play Delta Green with one Tarot deck per agent._
 
 <!--more-->
 
@@ -52,9 +52,21 @@ I _suspect_ that the game would run perfectly fine if you put a little effort in
 
 That's not a _real_ concern, though.
 
-_I would like to use Tarot decks for Delta Green, and a d100 is not a deck of Tarot cards._
+Here's the real concern:
+
+**I would like to use Tarot decks for Delta Green, and a d100 is not a deck of Tarot cards.**
 
 So the problem I'm trying to solve here is not mechanical, but simply one of _preference_.
+
+## Each Player Starts With Their Own Tarot Deck, As Does the GM
+
+This is important, for a few reasons:
+
+* Player customization: in the same way that players like to bring their own _really nice_ dice to games,
+    I'd like to support players bringing their own decks. Or using one of my decks. I have so many decks.
+* The DM needs a neutral deck for NPCs.
+* The SAN rules determine how many of an agents' Tarot cards they get to keep (explained more, below).
+
 
 ## Skill Checks
 
