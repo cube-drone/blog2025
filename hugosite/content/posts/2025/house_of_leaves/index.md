@@ -166,7 +166,6 @@ This earned the derogatory term "puzzle-box screenwriting", and ... well, in a m
 I'll argue that {{<blue>}}House{{</blue>}} of
 {{< sidenote Leaves >}}
 and a different "puzzle box" obsession of mine, Homestuck. &mdash;
-
 Homestuck actually explains almost everything, to full satisfaction, if you bother to close read it.
 That's... well, rare, and nightmarishly difficult, although the method by which it accomplished this magic trick is actually hilarious in retrospect: Hussie raised impossibly complicated and difficult questions in his text, and Hussie wrote it **live**, which gave him access to a rabid, insane fan community who would put in mountains of effort creating impossibly detailed theories explaining how everything could, in fact, fit together in a satisfying way. Then Hussie just... read the forums and quietly implemented and validated the fan theories. This creates the impression that he's a brilliant author when, in fact, he just created compelling questions and crowdsourced the impossible solutions. Homestuck is a story about using clever temporal tricks and metanarrative to solve impossible problems where ALSO the author is using clever temporal tricks and metanarrative to solve an impossible problem, which is... pretty great actually.
 {{< /sidenote >}}
