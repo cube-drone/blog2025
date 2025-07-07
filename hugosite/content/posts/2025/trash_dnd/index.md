@@ -3,7 +3,7 @@ title = 'Junk Drawer D&D'
 date = 2025-07-06T04:00:00-07:00
 categories = ["rpg"]
 tags = ["D&D"]
-image = "./graph.png"
+image = "/posts/2025/trash_dnd/graph.png"
 description = "playing D&D in lo-fi is more accessible and improvisational, lose the complex battlemat"
 +++
 
