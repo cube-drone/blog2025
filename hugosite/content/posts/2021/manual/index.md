@@ -9,9 +9,11 @@ description = "I really like old video game manuals and gush about them a bit."
 
 {{<imgwebp src="basic.png">}}
 
-One of the things I loved most as a kid was manuals. I was word-obsessed, and I wanted to learn everything about the world - while I loved stories, manuals were a special kind of magic story that teaches you how to _use a thing_. My parents were always patient, thoughtful tutors, but their time was always at a {{<sidenote premium>}}and also they didn't bother to know anything about topics deeply important to me, like "the pokemon" or "computers"{{</sidenote>}}.
-
+One of the things I loved most as a kid was manuals.
 <!--more-->
+
+I was word-obsessed, and I wanted to learn everything about the world - while I loved stories, manuals were a special kind of magic story that teaches you how to _use a thing_. My parents were always patient, thoughtful tutors, but their time was always at a {{<sidenote premium>}}and also they didn't bother to know anything about topics deeply important to me, like "the pokemon" or "computers"{{</sidenote>}}.
+
 I was a _weird kid_. (surprise surprise).
 
 A haunting story from my childhood is from the time, when I was 5, that my parents realized not just that I could read, but that I could read very well - they had bought a garage sale typewriter, and had settled in to the living room to try to figure out how to get it working. I stole away with the manual. When they couldn’t figure out how to change the ink ribbon, I explained it to them. When they asked how I knew how to change the ink ribbon, I showed them the page of the manual where the process had been laid out, step by step and clear as day.

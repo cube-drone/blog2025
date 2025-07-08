@@ -11,6 +11,8 @@ Hey, did you see this thing? “The Game Prototype That Had to Be Banned by Its 
 
 {{<youtube aOYbR-Q_4Hs>}}
 
+<!--more-->
+
 Spoilers: the designer accidentally built a game that could be described as “like Diplomacy”.
 
 Yup, Tank Tactics is accidentally a re-implementation of Diplomacy, which is, in my opinion, one of the most destructive anti-games ever {{<sidenote created>}} this segment used to have a link to a Lifehacker article entitled "Diplomacy: The Most Evil Board Game Ever Made", but the link has since disappeared from the internet, lost forever to the shifting sands.{{</sidenote>}}.
