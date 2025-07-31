@@ -8,6 +8,8 @@ image = "./clowns.png"
 description = "andrew hussie hates his nasty clown followers and so should you"
 +++
 
+_i'd love to watch a video essay about psycholonials with the caveat that I wouldn't trust anybody who read psycholonials to make a video essay about psycholonials_
+
 So, I've made no small matter (outside of my blog) out of my growing _Homestuck fandom_. (And also: my complete and utter lack of interest in participating in Homestuck fandom.)
 
 It really is a _singular piece of art_.
