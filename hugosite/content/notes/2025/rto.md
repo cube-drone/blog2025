@@ -22,7 +22,7 @@ Can we just hire a potemkin office of young underemployed actors to treat the CE
 
 _that's what executive assistants are for_
 
-What is this glorious corporate culture we're trying so hard to preserve? I think people are overestimating the cultural cachet of low-pile grey carpet, fake plastic plants, and saying "low hanging fruit" to a room full of sweaty people in collared shirts and Dockers slacks?
+What is this glorious corporate culture we're trying so hard to preserve? I think people are overestimating the cultural cachet of low-pile grey carpet, fake plastic plants, and saying "low hanging fruit" to a room full of sweaty people in collared shirts and Dockers slacks.
 
 **what will become of the men's loafer industry**
 
