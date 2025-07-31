@@ -30,7 +30,7 @@ I know, I know, the company's extroverts need 6-8 meetings a day because if nobo
 
 _but I work with those same people in a WFH environment and they just frantically spam the slack huddle button, they're doing FINE_
 
-- and as an introvert I don't know why their social dysfunction should be MY problem.
+and as an introvert I don't know why their social dysfunction should be MY problem.
 
 I'm angry that employee happiness isn't even apparently a factor in company decisions.
 
