@@ -1,4 +1,4 @@
-baseURL = 'https://b.cube-drone.com'
+baseURL = 'https://cube-drone.com'
 languageCode = 'en-us'
 title = "Blog Drone"
 copyright = 'Cube Drone' # Used in the footer copyright mention.
