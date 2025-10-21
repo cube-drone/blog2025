@@ -1,6 +1,6 @@
 +++
 title = "The Watchmaker's Dilemma (2)"
-date = 2025-10-21T12:00:00-07:00
+date = 2025-10-20T12:00:00-07:00
 draft = false
 categories = ["video games"]
 tags = ["triangle agency", "quinns"]
