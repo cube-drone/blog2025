@@ -3,7 +3,7 @@ title = "you should read the gay dog and bunny webcomic"
 date = 2025-08-25T12:00:00-07:00
 draft = false
 categories = ["comics"]
-tags = ["webcomics", "creux", "swords", "qwest", "shiki", "numbles", "raw dawg"]
+tags = ["webcomics", "creux", "swords", "qwest", "shiki", "numbles", "raw dawg", "oglaf"]
 description = "I still like webcomics after all these years"
 +++
 
