@@ -1,7 +1,7 @@
 +++
 title = 'Sakamoto Days and Ranma'
 date = 2025-09-04T04:00:00-07:00
-categories = ["anime"]
+categories = ["media", "anime"]
 tags = ["sakamoto days", "ranma"]
 description = "i watch some stuff"
 +++
