@@ -27,6 +27,14 @@ There are also, like, five or six webcomic artists also trying to abuse the “h
 
 … you know what, I don’t miss being a teenaged boy at all, it was _exhausting_.
 
+The absolute top of the hornyposting heap is [Oglaf](https://www.oglaf.com/), which, unlike most of the pinup artist collective, is, in my opinion, legitimately funny a lot of the time.
+
+![gravity](down-1.webp)
+
+![](theunderwoods.webp)
+
+-----
+
 Swords Comic is excellent, and literally every comic is about a sword in some way. That’s… that’s dedication to the bit.
 
 ![](./swords.jpg)
