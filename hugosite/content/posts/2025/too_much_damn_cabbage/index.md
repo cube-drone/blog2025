@@ -8,7 +8,7 @@ description = "stank ass cabbage"
 
 {{< imgavif src="cabbages.jpg" alt="A Short Hike" >}}
 
-The CSA is great...ish.
+The [CSA](/notes/2025/csa_pitch) is great...ish.
 
 A few weeks in a row they’ve sent me home with a huge head of cabbage.
 
