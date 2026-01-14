@@ -10,6 +10,8 @@ description = "my favorite games of the year"
 
 I do my own little list every year. Also, the games _don't even have to be from 2025_, I just have to have played them in 2025.
 
+<!--more-->
+
 ## Actively Bad, Do Not Recommend
 
 * I didn't play any bad games at all this year, I don't think.
