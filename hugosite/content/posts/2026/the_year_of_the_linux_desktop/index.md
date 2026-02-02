@@ -16,20 +16,17 @@ The "X is the year of the Linux Desktop" meme lives on and on because Linux is s
 But...
 
 ## Linux As a TV Computer
-Okay, so, when we replaced Tiff's computer with a new computer, the Old computer was stuck running Windows 10 (**EOL**) because the elderly motherboard couldn't run the mandatory security TPM, so Windows 11 is not an option for an upgrade there. That computer literally _can not securely run Windows any more_. 
+Okay, so, when we replaced Tiffwife's computer with a new computer, the Old computer was stuck running Windows 10 (**EOL**) because the elderly motherboard didn't have the mandatory security [TPM](https://www.pcmag.com/explainers/what-is-a-tpm-and-why-do-i-need-one-for-windows-11?test_uuid=04IpBmWGZleS0I0J3epvMrC), so Windows 11 is not an option for an upgrade there. That computer _can not securely run Windows any more_. 
 
 That was an i7 with a heavy, hot 1080 in it: a near top-of-the-line computer at time of construction and _still_ significantly faster than the mini-PC that we'd bought in 2024 to run the TV. 
 
-So, I installed Ubuntu Linux on it, and set it up as a media box computer, and with a little bit of Curtis Donking it turned into an honestly _pretty damn capable media center_. 
+So, I installed Ubuntu Linux on it, and set it up as a media box computer, and with a little bit of Donking it turned into an honestly _pretty damn capable media center_. 
 
 I did pick Ubuntu over Bazzite: [Bazzite](https://bazzite.gg/) seems like it might be a better distro for a media center, but I'm just... _so_... familiar with Ubuntu at this point. 
 
 ## Curtis Begins to Consider Electricity
-Then: Nifty moved in downstairs (temporarily, they're gone in a few weeks, now) with a heavy gaming PC of their own, and I quailed at the sheer electrical expense and load of running 5 gaming PCs under one roof. (My computer, my _separate_ WORK computer, Tiff's computer, the TV computer, and Nifty's computer) - at an average load of 400W we're looking at like 2 kilowatts of _just gaming PC_ in this house, equivalent to just _running a clothes dryer all the time, forever_. So I bought a Mac Mini (~50W) to run the TV and it's also very nice, and it can easily stream gaming content from more powerful devices in this house along the gigabit home ethernet.
 
-"Wait, why not just stick with the cheapo Mini-PC you were using to run the TV?" - So, for $180 I was able to get a PC with 16GB of RAM, a 1TB hard drive, and a N95 CPU, which _seems_ capable enough to run something as simple as a media PC, but... dang, that's a spec that's actually starting to really fall behind - particularly the dogshit [N95 CPU](https://www.cpu-monkey.com/en/cpu-intel_processor_n95), which was visibly struggling. Running Windows 11 _and_ watching H.265 video is apparently a pretty big ask for such a wheedly little chip. 
-
-Comparatively, the Mac Mini's modern M4 is out there delivering _very impressive_ performance while sipping electricity. 
+Then: A friend moved in downstairs (temporarily, they're gone in a few weeks, now) with a heavy gaming PC of their own, and I quailed at the sheer electrical expense and load of running 5 gaming PCs under one roof. (My computer, my _separate_ WORK computer, Tiff's computer, the TV computer, and guest's computer) - at an average load of 400W we're looking at like 2 kilowatts of _just gaming PC_ in this house, equivalent to just _running a clothes dryer all the time, forever_. So I bought a Mac Mini (~50W) to run the TV and it's also very nice, and it can easily stream gaming content from more powerful devices in this house along the gigabit home ethernet.
 
 ## The Year of the Linux Desktop
 
@@ -226,7 +223,7 @@ Krita, again, supports a full animation workflow under the hood, but it's defini
 
 If you want puppets, reusable assets, or rigging, you're SOL.
 
-I mean, there's grease pencil in Blender, but... Blender? :face_vomiting: 
+I mean, there's grease pencil in Blender, but... Blender? 🤮
 
 ### AfterEffects: ???
 
