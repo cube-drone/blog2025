@@ -1,6 +1,6 @@
 +++
 title = "We Are the Art"
-date = 2026-02-04T12:00:00-07:00
+date = 2026-02-03T14:00:00-07:00
 draft = false
 categories = ["technology"]
 tags = ["ai"]
