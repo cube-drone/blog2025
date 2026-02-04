@@ -20,9 +20,9 @@ enableRobotsTXT = true
     path = "github.com/michenriksen/hugo-theme-til"
 
 [outputs]
-  home = ['html']
+  home = ['html', 'rss']
   section = ['html', 'rss', 'json']
-  page = ['html']
+  page = ['html', 'rss', 'json']
 
 [menus]
   [[menus.main]]
