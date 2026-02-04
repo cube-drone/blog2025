@@ -32,7 +32,7 @@ This time, I could ask ChatGPT maybe? There's a lot of info in there.
 
 Unfortunately, though, no dice. It thought about recommending "Metropolis" to me a handful of times but visibly talked itself out of that. Best it could come up with was something called "The Place Promised in our Early Days", because it also featured a tower.
 
-![](./promised.png)
+{{<imgwebp src="promised.png">}}
 
 So I try... `anime 90s coma` in DuckDuckGo, and lo, fuckin' rights, someone 2 years ago had this same question, and even better: someone answered it:
 
@@ -70,7 +70,7 @@ https://en.wikipedia.org/wiki/GoShogun
 
 > GoShogun (戦国魔神ゴーショーグン, Sengoku Majin GōShōgun) is a Japanese super robot anime series created by Takeshi Shudo. It was produced and aired in 1981 in Japan, with a movie special released in 1982 and a film sequel, GoShogun: The Time Étranger or Time Stranger, in 1985.
 
-![](./goshogun.png)
+{{<imgwebp src="goshogun.png">}}
 
 So I think of this as "A Voltron", which sent me down a different rabbit hole - what exactly was "A Voltron"?
 
@@ -84,11 +84,11 @@ At the time, Japanese anime seasons were simply too _short_ to air as North Amer
 
 I'm convinced that one of the early Japanese artists who came up with the "combined robot mecha" style was inspired by the British 60's show "Thunderbirds" - you know, a bunch of pilots, each with their own cool vehicle. What they added was the huge innovation: what if their cool vehicles _COMBINED into a BIG ROBOT_".
 
-![](./thunderbirbs.png)
+{{<imgwebp src="thunderbirbs.png">}}
 
 in America, the Voltron "foreign media chop and screw" technique would eventually metastatize into the 90s' "Mighty Morphin' Power Rangers", which was _also_ pieced together from multiple shows and became a Gigantic Hit.
 
-![](./go_go.png)
+{{<imgwebp src="go_go.png">}}
 
 Perhaps looking at this fella you heard an insane guitar riff in your head. Go, go, Power Rangers.
 
@@ -104,19 +104,19 @@ Perhaps even funnier: the movie "Goshogun: The Time Étranger", set in the Gosho
 
 Of course, you can just _watch the thing yourself_, but if you want it at hyper-speed, let me give you a little tour.
 
-![](./etranger_1.png)
+{{<imgwebp src="etranger_1.png">}}
 
 After wandering in the desert with some companions hidden from view, this woman wakes up in a single hotel room in a strange, foreign city, finding an _honestly gorgeously rendered gun_.
 
-![](./etranger_2.png)
+{{<imgwebp src="etranger_2.png">}}
 
-![](./etranger_3.png)
+{{<imgwebp src="etranger_3.png">}}
 
 --------
 
 We cut to a different, futuristic city, where this same woman - we don't see her face in this version of the scene - is stuck in traffic.
 
-![](./etranger_4.png)
+{{<imgwebp src="etranger_4.png">}}
 
 "Curtis, you said that this movie didn't contain a single transforming robot!"
 
@@ -124,43 +124,43 @@ okay, it does, that _one_, the little toy one hanging above her dashboard, that'
 
 The traffic is because of _bank robbers_.
 
-![](./etranger_5.png)
+{{<imgwebp src="etranger_5.png">}}
 
 God dammit, let's fuck 'em up.
 
-> ![](./etranger_6.png)
+> {{<imgwebp src="etranger_6.png">}}
 >
 > Doesn't this frame look great? This sunglasses shot looks just gorgeous to me. Look at that hand-drawn set of sunglasses.
 
-![](./etranger_7.png)
+{{<imgwebp src="etranger_7.png">}}
 
 The cops are startled by this. This car belongs to Remy Shimada, who was some kinda ... galactic hero pilot, _40 years ago_? Now she's a 70-year old lady who still drives like a goddamned demon.
 
 She easily runs these goons off of the road, but her health isn't doing so hot, and she ends up in a nasty crash.
 
-![](./etranger_8.png)
+{{<imgwebp src="etranger_8.png">}}
 
 Then, she has a weird flashback of her youth: her mother was a French prostitute and they were poor as hell.
 
-> ![](./etranger_9.png)
+> {{<imgwebp src="etranger_9.png">}}
 >
 > This show is not shy about getting very bold with its camera angles.
 
 Not terribly happy, and it only gets worse from there.
 
-![](./etranger_10.png)
+{{<imgwebp src="etranger_10.png">}}
 
 Just a reminder now, we are currently watching a **Giant Mecha Anime**.
 
 She's rushed to hospital. This whole time, we're careful never to show her whole face: we only ever see pictures of Remy when she was young, never _current Remy_.
 
-![](./etranger_11.png)
+{{<imgwebp src="etranger_11.png">}}
 
-![](./etranger_12.png)
+{{<imgwebp src="etranger_12.png">}}
 
 Remy doesn't have health insurance. Or any money.
 
-![](./etranger_13.png)
+{{<imgwebp src="etranger_13.png">}}
 
 Two team members were getting back together to meet Remy to talk about something important, but she didn't show.
 
@@ -168,36 +168,36 @@ Everyone (Remy included) honestly looks pretty incredible for 70-year olds - fut
 
 While we're at it, we pan over pictures of the original team when they were young, because - honestly, this movie came out 4 years after a _single season of GoShogun aired_, even people who watched the show could probably use a reminder of who the characters were.
 
-![](./etranger_14.png)
-![](./etranger_15.png)
+{{<imgwebp src="etranger_14.png">}}
+{{<imgwebp src="etranger_15.png">}}
 
 When the heroes find out about Remy, each of them immediately drops _everything_ to go be with her.
 
 That's one of my favorite film tropes, by the way - the "cancel everything, I need to be on the first flight" moment.
 
-![](./cancel.png)
+{{<imgwebp src="cancel.png">}}
 
 The heroes assemble at the hospital, to find out that Remy, on top of her car crash, had some _pretty late stage cancer_. Future space leukemia.
 
-![](./etranger_16.png)
+{{<imgwebp src="etranger_16.png">}}
 
 Okay, "progressive leuko-isolation syndrome". Her blood is... lonely? I think it's safe just to call it _future space leukemia_.
 
-![](./etranger_17.png)
+{{<imgwebp src="etranger_17.png">}}
 
 Doing anything about it would take a specialist from a different hospital, but she's too sick to move, and they're not gonna go pull a specialist for some old lady with no health insurance.
 
-![](./etranger_18.png)
+{{<imgwebp src="etranger_18.png">}}
 
 Okay, so, I'm reasonably certain that this was what got me on board when I was a teenager. I had zero context, but something about this team of elderly heroes rallying together to kick the ass of a bitchy doctor to try and rescue an old friend? That feels _emotionally satisfying_.
 
 Good thing one of their team members (not present) is the _literal actual Surgeon General, now_.
 
-![](./etranger_19.png)
+{{<imgwebp src="etranger_19.png">}}
 
 This guy, one of the more cartoony members of the team, is out in the woods, currently engaged in a dispute with _another old team member_, trying to get some unused land turned into a hospital.
 
-![](./etranger_20.png)
+{{<imgwebp src="etranger_20.png">}}
 
 "i want to turn your land into a hospital"
 
@@ -209,17 +209,17 @@ This guy, one of the more cartoony members of the team, is out in the woods, cur
 
 But then the call comes in.
 
-![](./etranger_21.png)
+{{<imgwebp src="etranger_21.png">}}
 
 They need him, and fast!
 
 So we get _another_ "drop everything" moment.
 
-![](./etranger_22.png)
+{{<imgwebp src="etranger_22.png">}}
 
-![](./etranger_23.png)
+{{<imgwebp src="etranger_23.png">}}
 
-![](./etranger_24.png)
+{{<imgwebp src="etranger_24.png">}}
 
 YEAH I WANT TO SEE A SAMURAI FIGHT CANCER WITH A JET
 
@@ -229,9 +229,9 @@ YEAH I WANT TO SEE A SAMURAI FIGHT CANCER WITH A JET
 
 This takes us back to... the weird haunted-ass city from before, and who we now can identify as a young Remy Shimada.
 
-![](./etranger_25.png)
+{{<imgwebp src="etranger_25.png">}}
 
-![](./etranger_26.jpg)
+{{<imgwebp src="etranger_26.jpg">}}
 
 Remy opens the door to her hotel room, expecting that her friends are out there. In an "imagination" sequence it's made clear who she expects to find: the guys from earlier, but _young_. They're all young, here.
 
@@ -239,13 +239,13 @@ Are we in the past, then? Is this a flashback?
 
 Instead of her team, she finds this little girl giving her a letter.
 
-![](./etranger_27.jpg)
+{{<imgwebp src="etranger_27.jpg">}}
 
 The letter informs Remy that she has 2 days to live.
 
 "How you will die is shown within:"
 
-![](./etranger_28.jpg)
+{{<imgwebp src="etranger_28.jpg">}}
 
 2 days is also how long the doctor gave her.
 
@@ -257,25 +257,25 @@ So this isn't the past? It's... a kind of coma purgatory?
 
 Back to the team: despite being able to marshal all of their significant resources, this is late stage leukemia PLUS a nasty car crash.
 
-![](./etranger_29.jpg)
+{{<imgwebp src="etranger_29.jpg">}}
 
 She's probably gonna die.
 
-![](./etranger_30.jpg)
+{{<imgwebp src="etranger_30.jpg">}}
 
 ------
 
 In another France flashback, Child-Remy is getting sexually assaulted by some child bullies.
 
-![](./etranger_31.jpg)
+{{<imgwebp src="etranger_31.jpg">}}
 
 Well, not quite, because Remy's more interested in wrapping her belt around her fist and completely obliterating them.
 
-![](./etranger_32.jpg)
+{{<imgwebp src="etranger_32.jpg">}}
 
-![](./etranger_33.jpg)
+{{<imgwebp src="etranger_33.jpg">}}
 
-![](./etranger_34.jpg)
+{{<imgwebp src="etranger_34.jpg">}}
 
 tee hee
 
@@ -283,84 +283,84 @@ tee hee
 
 Coma Purgatory Remy is being chased down endless dark alleyways by an inchoate mass of citizens.
 
-![](./etranger_35.jpg)
+{{<imgwebp src="etranger_35.jpg">}}
 
-![](./etranger_36.jpg)
+{{<imgwebp src="etranger_36.jpg">}}
 
 When I was watching this as a teenager I think I missed how much the artists
 invoked the "blood disease" imagery, here in coma purgatory.
 
 She is surrounded, and torn to shreds, while discordant, angry jazz plays.
 
-![](./etranger_37.jpg)
+{{<imgwebp src="etranger_37.jpg">}}
 
-![](./etranger_38.jpg)
+{{<imgwebp src="etranger_38.jpg">}}
 
 but it hasn't happened yet.
 
-![](./etranger_39.jpg)
+{{<imgwebp src="etranger_39.jpg">}}
 
 ain't no thang, I got this
 
 The shower's still on, better check on that.
 
-![](./etranger_40.jpg)
+{{<imgwebp src="etranger_40.jpg">}}
 
 oop, it's blood. blood shower.
 
 That's odd, the blood usually gets off on the second floor.
 
-![](./simpsons.jpg)
+{{<imgwebp src="simpsons.jpg">}}
 
 You know, for as unsubtle as this story is about the blood imagery, I don't think I ever even registered "she has leukemia, a cancer of the blood" when I watched this as a teenager.
 
 Lovingly loading her pistol (again, her pistol gets a LOT of screen time in this) she rushes to the top floor, to the water tower, to confront whoever's sabotaged her shower, only to find... her squad.
 
-![](./etranger_41.jpg)
+{{<imgwebp src="etranger_41.jpg">}}
 
 This water's legit.
 
-![](./etranger_42.jpg)
+{{<imgwebp src="etranger_42.jpg">}}
 
 Everyone's investigating the same issue. Also this guy has got _great_ penguin jammies.
 
-![](./etranger_43.jpg)
+{{<imgwebp src="etranger_43.jpg">}}
 
-![](./etranger_44.jpg)
+{{<imgwebp src="etranger_44.jpg">}}
 
 I'm beginning to think this stuck in my head for over 20 years because it was _rad as hell_.
 
 Oh, you got a blood shower and notes telling you all you're gonna die? Yeah, that's ... that's this town's whole deal, didn't you get the memo? Literally everybody here is dying.
 
-![](./etranger_45.jpg)
+{{<imgwebp src="etranger_45.jpg">}}
 
 Also, you can't leave. The fate's yours, there's no escape.
 
-![](./etranger_46.jpg)
+{{<imgwebp src="etranger_46.jpg">}}
 
 Each of them is fated to die on a different day - but Remy's is the first one, "Day 2".
 
-![](./etranger_47.jpg)
+{{<imgwebp src="etranger_47.jpg">}}
 
 So let's escape!
 
 They drink blood red wine while the samurai plays classy piano music.
 
-![](./etranger_48.jpg)
+{{<imgwebp src="etranger_48.jpg">}}
 
 But the townspeople aren't cool with people just leaving. Can't leave with broken legs.
 
-![](./etranger_49.jpg)
+{{<imgwebp src="etranger_49.jpg">}}
 
 Fun heroic fight scene, although Remy knocks a mook on to the piano, forcing her to apologize.
 
-![](./etranger_50.jpg)
+{{<imgwebp src="etranger_50.jpg">}}
 
 The cops show up and massacre the mooks in cold blood. They're helping!
 
-![](./etranger_51.jpg)
+{{<imgwebp src="etranger_51.jpg">}}
 
-![](./etranger_52.jpg)
+{{<imgwebp src="etranger_52.jpg">}}
 
 our heroes are uncomfortable with the level of assistance provided
 
@@ -372,7 +372,7 @@ While being escorted back to the hotel, the team mulls over their two options: a
 
 Remy relaxes with a non-blood shower, only to return to a woman being either eaten or raped by a wolf on her bed, and a grim warning.
 
-![](./etranger_53.jpg)
+{{<imgwebp src="etranger_53.jpg">}}
 
 Her gun does nothing, doesn't even dent the wolf, and she has to watch the woman messily (and salaciously) eviscerated in a scene that would make the team at American Horror Story blush.
 
@@ -384,23 +384,23 @@ One of her teammates had been quietly tailing her and tosses her a knife at just
 
 "Look, we all get you're a lone wolf who don't need nobody, but you can't do this alone."
 
-![](./etranger_54.jpg)
+{{<imgwebp src="etranger_54.jpg">}}
 
 Because the team's fates all have them dying _after_ Remy, they want to put themselves in danger first - it stands to reason, they can't die before her, right? Killy fights off some more citizens and shoos Remy back to the hotel, but on the way back she runs into the ~~blood cells~~ red hanging cables from the prophecy.
 
 whoops, fate happened and one of the pictures came true:
 
-![](./etranger_55.jpeg)
+{{<imgwebp src="etranger_55.jpeg">}}
 
 She gets cornered again, and her six-shot gun - well, there are only six shots and this city has a lot more than 6 angry goons in it.
 
 Good thing there's another teammate.
 
-![](./etranger_56.jpeg)
+{{<imgwebp src="etranger_56.jpeg">}}
 
 Uh, this is getting very violent, they are not afraid to just absolutely murk these mooks.
 
-![](./murk.png)
+{{<imgwebp src="murk.png">}}
 
 Again, her heroic teammate stays behind to fight and ushers her along.
 
@@ -408,13 +408,13 @@ And she realizes, in a moment of weakness, that she's been firing her gun too mu
 
 Okay, the pattern is becoming clear, right? Teammates are rescuing her and then leaving her on her own again, in sequence.
 
-![](./etranger_57.jpg)
+{{<imgwebp src="etranger_57.jpg">}}
 
 Also _heyo_, the "Japanese pun you missed" translator's note. I haven't seen one of those in _years_.
 
 But we've got a motorcycle, so let's skip ahead and just escape now?
 
-![](./etranger_58.jpg)
+{{<imgwebp src="etranger_58.jpg">}}
 
 They cruise out of the city.
 Into a ... massive, open-air graveyard.
@@ -425,21 +425,21 @@ Then they're ... cruising back in to the city.
 
 Like Cecily Strong and Keegan-Micheal Key trying to leave Schmigadoon. The exit is just the entrance.
 
-![](./schmigadoon.png)
+{{<imgwebp src="schmigadoon.png">}}
 
 They try again, and it happens again.
 
-![](./etranger_59.jpg)
+{{<imgwebp src="etranger_59.jpg">}}
 
 Like they said, there's no _outside the city_.
 
 Aside from the one, obvious way.
 
-![](./etranger_60.jpg)
+{{<imgwebp src="etranger_60.jpg">}}
 
 "Oh, yeah, this lady is definitely gonna die."
 
-![](./etranger_61.jpg)
+{{<imgwebp src="etranger_61.jpg">}}
 
 Remy reloads her gun, although her hands are so injured she's not confident she'll be able to fire it many more times. As she soaks her hands in hot water, the creepy girl and wolf taunt her some more, but Remy just waves them off dismissively.
 
@@ -447,31 +447,31 @@ Her and her friends spend the night loading weapons and preparing themselves for
 
 Even going so far as to turn the streetcar we saw earlier into a reinforced battle wagon.
 
-![](./etranger_62.jpg)
+{{<imgwebp src="etranger_62.jpg">}}
 
 There's a full on musical "let's get ready to fight" montage, which would be so great if the soundtrack weren't _soft 80's pop_. I don't think they picked the right song for this.
 
 Back in the past, child Remy has been chased into a pit by the families of the kids she walloped. Alone and scared, she's about to give up, but she's cheered by imagining a group of other lonely kids who she might one day meet.
 
-![](./etranger_63.jpg)
+{{<imgwebp src="etranger_63.jpg">}}
 
 The doctor is ready to turf Remy, she's not gonna make it.
 
 Ain't nobody in town is cool with their "let's attack the tower" plan, but armored car don't care.
 
-![](./etranger_64.jpg)
+{{<imgwebp src="etranger_64.jpg">}}
 
 okay this has become a _little_ goofy
 
-![](./etranger_65.jpg)
+{{<imgwebp src="etranger_65.jpg">}}
 
 tower's a nightmare hellscape inside, whoops
 
-![](./etranger_66.jpg)
+{{<imgwebp src="etranger_66.jpg">}}
 
-![](./etranger_67.jpg)
+{{<imgwebp src="etranger_67.jpg">}}
 
-![](./etranger_68.jpg)
+{{<imgwebp src="etranger_68.jpg">}}
 
 jesus christ
 
@@ -479,32 +479,31 @@ Someone really went to town on the "blood disease" and "time running out" spec o
 
 While everyone else was rescuing Remy in the previous cutscenes, these guys didn't get to do anything cool... because they were preparing to _blow up the entire city_
 
-![](./etranger_69.jpg)
+{{<imgwebp src="etranger_69.jpg">}}
 
-![](./etranger_70.jpg)
+{{<imgwebp src="etranger_70.jpg">}}
 
-![](./etranger_71.jpg)
-
+{{<imgwebp src="etranger_71.jpg">}}
 
 fuck you, fate! [when life gives you lemons, _blow up the city_](https://www.youtube.com/watch?v=NyLUU3O4zW8).
 
 But, surprise surprise, destroying the city doesn't do anything, because it was just a metaphor for blood cancer all along!
 
-![](./etranger_72.jpg)
+{{<imgwebp src="etranger_72.jpg">}}
 
 Can't beat that!
 
 Also: the wolf is huge. And your friends aren't really here! You're just imagining them!
 
-![](./etranger_73.jpg)
+{{<imgwebp src="etranger_73.jpg">}}
 
-![](./etranger_74.jpg)
+{{<imgwebp src="etranger_74.jpg">}}
 
-![](./etranger_75.jpg)
+{{<imgwebp src="etranger_75.jpg">}}
 
 "Oh, by the way, I never said when fate said _I_ was supposed to die."
 
-![](./etranger_76.jpg)
+{{<imgwebp src="etranger_76.jpg">}}
 
 Fate's a fuckin' chump, Remy, you go get 'em.
 
@@ -512,17 +511,17 @@ Her friends rush off to fight the fight. The friends she imagined when she was a
 
 Sad defiant song!
 
-![](./etranger_77.jpg)
+{{<imgwebp src="etranger_77.jpg">}}
 
 She's gonna fight this fuckin' wolf.
 
 She has to tie the gun to her hand for support.
 
-![](./etranger_78.jpg)
+{{<imgwebp src="etranger_78.jpg">}}
 
-![](./etranger_79.jpg)
+{{<imgwebp src="etranger_79.jpg">}}
 
-![](./etranger_80.jpg)
+{{<imgwebp src="etranger_80.jpg">}}
 
 And she does it. She kills the wolf!
 
@@ -532,29 +531,29 @@ But it's not enough.
 
 Her heartbeat stops.
 
-![](./etranger_81.jpg)
+{{<imgwebp src="etranger_81.jpg">}}
 
 Her friends leave the room sadly.
 
-![](./game_over.png)
+{{<imgwebp src="game_over.png">}}
 
 ---------
 
 Yeah, this grave we've all been standing around? It's Remy's grave.
 
-![](./etranger_82.jpg)
+{{<imgwebp src="etranger_82.jpg">}}
 
-![](./fess_up.png)
+{{<imgwebp src="fess_up.png">}}
 
 "Hey, about that whole beating fate thing - you were lying, right? You weren't actually fated to die yesterday?"
 
-![](./etranger_83.jpg)
+{{<imgwebp src="etranger_83.jpg">}}
 
-![](./etranger_84.jpg)
+{{<imgwebp src="etranger_84.jpg">}}
 
 "Bang!"
 
-![](./bang.png)
+{{<imgwebp src="bang.png">}}
 
 and so the nurse tidies up in an empty room.
 
@@ -562,27 +561,27 @@ But....
 
 maybe....
 
-![](./etranger_85.jpg)
+{{<imgwebp src="etranger_85.jpg">}}
 
 From nothing, a heartbeat - a weak heartbeat.
 
-![](./etranger_86.jpg)
+{{<imgwebp src="etranger_86.jpg">}}
 
 Her friends sadly leave the hospital, but they hear something behind them.
 
-![](./etranger_87.jpg)
+{{<imgwebp src="etranger_87.jpg">}}
 
 It's Remy! ... Young Remy!
 
 We have never once seen old Remy's face in this whole story.
 
-![](./etranger_88.jpg)
+{{<imgwebp src="etranger_88.jpg">}}
 
 They're all young! They'll be together forever!
 
-![](./etranger_89.jpg)
+{{<imgwebp src="etranger_89.jpg">}}
 
-![](./etranger_90.jpg)
+{{<imgwebp src="etranger_90.jpg">}}
 
 Time doesn't exist, really, they'll be together forever!
 
