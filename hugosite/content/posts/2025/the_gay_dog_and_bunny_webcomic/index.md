@@ -5,6 +5,7 @@ draft = false
 categories = ["comics"]
 tags = ["webcomics", "creux", "swords", "qwest", "shiki", "numbles", "raw dawg", "oglaf"]
 description = "I still like webcomics after all these years"
+images = ["hampter.webp"]
 +++
 
 {{<imgwebp src="hampter.webp">}}

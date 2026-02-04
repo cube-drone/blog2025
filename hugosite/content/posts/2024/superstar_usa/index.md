@@ -4,7 +4,7 @@ date = 2024-10-15T12:00:00-07:00
 draft = false
 categories = ["media"]
 tags = ["cruel pranks", "cringe", "contrapoints"]
-image = "./yikes.png"
+images = ["yikes.png"]
 description = "the actual worst reality TV show of all time"
 +++
 

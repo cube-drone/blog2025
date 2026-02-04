@@ -3,8 +3,8 @@ title = "iron chef"
 date = 2024-01-13T11:00:00-07:00
 draft = false
 categories = ["food", "media", "recommendations", "humor"]
-tags = ["fukui-san", "cooking competition shows"]
-image = "./chef.png"
+tags = ["fukui-san", "cooking competition shows", "iron chef"]
+images = ["chef.png"]
 description = "I love the original run of Iron Chef, let me tell you why."
 +++
 

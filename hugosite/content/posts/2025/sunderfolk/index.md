@@ -5,6 +5,7 @@ draft = false
 categories = ["video games", "board games"]
 tags = ["jackbox party pack", "gloomhaven", "sunderfolk"]
 description = "sunderfolk is the best gloomhaven and it's not even close"
+images = ["title.jpeg"]
 +++
 
 {{<imgwebp src="title.jpeg">}}

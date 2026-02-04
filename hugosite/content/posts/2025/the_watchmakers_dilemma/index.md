@@ -4,7 +4,8 @@ date = 2025-10-20T12:00:00-07:00
 draft = false
 categories = ["video games"]
 tags = ["triangle agency", "quinns"]
-description = "quinns reviewed a cosmic horror corporate RPG"
+description = "i made a game, it's awful"
+images = ["screenshot.png"]
 +++
 
 {{<imgwebp src="screenshot.png">}}

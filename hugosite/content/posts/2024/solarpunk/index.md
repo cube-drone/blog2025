@@ -4,7 +4,7 @@ date = 2024-03-15T08:00:00-07:00
 draft = false
 categories = ["media", "science fiction"]
 tags = ["solarpunk", "yogurt", "quinns", "susd", "cyberpunk"]
-image = "./pretty_solarpunk.png"
+images = ["pretty_solarpunk.png"]
 description = "but what happened to all of the people though?"
 +++
 
@@ -12,9 +12,7 @@ Solarpunk has been picking up in popularity in the past few years.
 
 Like in this... weirdly gorgeous yogurt ad.
 
-{{<youtube
-z-Ng5ZvrDm4
->}}
+{{<youtube z-Ng5ZvrDm4 >}}
 
 <!--more-->
 

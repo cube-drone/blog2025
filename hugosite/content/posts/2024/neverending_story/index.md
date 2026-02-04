@@ -4,7 +4,7 @@ date = 2024-05-15T13:00:00-07:00
 draft = false
 categories = ["media", "books", "fantasy", "wife"]
 tags = ["neverending story", "homestuck", "color e-reader", "the empress", "dark crystal", "creepy age dynamics", "ouroborous", "bluth", "muppet", "jim henson", "80s", "brave little toaster", "princess bride", "the chocolate river", "nimh", "david bowie", "bulge", "clowns", "oz", "scrooge", "meta", "meaningfully colored text", "homestar"]
-image="./movie.png"
+images=["movie.png"]
 description="neverending stooooooorrryyyyyyyyyy a-a-a a-a-a a-a-aaaaa"
 +++
 

@@ -4,7 +4,7 @@ date = 2024-01-01T08:00:00-07:00
 draft = false
 categories = ["media", "humor"]
 tags = ["pie in the face", "singin in the rain"]
-image = "./rain.png"
+images = ["rain.png"]
 description = "during a patch of COVID I kept myself company with old musicals, let me tell you about them"
 +++
 

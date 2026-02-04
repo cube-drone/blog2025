@@ -5,6 +5,7 @@ draft = false
 categories = ["technology"]
 tags = ["community", "mastodon"]
 description = "this could be interaction fiction too, if I let it"
+images = ["xoxi.png"]
 +++
 
 {{<imgwebp src="xoxi.png">}}

@@ -5,6 +5,7 @@ categories = ["rpg"]
 tags = ["D&D"]
 image = "/posts/2025/trash_dnd/graph.png"
 description = "playing D&D in lo-fi is more accessible and improvisational, lose the complex battlemat"
+images = ["graph.png"]
 +++
 
 The ideal level of abstraction and prep for a D&D dungeon is a graph that looks like this:

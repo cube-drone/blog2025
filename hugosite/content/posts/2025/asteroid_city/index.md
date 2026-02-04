@@ -5,6 +5,7 @@ draft = false
 categories = ["media"]
 tags = ["house of leaves", "absurdism", "asteroid city", "wes anderson"]
 description = "nihilistic themes of absurdism and grief embedded in a shaggy dog story that goes nowhere"
+images = ["asteroid.png"]
 +++
 
 {{<imgwebp src="asteroid.png">}}

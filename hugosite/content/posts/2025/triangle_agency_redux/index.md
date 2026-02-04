@@ -5,6 +5,7 @@ draft = false
 categories = ["rpg"]
 tags = ["triangle agency", "quinns"]
 description = "quinns reviewed a cosmic horror corporate RPG"
+images = ["triangle.png"]
 +++
 
 {{<imgwebp src="triangle.png">}}

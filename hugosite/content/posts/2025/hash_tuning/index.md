@@ -5,6 +5,7 @@ draft = false
 categories = ["software"]
 tags = ["testing", "hash functions"]
 description = "Expensive hash functions are good for security but bad for your automated test framework."
+images = ["tuning.png"]
 +++
 
 I build a new auth system about once a year.

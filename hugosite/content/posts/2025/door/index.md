@@ -5,6 +5,7 @@ draft = false
 categories = ["cat", "zapp"]
 tags = ["home", "doors"]
 description = "We replaced our house's front door."
+images = ["open_1.jpg"]
 +++
 
 {{<imgwebp src="open_1.jpg">}}

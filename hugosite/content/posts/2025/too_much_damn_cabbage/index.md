@@ -4,6 +4,7 @@ date = 2025-09-25T04:00:00-07:00
 categories = ["food"]
 tags = ["cabbage", "fermentation", "sauerkraut"]
 description = "stank ass cabbage"
+images = ["ferment.png"]
 +++
 
 {{< imgavif src="cabbages.jpg" alt="A Short Hike" >}}

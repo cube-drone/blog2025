@@ -4,7 +4,7 @@ date = 2024-11-15T12:00:00-07:00
 draft = false
 categories = []
 tags = ["taxonomy", "and jeff"]
-image = "./scott.png"
+images = ["scott.png"]
 description = "i get unreasonably mad about a stupid blog post I read one time"
 +++
 

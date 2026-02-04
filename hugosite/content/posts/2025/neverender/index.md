@@ -3,8 +3,8 @@ title = 'Neverender is a Homage to Dirty Pair'
 date = 2025-06-15T12:00:00-07:00
 categories = ["music", "art", "media"]
 tags = ["anime", "justice"]
-image = "./dp1.png"
 description = "This stunning music video has startling parallels with an anime opening from the 80's."
+images = ["dp1.png"]
 +++
 
 So, this released a few years back:

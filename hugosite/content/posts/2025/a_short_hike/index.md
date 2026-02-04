@@ -4,6 +4,7 @@ date = 2025-09-23T04:00:00-07:00
 categories = ["video games"]
 tags = ["a short hike"]
 description = "short, pleasant, fun, give it a try"
+images = ["hike.jpg"]
 +++
 
 {{< imgavif src="hike.jpg" alt="A Short Hike" >}}

@@ -5,6 +5,7 @@ draft = false
 categories = ["technology"]
 tags = ["linux"]
 description = "let's dual boot linux and see how that goes in this the year of our lord 2026"
+images = ["whynot.png"]
 +++
 
 {{<imgwebp src="whynot.png">}}

@@ -5,6 +5,7 @@ draft = false
 categories = ["media"]
 tags = ["anime"]
 description = "this late-night teletoon anime from the 80s has haunted me for decades"
+images = ["etranger_1.png"]
 +++
 
 {{<imgwebp src="etranger_1.png">}}

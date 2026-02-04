@@ -4,6 +4,7 @@ date = 2025-09-04T04:00:00-07:00
 categories = ["media", "anime"]
 tags = ["sakamoto days", "ranma"]
 description = "i watch some stuff"
+images = ["sakamoto-1.jpeg"]
 +++
 
 Sometimes I feel like I need to justify my popcorny TV watching habits: so, I watch TV while I code, which means that I can’t watch anything deep or cerebral because that’s too engaging. No Pantheon, no Ghost In the Shell: Stand Alone Complex, no Arcane: when I’m coding I need something more in the Brooklyn Nine Nine territory.

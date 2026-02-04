@@ -5,6 +5,7 @@ draft = false
 categories = ["video games"]
 tags = ["hypnospace outlaw", "blippo", "killing time at lightspeed"]
 description = "interactive fiction takes another step forward"
+images = ["blippo.jpg"]
 +++
 
 {{<imgwebp src="blippo.jpg">}}

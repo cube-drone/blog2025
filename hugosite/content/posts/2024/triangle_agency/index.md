@@ -4,7 +4,7 @@ date = 2024-12-15T12:00:00-07:00
 draft = false
 categories = ["rpg"]
 tags = ["triangle agency", "quinns"]
-image = "./triangle.png"
+images = ["triangle.png"]
 description = "a cosmic horror corporate RPG"
 +++
 

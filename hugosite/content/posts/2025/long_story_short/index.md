@@ -5,6 +5,7 @@ draft = false
 categories = ["media"]
 tags = ["bojack horseman"]
 description = "the most jewish show on television, for what that's worth"
+images = ["longstory.jpg"]
 +++
 
 {{<imgwebp src="longstory.jpg">}}

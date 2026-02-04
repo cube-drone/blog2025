@@ -3,8 +3,8 @@ title = "Gods, Monsters, and the Lucky Peach"
 date = 2024-02-15T08:00:00-07:00
 draft = false
 categories = ["media", "science fiction"]
-tags = ["solarpunk", "terraform", "orson scott card", "time travel", "hugo", "fantastic future powerpoint"]
-image = "./gods.png"
+tags = ["solarpunk", "terraform", "orson scott card", "time travel", "hugo", "fantastic future powerpoint", "gods, monsters, and the lucky peach"]
+images = ["gods.png"]
 description = "this was such an interesting book, too bad about the story though"
 +++
 
