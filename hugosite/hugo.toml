@@ -8,6 +8,8 @@ enableRobotsTXT = true
 [params]
   # show graph for individual notes & posts
   showGraph = false
+  # backstop opengraph image: my ugly face
+  images = ["/images/system.png"]
 
 # Notes page setup
 [params.notes]
