@@ -1,13 +1,29 @@
 {{ define "main" }}
-  <article class="main">
+    <article class="main">
     {{- with .Title }}
       <header>
-        <h1 class="!mb-1">{{ . }}</h1>
+        <div style="float:right; opacity: 0.2;">
+          <a
+            rel="alternate"
+            type="application/rss+xml"
+            href="index.rss"
+            title="Subscribe to the RSS feed"
+          >
+            <span class="w-4 h-4 inline-block">{{ partial "svg/rss.html" }}</span>
+          </a>
+        </div>
+
+        <h1 class="!mb-1 inline-flex items-baseline w-full">
+        {{ . }}
+        </h1>
+
+
       </header>
     {{ end -}}
     {{- with .Content }}
       {{ . }}
     {{ end -}}
+  </article>
   </article>
 
   <!-- CATEGORY MATHEMATICS-->
@@ -97,17 +113,6 @@
   </details>
 {{- end }}
 
-  {{- if default true site.Params.home.showRecentNotes }}
-    {{- $notes := where site.RegularPages "Section" "notes" -}}
-    {{- with $notes.Limit (int (default 5 site.Params.home.recentNotesLimit)) }}
-      <section>
-        <h2>==> last 5 notes &nbsp;<small><a href="/notes">(all notes)</a></small></h2>
-
-        {{ partial "notes/list.html" . }}
-      </section>
-    {{ end -}}
-  {{ end -}}
-
   {{- if default true site.Params.home.showRecentPosts }}
     {{- $posts := where site.RegularPages "Section" "posts" -}}
     {{- with $posts.Limit (int 1) }}
@@ -119,6 +124,16 @@
     {{ end -}}
   {{ end -}}
 
+  {{- if default true site.Params.home.showRecentNotes }}
+    {{- $notes := where site.RegularPages "Section" "notes" -}}
+    {{- with $notes.Limit (int (default 5 site.Params.home.recentNotesLimit)) }}
+      <section>
+        <h2>==> last 5 notes &nbsp;<small><a href="/notes">(all notes)</a></small></h2>
+
+        {{ partial "notes/list.html" . }}
+      </section>
+    {{ end -}}
+  {{ end -}}
 
   {{- if default true site.Params.home.showRecentPosts }}
     {{- $posts := where site.RegularPages "Section" "videos" -}}
