@@ -4,7 +4,7 @@ date = 2026-02-03T12:00:00-07:00
 draft = false
 categories = ["technology"]
 tags = ["community", "mastodon"]
-description = "this could be interaction fiction too, if I let it"
+description = "this could be interactive fiction too, if I let it"
 images = ["xoxi.png"]
 +++
 

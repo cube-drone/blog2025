@@ -18,7 +18,9 @@
             >
           </header>
 
-          <div class="text-sm">{{ .Summary }}</div>
+          <!-- we put the WHOLE CONTENT in because Video posts are shooooort -->
+          <div class="text-sm">{{ .Content }}</div>
+
           {{ with .Page.GetTerms "categories" }}
             <ul class="flex flex-row items-center justify-end space-x-2">
               {{ range . }}
