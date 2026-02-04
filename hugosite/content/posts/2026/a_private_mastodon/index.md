@@ -4,7 +4,7 @@ date = 2026-02-03T12:00:00-07:00
 draft = false
 categories = ["technology"]
 tags = ["community", "mastodon"]
-description = "let's dual boot linux and see how that goes in this the year of our lord 2026"
+description = "this could be interaction fiction too, if I let it"
 +++
 
 {{<imgwebp src="xoxi.png">}}
