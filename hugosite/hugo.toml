@@ -24,7 +24,7 @@ enableRobotsTXT = true
 [outputs]
   home = ['html', 'rss']
   section = ['html', 'rss', 'json']
-  page = ['html', 'rss', 'json']
+  page = ['html', 'rss']
 
 [menus]
   [[menus.main]]
