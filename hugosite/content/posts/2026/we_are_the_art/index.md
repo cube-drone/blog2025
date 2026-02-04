@@ -5,6 +5,7 @@ draft = false
 categories = ["technology"]
 tags = ["ai"]
 description = "an exploration into the meaning of art as LLMs are trying to eat the world"
+images = ["brando.png"]
 +++
 
 {{<imgwebp src="brando.png">}}
