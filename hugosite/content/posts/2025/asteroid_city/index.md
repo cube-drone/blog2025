@@ -126,17 +126,9 @@ House of Leaves is a story about a house that is an impossible mystery that will
 
 Asteroid City is a story about a meaningless asteroid that nobody understands, in a meaningless play that nobody understands, which is an allegory for life being a meaningless thing that nobody understands.
 
-### What is the difference between Absurdism and Nihilism?
+### Asteroid City is Less Obnoxious About It, Though
 
 ![](./nihilists.png)
-
-Both absurdism and nihilism are philosophies centered around the idea that life is meaningless.
-
-The difference - as far as I understand it - is that absurdism allows for the idea that we can simply invent our own meaning. 
-
-I'd argue that House of Leaves is a nihilist work, and Asteroid City an absurdist one.
-
-### Asteroid City is Less Obnoxious About It, Though
 
 I mean, _less_ obnoxious. Not _zero_ obnoxious.
 
