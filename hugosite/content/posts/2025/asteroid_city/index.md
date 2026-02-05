@@ -120,12 +120,30 @@ These are the parallels I'm trying to draw between the two works.
 
 Asteroid City's a little kinder about where it ends up, though - while House of Leaves pitches that trying to understand the absurd and unknowable nature of reality will inevitably lead to obsession and madness, Asteroid City simply ends up at the softer "well, no use trying to figure it out, best just to go with it".
 
+### tl;dr
+
+House of Leaves is a story about a house that is an impossible mystery that will drive you mad trying to decipher it, in a book that is an impossible mystery that will drive you mad trying to decipher it, which is an allegory for death being an impossible mystery that will drive you mad trying to decipher it. 
+
+Asteroid City is a story about a meaningless asteroid that nobody understands, in a meaningless play that nobody understands, which is an allegory for life being a meaningless thing that nobody understands.
+
+### What is the difference between Absurdism and Nihilism?
+
+![](./nihilists.png)
+
+Both absurdism and nihilism are philosophies centered around the idea that life is meaningless.
+
+The difference - as far as I understand it - is that absurdism allows for the idea that we can simply invent our own meaning. 
+
+I'd argue that House of Leaves is a nihilist work, and Asteroid City an absurdist one.
+
 ### Asteroid City is Less Obnoxious About It, Though
 
 I mean, _less_ obnoxious. Not _zero_ obnoxious.
 
-Asteroid City is funny. House of Leaves examines its hollow absurdist core through an academic, horror, obsessive, mystery lens, whereas Asteroid City chooses wit, theatre, dumb camera tricks, and absurdly famous people delivering their lines like they're reading them for the first time off of a cue card.
+Asteroid City is funny. House of Leaves examines its hollow nihilist core through an academic, horror, obsessive, mystery lens, whereas Asteroid City chooses wit, theatre, dumb camera tricks, and absurdly famous people delivering their lines like they're reading them for the first time off of a cue card.
 
-It delivers its story in a tight hour and 45 with so much trademark Wes Anderson deadpan delivery and tight, symmetrical camerawork that it almost seems like he's becoming a caricature of himself.  It's like Tim Burton with black stripes, hollow-eyed waifs and Danny Elfman music.
+House of Leaves is about an absence of meaning: Asteroid City is about _processing_ an absence of meaning and ultimately trying to work through it. 
+
+It delivers its story in a tight hour and 45 with so much trademark Wes Anderson deadpan delivery and tight, symmetrical camerawork that it almost seems like he's becoming a caricature of himself. 
 
 But... I don't know, if you're going to have to slog through a shaggy dog story about the doomed quest for meaning, might as well do it in less than 2 hours and have Tom Hanks show up in it.
