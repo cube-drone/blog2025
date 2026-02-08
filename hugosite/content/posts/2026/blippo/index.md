@@ -14,7 +14,7 @@ images = ["blippo.jpg"]
 
 Oh, this is a weird one.
 
-Blippo+ is not a game, it's _interactive fiction_. It has a lot in common with [Hypnospace Outlaw](https://store.steampowered.com/app/844590/Hypnospace_Outlaw/) - but where Hypnospace Outlaw's goal is to capture the vibes of 90's internet:
+Blippo+ is not a game, it's _interactive fiction_. It has a lot in common with [Hypnospace Outlaw](/posts/2024/hypnospace_outlaw) - but where Hypnospace Outlaw's goal is to capture the vibes of 90's internet:
 
 ![](./hypno.jpg)
 
