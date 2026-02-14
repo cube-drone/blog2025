@@ -72,7 +72,7 @@ I watched a few installation YouTubes and quickly inferred that this would be we
 
 {{<imgwebp src="matrix_radio_3.jpg">}}
 
-Beauty. Now, when I turn on my car, this little computer boots up and automatically connects to my phone. Also, after swapping back to Android, I discovered that I like Android Auto more than I like Apple CarPlay. 
+Beauty. Now, when I turn on my car, this little computer boots up and automatically connects to my phone. By buying a high-end head unit, too, I have something that actually performs better than a lot of modern cars &mdash; it's fast and snappy. Hyundai didn't add _Wireless_ Android Auto/Apple CarPlay until a year _after_ I bought this unit.
 
 ## More Fun To Drive
 
@@ -100,7 +100,7 @@ And having resolved my **three issues**, my car was once again made new, and the
 
 ## The Car's Been Pricey Lately
 
-That was expensive, yeah, but the whole car glow-up amounted to about $3500, all in. In the past year, I've spent easily that much at the Toyota dealership on brakes, oil changes, tires, spark plugs... it turns out, keeping a 15-year old car healthy and happy can be an expensive proposal. I _should_ have a battery replacement coming up, soon, too - my first car battery gave out at year 7 and since I'm now at year 16, it's due.
+That was expensive, yeah, but the whole car glow-up amounted to about $3500, all in. In the past year, I've spent easily that much at the Toyota dealership on brakes, oil changes, tires, spark plugs... it turns out, keeping a 15-year old car healthy and happy can be an expensive project. I _should_ have a battery replacement coming up, soon, too - my first car battery gave out at year 7 and since I'm now at year 16, it's due.
 
 Now, _some_ of those things are still an expense on EVs - if anything, I imagine that tires are _more_ expensive on EVs on account of how heavy they are. Brakes would still be an expense, although I'm told regenerative braking adds a _lot_ of lifespan to the old mechanical brakes. Chances are, with an EV, I'd still be doing my twice-yearly tire rotations where they also do some filter swaps and liquid refills and charge me exorbitantly for the privilege to do that. 
 
