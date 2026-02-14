@@ -177,7 +177,7 @@ Also, there've been some cool developments in EVs!
 
 {{<imgwebp src="leaf.jpg">}}
 
-* The **Toyota BZ4X** got an updated 2026 model that has moved it from "easily one of the worst EVs on the market" to "8/10 pretty good, B+, solid car". Toyota's done a lot to earn brand loyalty with me, my sixteen years with the Matrix have been pretty trouble-free, and that comes off of a childhood of long-lasting, durable Corollas and Tercels: I might be willing to accept a slightly less flashy package because I legitimately _do_ trust the brand. 
+* The **Toyota BZ4X** got an updated 2026 model that has moved it from "easily one of the worst EVs on the market" to "8/10 pretty good, B+, solid car". Toyota's done a lot to earn brand loyalty with me, my sixteen years with the Matrix have been pretty trouble-free, and that comes off of a childhood of long-lasting, durable Corollas and Tercels. Toyotas are not enthusiast cars, they're boring and {{<sidenote practical>}}like me{{</sidenote>}}, and I am definitely willing to accept a slightly less flashy package because I genuinely _do_ trust them. Their plodding feature adoption is _hopefully_ born out of a conservative, quality-focused bent that hopefully speaks well for the longevity of their {{<sidenote cars>}}on the other hand, they launched the Mirai, so maybe they're just bad at this{{</sidenote>}}. 
 
 {{<imgwebp src="toyota.jpg">}}
 
