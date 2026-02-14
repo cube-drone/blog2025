@@ -173,7 +173,7 @@ So, actually, if you take advantage of this and lease a car for very cheap in th
 
 Also, there've been some cool developments in EVs!
 
-* The **Nissan Leaf** re-launched and is cheap, cheerful, and well-liked. I honestly _love the look_ of this friendly {{<sidenote boy>}}If not friend, why friend shaped?{{</sidenote>}}: 
+* The **Nissan Leaf** re-launched and is cheap, cheerful, and well-liked. It only has V2L on it's top trim level - which _isn't cheap_ - it has limited cargo space (10 cu ft less than the Matrix), and it's FWD (when AWD is widely accepted to be a borderline prerequisite for Canada), but... I honestly _love the look_ of this friendly {{<sidenote boy>}}If not friend, why friend shaped?{{</sidenote>}}: 
 
 {{<imgwebp src="leaf.jpg">}}
 
