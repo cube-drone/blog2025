@@ -139,8 +139,8 @@ Blippo+ and Hypnospace Outlaw, however, both came out _after_ A Normal Lost Phon
 
 ## Overall, a Verdict
 
-Ultimately I found this one kinda "meh" in the grand scheme of things. By virtue of simply being omnivorous in my media consumption and incredibly On The Internet, I've seen no small amount of 
-{{<sidenote inventive queer fiction>}}
+Ultimately I found this one kinda "meh" in the grand scheme of things. By virtue of simply being omnivorous in my media consumption and incredibly On The Internet, I've seen no small amount of inventive queer
+{{<sidenote fiction>}}
 pro tip: people who feel like outsiders make art under different constraints which is one way to get stuff that's so experimental, different and new that it ends up folded back into the wider culture by virtue of its obvious merits
 {{</sidenote>}}, and while this is certainly an innovative wrapper, the narrative contained within was _pretty mundane_ and at least a little bit unsatisfying. For a much weirder, darker, and more interesting story in this same vein, might I recommend [I Saw The TV Glow](https://en.wikipedia.org/wiki/I_Saw_the_TV_Glow)?
 
