@@ -2,8 +2,9 @@
 title = "We Are the Art"
 date = 2026-02-03T14:00:00-07:00
 draft = false
-categories = ["technology"]
-tags = ["ai"]
+categories = ["technology", "art"]
+tags = ["ai", "art as suffering", "death of the author", "homestuck", "j.k. rowling is a transphobe", "author function", "curating", "calvin & hobbes",
+"contrepreneurs", "brandon sanderson", "berserk", "marketing"]
 description = "an exploration into the meaning of art as LLMs are trying to eat the world"
 images = ["brando.png"]
 +++
