@@ -173,6 +173,8 @@ So, actually, if you take advantage of this and lease a car for very cheap in th
 
 Also, there've been some cool developments in EVs!
 
+* More and more EV's (including the Ioniqs) offer V2L (Vehicle to Load) features that allow you to use them as potent, long-lasting, powerful emergency generators.  
+* Post 2025, most cars ship with the NACS style charger, a new charger that's got a good shot at being the North American standard design going forward, meaning that if you buy a post-2025 EV, you're probably going to have the Right Plug for the next decade without having to fuss with adapters too much.
 * The **Nissan Leaf** re-launched and is cheap, cheerful, and well-liked. It only has V2L on it's top trim level - which _isn't cheap_ - it has limited cargo space (10 cu ft less than the Matrix), and it's FWD (when AWD is widely accepted to be a borderline prerequisite for Canada), but... I honestly _love the look_ of this friendly {{<sidenote boy>}}If not friend, why friend shaped?{{</sidenote>}}: 
 
 {{<imgwebp src="leaf.jpg">}}
@@ -188,8 +190,6 @@ SUVs are dumb, TEAM STATION WAGON REPRESENT.
 
 {{<imgwebp src="hatchback.jpg">}}
 
-* More and more EV's (including the Ioniqs) offer V2L (Vehicle to Load) features that allow you to use them as potent, long-lasting, powerful emergency generators.  
-* Post 2025, most cars ship with the NACS style charger, a new charger that's got a good shot at being the North American standard design going forward, meaning that if you buy a post-2025 EV, you're probably going to have the Right Plug for the next decade without having to fuss with adapters too much.
 * Tesla's CEO came out as fully fascist, which is driving attention away from his dogshit cars. Which is good, because I've _always disliked Telsas_ and the fact that they're no longer sucking all of the air out of the EV discussion with their "no buttons" and their "self-driving that doesn't work and costs $100/month" and their "too much software, not enough hardware" is, I think, pushing the industry in a less stupid direction overall.
 * [Slate](https://www.slate.auto/en) is trying to pitch to everyone a sub-$30K EV light truck with minimal features and a lot of customization. I don't love the Bezos connection or the fact that it's 🦅 AMERICAN 🦅, but that's the right pitch for me, at least. 
    * "People don't need a tablet computer built into their car when they already have a phone, they just need a place to put their phone."  Yes! Correct! 
