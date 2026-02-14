@@ -4,7 +4,7 @@ date = 2026-02-14T02:00:00-07:00
 draft = false
 categories = ["comics", "food", "art"]
 tags = ["art as suffering"]
-description = "let's dual boot linux and see how that goes in this the year of our lord 2026"
+description = "it's a comic about a demon who eats people: also the demon is kinda the good guy?"
 images = ["rare.png"]
 +++
 
