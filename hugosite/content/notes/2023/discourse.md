@@ -12,10 +12,6 @@ The internet needs a modern forum software, I think. It's good that this exists:
 
 Like, my Discourse site doesn't have a CDN set up. Because the CDN that I use, Cloudflare, one of the most common CDN platforms on the internet, isn't supported by Discourse. That's fine: I only have about 30 users, all of us in the Pacific Northwest, serving the whole site out of Wasabi object storage in Oregon is _perfectly fine_.  _but_ Discourse feels the need to pop up a notification _every single week_ letting me know that this is a critical error that I need to fix! **Let me live my life, Discourse.**
 
-{{< admonition type="tip" title="Editor's Note 2025" >}}
-I'm pleased to note that at some point in the past year, Discourse has stopped bothering me about this. Hallelujiah.
-{{< /admonition >}}
-
 I'm still weirded out by some of the ways they brand themselves and act. Discourse. A _civilized_ discussion platform. Who decided that their marketing should be dripping with, like, neo-colonial _derision_ for the way that people communicate online? That's _really baked in from the get-go, too_, all the way down to the name of the platform itself. "Discourse".
 
 🧐 Mmm, yes. Fetch me my tea, Willinglsley, it's time for a _civilized discussion_.
