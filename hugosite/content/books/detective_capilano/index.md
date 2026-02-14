@@ -1,4 +1,3 @@
-
 +++
 title = 'I Made... A Visual Novel? Really?'
 date = 2023-09-01T12:00:00-07:00
