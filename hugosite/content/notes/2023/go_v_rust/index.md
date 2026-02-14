@@ -48,11 +48,9 @@ Learning Rust is like learning Haskell, or, like, Esperanto, it's a mind-expandi
 
 Whereas learning Go is more like driving a manual transmission to the Staples so that you can send a fax to your doctor. You just spend the whole time going "fuck, it's 2023, I can't believe I still have to do this shit."
 
-{{< admonition >}}
-can you tell I'm a python/javascript developer
-
-LOOK, I'M FROM A SOFT UNIVERSE WHERE I CAN REPRESENT LITERALLY EVERYTHING IN MY LIFE AS TRANSFORMATIONS ON A LIST OF STRINGS
-{{< /admonition >}}
+> can you tell I'm a python/javascript developer
+> 
+> LOOK, I'M FROM A SOFT UNIVERSE WHERE I CAN REPRESENT LITERALLY EVERYTHING IN MY LIFE AS TRANSFORMATIONS ON A LIST OF STRINGS
 
 just wanna emphasize that one time I spent a whole afternoon reading about how one might attempt to build a linked list in Rust and I still don't understand how to build a linked list in Rust
 

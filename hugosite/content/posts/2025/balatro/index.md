@@ -1,16 +1,11 @@
 +++
 title = "too many words about balatro"
 date = 2025-06-06T11:00:00-07:00
-draft = false
+draft = true
 categories = ["video games"]
 tags = ["cards", "balatro"]
 description = "i just blither about balatro for a while, you can probably skip this one"
 +++
-
-{{< admonition type="warning" >}}
-Normally I try to keep my blog posts at least a little bit general-audience, but this is
-exclusively Balatro DEEP LORE which is only _maybe_ interesting to people who obsess over this game.
-{{< /admonition >}}
 
 okay, so, I hear on the _grapevine_ that Black Deck Gold Stake is the nastiest challenge in Balatro.
 

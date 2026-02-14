@@ -30,18 +30,12 @@ _why, if we could all simply have a vigorous discussion with a polite exchange o
 
 It is simultaneously the best or second-best available FOSS community communication product (in competition with Mastodon, even though they serve different purposes) and just awkward and frustrating and disappointing in so many little ways.
 
-{{< admonition type="tip" title="Editor's Note 2025" >}}
-I'm pleased to note that as of the most recent peek, they've completely removed the world "civilized" from their marketing materials. Consider this complaint _retracted_.
-{{< /admonition >}}
+> ## Editor's Note 2025
+> I'm pleased to note that as of the most recent peek, they've completely removed the world "civilized" from their marketing materials. Consider this complaint _retracted_.
 
-{{< admonition type="warning" title="Editor's Editor's Note 2025" >}}
-Actually, with both of the complaints of this article resolved, I'm not sure if I have anything else left to complain about.
-{{< /admonition >}}
-
-{{< admonition type="tip" title="Editor's Note 2025" >}}
-Well, they have started cramming in worthless AI features with wild abandon, I do hate that.
-{{< /admonition >}}
-
-{{< admonition type="warning" title="Editor's Editor's Note 2025" >}}
-Anyways: Discourse is pretty good I guess?
-{{< /admonition >}}
+> ## Editor's Editor's Note 2025
+> Actually, with both of the complaints of this article resolved, I'm not sure if I have anything else left to complain about.
+>
+> Well, they have started cramming in worthless AI features with wild abandon, I do hate that.
+> 
+> Anyways: Discourse is pretty good I guess?
