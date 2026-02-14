@@ -285,7 +285,7 @@ All of this makes me pretty sure: **It's not time yet**. The Matrix can make it 
 
 Maybe if my teenage nephew needs a solid, reliable car in the next couple of years and is willing to engage in an epic roadtrip to transport it from Vancouver to Toronto, that would be a good continuation in the tale of **John Matrix, The Heroic Chariot**. I have some friends with oldest children coming up on driving age, {{<sidenote too>}}he says, oldly{{</sidenote>}}...  
 
-But it might be, soon. In a couple of years, a lightly used 2026-2027 Hyundai hatchback with V2L, NACS and _whatever they've done to fix the ICCU issue? Or, heck, a Nissan Leaf or a Toyota BZ4X from _this year_, in a couple of years? 
+But it might be, soon. In a couple of years, a lightly used 2026-2027 Hyundai hatchback with V2L, NACS and _whatever they've done to fix the ICCU issue_? Or, heck, a Nissan Leaf or a Toyota BZ4X from _this year_, in a couple of years? 
 
 _seems pretty good_
 
