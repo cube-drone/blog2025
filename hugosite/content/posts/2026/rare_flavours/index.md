@@ -4,7 +4,7 @@ date = 2026-02-14T02:00:00-07:00
 draft = false
 categories = ["comics", "food", "art"]
 tags = ["art as suffering"]
-description = "it's a comic about a demon who eats people: also the demon is kinda the good guy?"
+description = "it's a comic about a demon who eats people: also the demon is maybe kinda the good guy?"
 images = ["rare.png"]
 +++
 
