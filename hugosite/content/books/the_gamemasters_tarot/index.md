@@ -33,4 +33,4 @@ and names that might be associated with that card in specific. A
 lot of these interpretations are also very broad: I’m not here to
 write your stories for you, just to give you some ideas to riff on.
 
-[Read The Whole Book, Here](https://groovelet.com/The_Gamemasters_Tarot_2025_Major_Only.pdf)
+[Read The Whole Book, Here](https://books.cube-drone.com/The_Gamemasters_Tarot_2025_Major_Only.pdf)

@@ -33,4 +33,4 @@ with another Groovelet on the opposite side of the wheel.
 Cycle all together into one short, easy-to-read document.
 >
 
-[Read The Full Book Here](https://groovelet.com/gpm-book/)
+[Read The Full Book Here](https://books.cube-drone.com/gpm-book/)
