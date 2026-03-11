@@ -20,7 +20,10 @@ Like most of the things in my life, a lot of my major decisions are powered by w
 > 
 > No, customers aren't laughing either as pressure from memory shortages bites
 
-Hetzner have for a long time been the cheapest game in town when it comes to server hosting. They're still probably in the running, but this forced me to contend with how much I pay to keep the marquee.click server running - 29.99€/mo for a VPS doesn't _seem_ like a lot, but paired with a few other services (like the 4.50€/mo grafana/logs stack that I never bother to actually look at) and with the usually poor state of the Canadian dollar, I'm still paying over fitty dollars a month for hosting. With the new price increases I'm going to be staring down the barrel of $80 CAD/mo in hosting fees! 
+Hetzner have for a long time been the cheapest game in town when it comes to server hosting. They're still probably in the running, but this forced me to contend with how much I pay to keep my various personal services running on a medium-sized VPS - 29.99€ per month for a VPS doesn't _seem_ like a lot, but paired with a few other services (like the 4.50€ a month grafana/logs stack that I never bother to actually look at) and with the usually poor state of the Canadian dollar, I'm still paying too much for hosting. With the new price increases I'm going to be staring down the barrel of over a hundred Canadian dollars a month in hosting fees! 
+
+I could scale back my VPS a little bit - do I really _need_ a medium-sized VPS? I could probably stand to downsize a little - but I like to have that headroom for Personal Projects, 
+and I run a lot of experiments from there. 
 
 Just like I had the "why not move my main computer over to linux" itch a few months ago, I've been _waiting_ for my house to have fiber internet to consider the rollout of a _home lab_. 
 
@@ -621,12 +624,13 @@ What a horrible walk down memory lane, for stuff like:
 * [ministry.cardchapter.com](https://ministry.cardchapter.com), a second crack at the cardchapter idea that calls for rust compilation and a separate, github-tracked "content" directory.
 * [books.cube-drone.com/](https://books.cube-drone.com/), where most of the books are generated in subtly different ways (I've settled on _mostly_ Rust's `mdbook` for now, but the diagrams work slightly differently in each of the projects)
 * [concrete.tube](https://concrete.tube), a tiny little social network I built for a friend exclusively to manage a _single form for their company_, which they haven't actually tried to use, yet. (I'm happy I built this because I hope to use the code as a base for More Projects, like maybe Cardchapter 3 or Groovelet 2)
+* [radio.marquee.click](https://radio.marquee.click), my personal playlist, which - okay, so, I wanted to be able to stream my whole music library from anywhere, but I also wanted much more intelligent playlist management? so this uses `liquidsoap` and `icecast` to provide a feature that I actually badly need, _probabilistic weighting of songs by category_. Like - you know how, if you like Micheal Jackson a _little bit_, but if you grab his discography and include it in your playlist to get more exposure to his music, the sheer _size_ of his discography means that the chance of a Michael Jackson song coming up is very high, even though you only wanted a little bit of Micheal Jackson? Well, with `liquidsoap` you can solve that by giving a "Micheal Jackson" bucket equal weight to, say, your "Madonna" bucket, while giving much higher weight to your "Daft Punk" and "Caravan Palace" and "Gorillaz" buckets. As a complete fucking nerd I have become hopelessly addicted to this level of _playlist control_, and baking it in to a radio station that I can't interact with keeps me from fussing with it too much, idly clicking "next song" forever until the perfect song comes up.  
 
-In fact, now that I've got a home-lab and computing is _cheap as chips, comparatively_, I might even consider recovering some of my older projects and popping turning them back on again under cube-drone subdomains, like "groovelet 1", the insanely abstract and _weird_ single-player real-time MMO card game. ("That doesn't make sense, how is it both single player and a real-time MMO?"  good question, I never ever resolved _why_ this needed to be a live web service, that's just how I built it.)
+In fact, now that I've got a home-lab and computing is _cheap as chips, comparatively_, I might even consider recovering some of my older projects and popping turning them back on again under cube-drone subdomains, like "groovelet 1", the insanely abstract and _weird_ single-player real-time MMO card {{<sidenote game>}} "That doesn't make sense, how is it both single player and a real-time MMO?"  good question, I never ever resolved _why_ this needed to be a live web service, that's just how I built it. {{</sidenote>}}
 
 # Why "Scratch" and "Sovereign"? 
 
-Oh, I'll explain this in a [whole new post](../be_sharps_naming/)
+Oh, I'll explain this in a [whole other post](../be_sharps_naming/).
 
 ## Anyways, It's Done
 
