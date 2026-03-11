@@ -109,9 +109,11 @@ So, local providers tend to be... let's say "{{<sidenote boutique>}}
 rather than what I'm actually thinking, "some guys operating out of a garage somewhere, using mostly Java and PHP". There's a _reason_ why I haven't touched the local tech industry for goin' on 15 years, now.  
 {{</sidenote>}}". 
 
+![](./canhost.png)
+
 A co-worker recommended these guys, ( https://www.canhost.ca/ ) with the caveat that _if you want a server, you literally have to wait for a human being to provision it_.
 
-![](./canhost.png)
+![](./peasant.png)
 
 Their cheapest VPS is still going to run me $15CAD/mo, which is $5/mo more expensive than Hetzner's equivalent, even _after_ the Hetzner price increase, but being as this is the only server I'll be running, I'm willing to accept this _for King and Country_.  
 
