@@ -62,11 +62,14 @@ By and large, these are headwinds against self-hosting, but I have ideas to deal
 
 ## Fixing Latency & Bandwidth: Home Fiber
 
-Thanks to an ongoing rollout of fairly solid fiber from local internet providers, I'm able to get a pretty solid home internet connection.
+I have [fiber](https://cube-drone.com/notes/2026/vegetables/) now, next question.
+
 
 ## Fixing Dynamic DNS and Port Blocking: I'll Pay For Just The One VPS 
 
-With modern CDN - DNS proxy services like Cloudflare and BunnyCDN that can keep your DNS up-to-date in seconds rather than hours (_if you're not using one of these, you're mad, it takes DNS from frustrating to legitimately useful_) - with one of these, a pretty coherent dynamic DNS strategy _could_ be concocted, buuuuut...
+With modern Content Delivery Network DNS proxy services like Cloudflare and BunnyCDN that can keep your DNS up-to-date in seconds rather than {{<sidenote hours>}}
+ if you're not using one of these, you're mad, it takes DNS from frustrating to legitimately useful
+{{</sidenote>}}, you could concoct a pretty coherent dynamic DNS strategy... but...
 
 ... I have a different idea. Let's keep _just the one VPS server running_. 
 
@@ -111,6 +114,10 @@ A co-worker recommended these guys, ( https://www.canhost.ca/ ) with the caveat 
 Their cheapest VPS is still going to run me $15CAD/mo, which is $5/mo more expensive than Hetzner's equivalent, even _after_ the Hetzner price increase, but being as this is the only server I'll be running, I'm willing to accept this _for King and Country_.  
 
 OKAY I GUESS.
+
+They also [install a non-standard firewall on their VPS servers on deploy](https://github.com/Aetherinox/csf-firewall), which is something they don't document or explain as part of their server onboarding, which I discovered... pretty quickly. What is this cPanel-era bullshit?  
+
+![](./peasant.png)
 
 Actually having a human in the loop, while a little old-fashioned, ain't so bad. I had a question, they resolved the ticket quickly and professionally. It might keep me from standing up a VPS on a whim at 2AM as I often do, though, but the Home Lab is supposed to discourage that anyways. 
 
