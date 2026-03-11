@@ -115,13 +115,16 @@ A co-worker recommended these guys, ( https://www.canhost.ca/ ) with the caveat 
 
 ![](./peasant.png)
 
+
 Their cheapest VPS is still going to run me $15CAD/mo, which is $5/mo more expensive than Hetzner's equivalent, even _after_ the Hetzner price increase, but being as this is the only server I'll be running, I'm willing to accept this _for King and Country_.  
 
 OKAY I GUESS.
 
 They also [install a non-standard firewall on their VPS servers on deploy](https://github.com/Aetherinox/csf-firewall), which is something they don't document or explain as part of their server onboarding, which I discovered... pretty quickly. What is this cPanel-era bullshit?  
 
-![](./peasant.png)
+> ![](./peasant.png)
+>
+> i'm not above making the same joke twice
 
 Actually having a human in the loop, while a little old-fashioned, ain't so bad. I had a question, they resolved the ticket quickly and professionally. It might keep me from standing up a VPS on a whim at 2AM as I often do, though, but the Home Lab is supposed to discourage that anyways. 
 
