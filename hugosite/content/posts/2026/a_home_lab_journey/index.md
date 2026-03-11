@@ -105,7 +105,9 @@ If the server and the _my house_ are both near to one another, there's less late
 
 Hosting in Vancouver seems like a fool's errand - our cheap electricity can not outweigh the problems of local hosting: we do not have ready access to high bandwidth, cheap real estate or high-end computer equipment, compared to even Seattle.
 
-So, local providers tend to be... let's say "boutique" rather than what I'm actually thinking, "some guys operating out of a garage somewhere, using mostly Java and PHP". There's a _reason_ why I haven't touched the local tech industry for goin' on 15 years, now.  
+So, local providers tend to be... let's say "{{<sidenote boutique>}}
+rather than what I'm actually thinking, "some guys operating out of a garage somewhere, using mostly Java and PHP". There's a _reason_ why I haven't touched the local tech industry for goin' on 15 years, now.  
+{{</sidenote>}}". 
 
 A co-worker recommended these guys, ( https://www.canhost.ca/ ) with the caveat that _if you want a server, you literally have to wait for a human being to provision it_.
 
