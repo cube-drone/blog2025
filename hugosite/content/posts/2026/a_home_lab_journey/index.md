@@ -620,6 +620,7 @@ I have never once maintained the same tech stack and deployment strategy for two
 What a horrible walk down memory lane, for stuff like:
 
 * This website, which is ... mostly just Hugo with a lightly modified theme.
+* [gooble.email](https://gooble.email) is a personal wildcard email forwarding service I set up so that I can give people absolutely insane sounding email addresses whenever I please. Yes, that's `gooble.dot.dotat@gooble.email` I can say, out loud, to another human being. 
 * [cardchapter.com](https://cardchapter.com/#root), which is a multi-planar presentation/storytelling technology that runs entirely from the browser and just needs to be served as-is out of github.
 * [ministry.cardchapter.com](https://ministry.cardchapter.com), a second crack at the cardchapter idea that calls for rust compilation and a separate, github-tracked "content" directory.
 * [books.cube-drone.com/](https://books.cube-drone.com/), where most of the books are generated in subtly different ways (I've settled on _mostly_ Rust's `mdbook` for now, but the diagrams work slightly differently in each of the projects)
