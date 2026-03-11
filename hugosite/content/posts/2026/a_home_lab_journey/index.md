@@ -98,7 +98,7 @@ This mostly worked, but I will note that debugging WireGuard problems turned out
 
 If I'm only paying for one computer, I could consider paying the exorbitant price to host a server... _gads_ - locally?
 
-By "locally" I mean "in my city, the city I live in, [Vancouver](/tags/vancouver), [Canada](/tags/canada)".
+By "locally" I mean "in my city, the city I live in, [Vancouver](/tags/vancouver), [Canada](/categories/canada)".
 
 I mean, it'll help to eat some of the time lost to that second-hop to my house. 
 If the server and the _my house_ are both near to one another, there's less latency - plus, _the 7 people who actually interact with my sites most often_ are probably in or near Vancouver. 
