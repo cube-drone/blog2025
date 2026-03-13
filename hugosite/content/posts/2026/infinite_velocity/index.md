@@ -1,6 +1,6 @@
 +++
 title = "Infinite Velocity"
-date = 2026-03-12T13:00:00-07:00
+date = 2026-03-13T03:00:00-07:00
 draft = false
 categories = ["software"]
 tags = ["ai"]
