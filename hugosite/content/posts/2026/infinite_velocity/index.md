@@ -202,7 +202,7 @@ If you're reading something I wrote, _I wrote it_. I thought about it. The words
 
 Seeing generative content from a human quickly breaches _their_ trust thermocline. If they didn't care enough to write this, should you care enough to read it? 
 
-I'm _careful_ about how I use LLMs because I don't want to breach my own _personal_ trust thermocline. I have a brand, too. Work that comes from me has met a real - admittedly _low_ - but a **real** quality bar.   
+I'm _careful_ about how I use LLMs because I have a brand, too. Work that comes from me has met a real - admittedly _low_ - but a **real** quality bar.   
 
 ## Rules Won't Save Us
 
