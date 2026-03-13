@@ -264,7 +264,7 @@ The next time, we will build it a little bit more carefully.
 
 ## Maybe Being Forced To Prioritize and Plan Was Secretly A Good Thing All Along
 
-That's right, I'm putting my career at risk by advancing the theory that _maybe too much velocity... bad?_ 
+That's right, I'm advancing the theory that _maybe too much velocity... bad?_ 
 
 You're familiar with the idea that constraints breed creativity, yes? I believe that may also apply in the larger sense, that constraints on _productivity_ may also need, in some sense, to exist. 
 
