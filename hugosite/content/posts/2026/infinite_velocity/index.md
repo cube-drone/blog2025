@@ -125,9 +125,11 @@ At my work, I have occasionally pitched a philosophy of something I call **joy-d
 
 Building something neat is an antidote for burnout.
 
-Maybe by being _weird_ and _sloppy_ and _human_ you ended up building [The Metaverse People Actually Like](https://www.youtube.com/watch?v=4PHT-zBxKQQ), rather than going to market with the _blandest, most broadly appealing product ever conceived.
+Maybe by being _weird_ and _sloppy_ and _human_ you ended up building [The Metaverse People Actually Like](https://www.youtube.com/watch?v=4PHT-zBxKQQ), rather than going to market with the _blandest, most broadly appealing product ever conceived_.
 
-![](./metahorizon.png)
+> ![](./metahorizon.png)
+>
+> i don't know how this picture got here it definitely isn't related to what I'm saying
 
 I _tolerate_ code reviews. I certainly don't relish the idea of doing way, way, _way_ more of them.
 
