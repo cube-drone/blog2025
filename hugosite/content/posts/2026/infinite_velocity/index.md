@@ -269,3 +269,15 @@ That's right, I'm advancing the theory that _maybe too much velocity... bad?_
 You're familiar with the idea that constraints breed creativity, yes? I believe that may also apply in the larger sense, that constraints on _productivity_ may also need, in some sense, to exist. 
 
 Velocity exists in contrast with care, with thoughtfulness, with taste, with _craft_. As professionals, we're expected to balance these things - to take shortcuts when necessary, but ultimately to be meaningfully engaged in the act of creation. 
+
+---------------------------------------------------
+
+## Editor's Note: Warning!
+
+I've been thinking about this article for a few more days. 
+
+The idea that "too much velocity can be bad" - while I think _extremely defensible_ - is a slippery slope argument that has at its heart a conservative, reactionary core that needs to be examined and _itself can't be trusted_. 
+
+What bothers me about _this particular_ argument is that, with some modification, could be portably carried from LLMs and applied to _the mechanical {{<sidenote loom>}}"your argument is invalid, it's also true for looms"{{</sidenote>}}_. The idea that speed needs to be balanced with care and quality, that we have to constantly make advancements in _all three_ is **not new**. 
+
+The observation that LLMs appear to be advancing _speed_ but not _quality_ or _design intentionality_ may simply demand further advancements in _quality_ and _design intentionality_. Look forward to a lot more Rust code and creative ways to experiment on and measure user trust and happiness in the coming years. 
