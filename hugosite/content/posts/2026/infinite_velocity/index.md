@@ -274,10 +274,12 @@ Velocity exists in contrast with care, with thoughtfulness, with taste, with _cr
 
 ## Editor's Note: Warning!
 
+{{<imgwebp src="ludd.png">}}
+
 I've been thinking about this article for a few more days. 
 
 The idea that "too much velocity can be bad" - while I think _extremely defensible_ - is a slippery slope argument that has at its heart a conservative, reactionary core that needs to be examined and _itself can't be trusted_. 
 
 What bothers me about _this particular_ argument is that, with some modification, could be portably carried from LLMs and applied to _the mechanical {{<sidenote loom>}}"your argument is invalid, it's also true for looms"{{</sidenote>}}_. The idea that speed needs to be balanced with care and quality, that we have to constantly make advancements in _all three_ is **not new**. 
 
-The observation that LLMs appear to be advancing _speed_ but not _quality_ or _design intentionality_ may simply demand further advancements in _quality_ and _design intentionality_. Look forward to a lot more Rust code and creative ways to experiment on and measure user trust and happiness in the coming years. 
+The observation that LLMs appear to be advancing _speed_ but not _quality_ or _design intentionality_ may simply demand further advancements in _quality_ and _design intentionality_. Look forward to a lot more Rust code and creative ways to experiment on users without harming trust in the coming years. 
