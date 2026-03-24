@@ -3,7 +3,7 @@ title = "Cybergamer"
 date = 2026-02-12T12:00:00-07:00
 draft = false
 categories = ["video games", "art"]
-tags = ["blippo", "epistolary", "retro video games", "90s", "nostalgia"]
+tags = ["blippo", "epistolary", "retro video games", "90s", "nostalgia", "cybergamer"]
 description = "_my_ interactive fiction takes another step forward"
 images = ["cyber.png"]
 +++
