@@ -35,9 +35,9 @@ Okay, so, one of the things that PC Magazines of the era used to come with was a
 
 This seems like fun? It seems like a fun thing to try and replicate.
 
-One of my co-workers, Ticky, has been running [a twitch channel](https://www.twitch.tv/ticky_d) where she goes through 00's era computer magazines, _specifically their software_. This is a fun and interesting project. 
+One of my co-workers, Ticky, has been running [a twitch channel](https://www.twitch.tv/ticky_d) where she goes through early-00's era computer magazines, _specifically their software_. This is a fun and interesting project. 
 
-So, the idea that stuck in my head as the most deadass-simple bargain-basement stupid fucking thing that I could possibly build: A Bill Clinton Playing The Saxophone screensaver. 
+So, the idea that stuck in my head as the most deadass-simple bargain-basement stupid fucking thing that I could possibly build for my 1995 magazine: A Bill Clinton Playing The Saxophone animated screensaver.
 
 ## Well That Sounds Very Easy
 Somehow it took my entire weekend. This is because
