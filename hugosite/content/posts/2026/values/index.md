@@ -80,7 +80,7 @@ I'm seriously considering baking these in as the attributes in an exciting new c
 
 "That's a fail, you didn't demonstrate stakeholder alignment. Take 4 wiki damage."
 
-Anything that falls into these categories is **table stakes**. There aren't a lot of companies out there pitching that we should _fail at tasks, alone, bring no new ideas to the table, and then lie about it_.  
+Anything that falls into these categories is **table stakes**. There aren't a lot of companies out there pitching that we should _fail at tasks, alone, bring no new ideas to the table, and then lie about {{<sidenote it>}}a friend of mine responded to this by gesturing at the current US administration and pointing out how obvious it is that I'm not currently in the United States{{</sidenote>}}_.  
 
 If you can not imagine a company intentionally adopting the opposite of a value, it is not a real distinctive value: it is a baseline human expectation. "Honesty", "quality", "customer service", this is all just what we're supposed to do.  
 
