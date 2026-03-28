@@ -199,4 +199,4 @@ Company values aren't what a company _says in the handbook_. They're what they r
 
 The values are accreted over years, decades, they're often fractious - a patchwork of the ideals and values of the people who are influential, a constantly moving and evolving target. Some of them change on a dime, or with new leadership, some of them are so deeply held and intuitively understood that if a new person inadvertently breaks one of them in an all-hands the whole company will be quietly shocked for weeks afterwards.
 
-STOP DOING VALUES. Start _having_ them.
+STOP DOING VALUES. Start _having_ {{<sidenote them>}}Does this line kinda feel like an LLM wrote it? _I definitely wrote it_, I thought it was a good button for the article. It just kinda gives off that Machine vibe. Consider reworking.{{</sidenote>}}.
