@@ -4,7 +4,7 @@ date = 2026-03-27T12:00:00-07:00
 draft = false
 categories = ["work work", "humor"]
 tags = ["values", "corporate"]
-description = ""
+description = "i'm sure you've memorized all 18 Values in your company handbook"
 images = ["values1.png"]
 +++
 
