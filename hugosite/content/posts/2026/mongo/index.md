@@ -398,7 +398,7 @@ really powerful language for extracting report data.
 ### User Bucketing Is Broadly Applicable
 
 Do you know an absurdly common pattern? It's "bucketing by userId". It turns out, the most common relationship 
-in most systems is "who owns this thing?". It's kind of how systems like S3 work: under the hood: 
+in most systems is "who owns this thing?". It's kind of how systems like S3 work under the hood: 
 large distributed systems run across a lot of servers, but you're only going to be talking to the set responsible for your
 files, most of the time.
 

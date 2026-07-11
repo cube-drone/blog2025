@@ -26,7 +26,7 @@ I've been railing against Myers Briggs and astrology for decades. Pointless lead
 
 {{<imgwebp src="sociopath.png">}}
 
-(I promise, I got [marginally better at drawing](comics.cube-drone.com) over time.)
+(I promise, I got [marginally better at drawing](https://comics.cube-drone.com) over time.)
 
 I **hate** Myers Briggs.
 
