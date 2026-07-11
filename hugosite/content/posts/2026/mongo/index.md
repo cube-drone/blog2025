@@ -463,7 +463,7 @@ incredibly fast at the thing they need to be incredibly fast at: managing indivi
 
 Sometimes models like this force you to think through your access patterns in advance: denormalizing items when the items themselves
 change frequently would be a disaster: each write multiplied by every copy of the item that exists in the system: and 
-a SQL architecture would trade the excellent read performance and abysmal write performance of this scheme 
+a SQL architecture would trade the excellent per-user read/write performance and abysmal template write performance of this scheme 
 for "pretty good" performance across both. 
 
 In fact: normalized SQL just... does a pretty good job, most of the time, without a lot of complex tradeoffs.
