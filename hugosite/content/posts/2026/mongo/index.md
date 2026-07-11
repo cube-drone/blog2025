@@ -433,8 +433,9 @@ hook for planning and executing your database's migration to a new, bigger topol
 
 Sometimes a little bit of denormalization can give you great big powers.
 
-Okay, I'm going to share with you some details of how we manage user Inventories at VRChat, because it's a design I am
-legitimately a little bit proud of, even if you're going to think I'm crazy:
+Okay, I'm going to share with you some details of how I designed user Inventories at Popular Online Video Game 
+What I Work For, because it's a design I am legitimately a little bit proud of, even if you're going to 
+think I'm crazy:
 
 User Inventories seem like they're relational data, right?
 
