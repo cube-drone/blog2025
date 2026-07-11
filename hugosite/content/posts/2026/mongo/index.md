@@ -449,7 +449,8 @@ And every single item is a copy of an underlying "Template". There might be 10,0
 object, copied from the singular "Hat X" Template. That also means, we can tie per-hat state to Hats - your Hat X can be red, 
 and mine can be blue, and that's fine- they're different Hats.  
 
-This makes reads, writes, and sorts within a user inventory incredibly fast, and eternally scalable.
+This makes reads, writes, and sorts within a user inventory incredibly fast, and eternally scalable. Every user's inventory
+could theoretically be running on a completely different database node: that would be fine. 
 
 But - when you change Hat X - maybe, renaming it to Hat Y - you might have to do 10,000 writes! 
 
